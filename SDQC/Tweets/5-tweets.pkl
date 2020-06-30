@@ -1,0 +1,6552 @@
+(lp0
+(lp1
+(lp2
+V500295393301647360
+p3
+aS'The other day I asked a manager at the Ferguson Market if police had requested surveillance video. She said no.'
+p4
+aI0
+aa(lp5
+V500308254946516992
+p6
+aS' Who are you to expect any type of answer in the first place?'
+p7
+aI0
+aa(lp8
+V500309126438612994
+p9
+aS" a person who makes his living asking questions, that's who."
+p10
+aI1
+aa(lp11
+V500305055351070722
+p12
+aS'  SIGN AND SHARE  Ferguson JusticeForMikeBrown'
+p13
+aI0
+aa(lp14
+V500316749317697536
+p15
+aS"  it wasn't the quik stop that got burned down?"
+p16
+aI0
+aa(lp17
+V500317948393701376
+p18
+aS".  I've been in Ferguson Market and it looks exactly like where the alleged robber was standing."
+p19
+aI4
+aa(lp20
+V500318081617367040
+p21
+aS'  thanks. Now we need a pic of what michael brown was wearing to refute the video.'
+p22
+aI5
+aaa(lp23
+(lp24
+V500394061887709184
+p25
+aS"The press conf makes Ferguson PD look like they've gone from stonewalling to counter punching. We give up a name, we drag his thru the mud."
+p26
+aI0
+aa(lp27
+V500404371608571905
+p28
+aS'damn surveillance video  We give up a name, we drag his thru the mud. '
+p29
+aI0
+aa(lp30
+V500408940727762944
+p31
+aS" People may not like it. but it's devastating for prosecuting the cop. If true, can be argued Brown thought the cop was after him ."
+p32
+aI0
+aa(lp33
+V500404284219879424
+p34
+aS' SAY IT AGAIN!!!! oh nevermind, I can just RT it ;-)'
+p35
+aI0
+aa(lp36
+V500402881737289728
+p37
+aS'  Since they want to label MikeBrown as a shoplifter, since when is that crime punishable by DEATH?'
+p38
+aI0
+aa(lp39
+V500410061974290433
+p40
+aS"Not sure 'shoot first &amp; uncover potential crime later' is viable policy outside the fevered mind of a conservative   "
+p41
+aI4
+aa(lp42
+V500411534065950721
+p43
+aS"    Early reports said the store had not reported a robbery?? The people in the store don't look alarmed."
+p44
+aI5
+aa(lp45
+V500412111369949184
+p46
+aS"The point is, the cop didn't know about a robbery. He executed a jaywalker resisting being detained    "
+p47
+aI6
+aa(lp48
+V500412280027500544
+p49
+aS'    EXACTLY!! Since when is jaywalking punishable by DEATH?'
+p50
+aI7
+aa(lp51
+V500411922878328832
+p52
+aS'    From what I saw it was nothing but a petty theft. Let the RT Wing tell it, he went in with a GLOCK'
+p53
+aI6
+aa(lp54
+V500410466213318656
+p55
+aS'   AMEN to that!! They would say "LOOK! HE PUSHED THAT STORE CLERK!!.. is that punishable by DEATH?'
+p56
+aI5
+aa(lp57
+V500403075748618240
+p58
+aS'  I bet if Michael Brown had his druthers, hed rather have his name dragged thru the mud than his life snuffed out.'
+p59
+aI0
+aa(lp60
+V500409234886889473
+p61
+aS' The first goal is to get a conviction so he can never be a cop again.'
+p62
+aI0
+aa(lp63
+V500394434438389760
+p64
+aS' Makes them look inept as well.'
+p65
+aI0
+aa(lp66
+V500397151739215872
+p67
+aS' I would rather be a robber than being a ColdBloodedMurderer JusticeForMikeBrown Now'
+p68
+aI0
+aa(lp69
+V500409149977407489
+p70
+aS' Prosecution screwed up the Martin/Zimmerman case by over-charging and if emotions guide, over charging will let this cop walk too.'
+p71
+aI0
+aaa(lp72
+(lp73
+V500363740311982081
+p74
+aS"What's so frustrating is that now we are talking about a robbery and not the killing of an unarmed kid. ferguson"
+p75
+aI0
+aa(lp76
+V500365432902393859
+p77
+aS' so quit talking about a robbery, stick to the subject'
+p78
+aI0
+aa(lp79
+V500364600668602369
+p80
+aS' We would rather talk about anything other than a white police officer murdering an unarmed black kid. Ferguson'
+p81
+aI0
+aa(lp82
+V500364949215256577
+p83
+aS' &amp; that a jaywalking incidence lead to a dead 18 y/o is beyond all understanding.'
+p84
+aI0
+aa(lp85
+V500363869081337856
+p86
+aS' smdh. This is ridiculous.'
+p87
+aI0
+aa(lp88
+V500365784757968898
+p89
+aS' bring up the  story about the whistleblower n "Black Day" spks to racial attitude in dept .'
+p90
+aI0
+aa(lp91
+V500363997779361792
+p92
+aS' That is probably the whole point of releasing the video. Very sad/devious.'
+p93
+aI0
+aa(lp94
+V500364933864103937
+p95
+aS' why not wait for the investigation &amp; try your best to be objective.'
+p96
+aI0
+aa(lp97
+V500366091659784192
+p98
+aS'  You\'re CHOOSING to talk about a "robbery" based on a tape that only shows a confrontation not a crime. So stop!'
+p99
+aI0
+aa(lp100
+V500396711127154688
+p101
+aS"  Classic deflection and character assassination to cover up a crime.\nUntil a court finds guilty, he's innocent!"
+p102
+aI0
+aa(lp103
+V500370900513202176
+p104
+aS' Sadly, that was the intention. Misdirection. Ferguson'
+p105
+aI0
+aa(lp106
+V500365021965455360
+p107
+aS" agreed - but it can't be ignored"
+p108
+aI0
+aa(lp109
+V500369014195896320
+p110
+aS" What's more frustrating even than that is that this is exactly why they did it that way, and everyone is falling for it."
+p111
+aI0
+aa(lp112
+V500368681806073856
+p113
+aS' This is exactly what the Ferguson PD &amp; their PR machine want-focus off their indefensible behavior.'
+p114
+aI0
+aa(lp115
+V500387022318874624
+p116
+aS" I'm not talking abt the robbery. Reasonable people know that stealing cigars isn't justification 4 execution DONTSHOOT"
+p117
+aI0
+aa(lp118
+V500373718464757760
+p119
+aS" THOMASJACKSONMUSTGO needs to TRENDNOW  FERGUSON Brown family says, DEVIANT OUTRAGED They're right"
+p120
+aI0
+aa(lp121
+V500368855051804672
+p122
+aS' exactly.'
+p123
+aI0
+aa(lp124
+V500391119566282753
+p125
+aS' criminalizing black people, the most effective distraction tactic in American history... :('
+p126
+aI0
+aa(lp127
+V500366118234882048
+p128
+aS'     THAT WAS THEIR PLAN &amp; ITS WORKING WITH THE SHEEP!!'
+p129
+aI0
+aa(lp130
+V500368731764424704
+p131
+aS' Not surprising. MichaelBrown'
+p132
+aI0
+aaa(lp133
+(lp134
+V500288349924782080
+p135
+aS'Did anyone think of comparing the clothes that MikeBrown was wearing when he was laying on the street to the security footage? Ferguson'
+p136
+aI0
+aa(lp137
+V500288465355816960
+p138
+aS' Yeah.  just did on CNN.'
+p139
+aI0
+aa(lp140
+V500289001446588417
+p141
+aS' yes hat and sandals vs no hat and tennis shoes'
+p142
+aI0
+aa(lp143
+V500289655829712896
+p144
+aS'   I thought the same thing.'
+p145
+aI2
+aa(lp146
+V500289931097296897
+p147
+aS' no, because that would require reasoning and then if reasoning is applied, no one can be shot. Shoot now, reason later.'
+p148
+aI0
+aa(lp149
+V500288555600871424
+p150
+aS' had the same flip flops on.'
+p151
+aI0
+aa(lp152
+V500288663931334656
+p153
+aS"It's a good thing u went to detective school....wat would the cops do w/o u? "
+p154
+aI0
+aa(lp155
+V500294596707254272
+p156
+aS'Identical but irrelevant RT  Did anyone think of comparing the clothes that MikeBrown was wearing to the security footage?'
+p157
+aI0
+aa(lp158
+V500289400572768257
+p159
+aS".  yes. They don't match. Flip flops + hat in store. Shoes + no hat in final pic."
+p160
+aI0
+aa(lp161
+V500298046882988032
+p162
+aS' Did anyone think that, holy balls, he was old enough to know how to change his clothes?'
+p163
+aI0
+aa(lp164
+V500289681062248451
+p165
+aS' '
+p166
+aI0
+aa(lp167
+V500290573182730240
+p168
+aS"  is it me, or the dude in the security cam photos is bald? Mike Brown isn't bald i dont belive"
+p169
+aI10
+aa(lp170
+V500290674957504513
+p171
+aS"  it's not him lmao the store owners already said so"
+p172
+aI11
+aa(lp173
+V500290845166542850
+p174
+aS'  my God  sucks'
+p175
+aI12
+aaa(lp176
+(lp177
+V500298752469770240
+p178
+aS'Shoot unarmed kid.\nConceal evidence.\nImpose martial law.\nHarass reporters.\nSmear the victim.\nWorst. Police. Ever.\nFerguson MikeBrown'
+p179
+aI0
+aa(lp180
+V500321978373656577
+p181
+aS" Or, for all we know, it's standard practice."
+p182
+aI0
+aa(lp183
+V500310561994047488
+p184
+aS'.  "Kid".  He was just a harmless little baby, just got out of kindergarten...'
+p185
+aI0
+aa(lp186
+V500322402656878592
+p187
+aS'  18 is young in absolute terms, an adult legally speaking.  But why pick that out of all that to respond to?'
+p188
+aI2
+aa(lp189
+V500322663823589376
+p190
+aS'.  B/c that\'s the obvious lie. Everything else theoretically could\'ve happened. But 6\'4, 290 pound man is no "kid".'
+p191
+aI3
+aa(lp192
+V500323069836410880
+p193
+aS"  17 is a minor, 18's an adult.  Being big has no relevance."
+p194
+aI4
+aa(lp195
+V500323219556298753
+p196
+aS"  Yeah, tell that to the 300 pound 6'4 dude who confronts you versus a 140 pound 5'2 30 yr old."
+p197
+aI5
+aa(lp198
+V500323874140323840
+p199
+aS" all eyewitnesses we've heard from say the cop dragged MB towards his car through his window.  The cop initiated."
+p200
+aI6
+aa(lp201
+V500324239652958208
+p202
+aS" Yes, let's have an investigation. But you think someone can drag that guy anywhere, let alone a window?  Nah."
+p203
+aI7
+aa(lp204
+V500387816015007744
+p205
+aS"   It's fine if you don't care about this one black kid. But don't you care about due process?!"
+p206
+aI4
+aa(lp207
+V500442407830581248
+p208
+aS'.   Why do you start your question with a lie?'
+p209
+aI9
+aa(lp210
+V500451964283789313
+p211
+aS'   sorry what now?'
+p212
+aI10
+aa(lp213
+V500452111692595201
+p214
+aS'   I\'m sorry "kid", I gotz no times for bs.  Peace.'
+p215
+aI11
+aa(lp216
+V500454975185879040
+p217
+aS"   I think that's all you got time for."
+p218
+aI12
+aa(lp219
+V500322539814789121
+p220
+aS'  like me mistakenly calling an 18 year old a kid is worse than the other 4 points?'
+p221
+aI2
+aa(lp222
+V500322805083553792
+p223
+aS"  It is.  I'm calling out this shit media every time now.  I had the reaction everyone did when they saw Trayvon's pic."
+p224
+aI14
+aa(lp225
+V500323593805660160
+p226
+aS'  trayvon was 17 when he got killed.  Legally a minor.'
+p227
+aI15
+aa(lp228
+V500323822730747904
+p229
+aS"  It's abt being fearful something bad could happen to you. A little kid is not reasonable fear. A dude taller than u, yes"
+p230
+aI16
+aa(lp231
+V500324120689930241
+p232
+aS' call him a big ass kid then.  But size or being "intimidating" doesn\'t take away your youth, inexperience, kid status'
+p233
+aI17
+aa(lp234
+V500324396285054976
+p235
+aS" My grandfather enlisted in WWII when he was 17.  That's not a kid, despite the sissification of this nation."
+p236
+aI18
+aa(lp237
+V500324564237578240
+p238
+aS' legally speaking , yeah he was.'
+p239
+aI19
+aa(lp240
+V500324845427916800
+p241
+aS" legally speaking it doesn't matter. the question of reasonable fear is at issue + the krauts were definitely afraid of my grandpa."
+p242
+aI20
+aa(lp243
+V500322928060563457
+p244
+aS"  I was like, WTF, you could just wring a little kids neck, no need for a gun.  Until we find out the guy is frigging 6'2"
+p245
+aI14
+aa(lp246
+V500303039589122049
+p247
+aS'  It sounds similar to what the Egyptian police did to Khalid Saeid in 2011!'
+p248
+aI0
+aa(lp249
+V500311633458364416
+p250
+aS' Fox News will talk about it now'
+p251
+aI0
+aa(lp252
+V500301979336593408
+p253
+aS'  If only they had the balls to say "We\'re sorry"'
+p254
+aI0
+aa(lp255
+V500299301415702528
+p256
+aS' just think how this story would be if the cop was black and the vic was white'
+p257
+aI0
+aa(lp258
+V500310617686040576
+p259
+aS".  You wouldn't have heard shit about it."
+p260
+aI26
+aa(lp261
+V500300692285038592
+p262
+aS' Police Force or Apartheid? Two thirds of 21,000 residents are black - Police force 3 black &amp; 50 white policemen'
+p263
+aI0
+aa(lp264
+V500453921999970304
+p265
+aS' Why should only cops be allowed to have guns again? gunsense UniteBlue'
+p266
+aI0
+aa(lp267
+V500307435668930561
+p268
+aS"  It's almost like the local cops are pissed it was so calm last night and want to inflame public opinion again"
+p269
+aI0
+aa(lp270
+V500444523039039488
+p271
+aS" And they think we're buying this bullshit!"
+p272
+aI0
+aa(lp273
+V500301171395809281
+p274
+aS'  Said the typical Libtard.'
+p275
+aI0
+aa(lp276
+V500299923980824576
+p277
+aS' compare the pix... store dude in flip-flops. Mike Brown- pix look like running shoes? (need better pix of Mike Brown in street)'
+p278
+aI0
+aa(lp279
+V500300182844878848
+p280
+aS' Here are pixs I have. '
+p281
+aI33
+aa(lp282
+V500300699738316800
+p283
+aS' better camera pic. clearly shows flip flops '
+p284
+aI34
+aa(lp285
+V500356831542538240
+p286
+aS'Shoot unarmed kid.\nConceal evidence.\nImpose martial law.\nHarass reporters.\nSmear the victim.\nWorst. Police. Ever.\n\n|  \nFerguson MT'
+p287
+aI0
+aa(lp288
+V500299435793219584
+p289
+aS' exactly. if the criminal commits strong-arm robbery but has no weapon when he grasps for the officers he should be let go.'
+p290
+aI0
+aa(lp291
+V500397966071693312
+p292
+aS'  all the reactionaries learned this "strong-arm" phrase today.'
+p293
+aI37
+aa(lp294
+V500413925020934145
+p295
+aS'  sure. everyone lies but the "minority" in these situations.'
+p296
+aI38
+aa(lp297
+V500431611364524033
+p298
+aS'  try reading comprehension.'
+p299
+aI39
+aa(lp300
+V500439803465592832
+p301
+aS'  done. i read "comprehension". now what, genius?'
+p302
+aI40
+aa(lp303
+V500486955692728320
+p304
+aS"  you don't. I also think you're lying abt your entire online identity."
+p305
+aI41
+aa(lp306
+V500488971080962048
+p307
+aS"  u win. \n i'm apparently not qualified for hottie of the week anymore. take it back."
+p308
+aI42
+aaa(lp309
+(lp310
+V499366666300846081
+p311
+aS"Line of police cars with high beams on greets anyone trying to enter Ferguson. It's shut down. No media allowed. "
+p312
+aI0
+aa(lp313
+V499628894714986497
+p314
+aS'~&gt;  Gaza. Iraq. Soon they will burst into our homes, rape our babies, and force mothers to watch.'
+p315
+aI0
+aa(lp316
+V499369499662245888
+p317
+aS'These pigs need to be taken down!  '
+p318
+aI0
+aa(lp319
+V499435388508073984
+p320
+aS' And FAA has declared Ferguson a no-fly zone.'
+p321
+aI0
+aa(lp322
+V499447049440743424
+p323
+aS' man these guys are such boneheads!!'
+p324
+aI0
+aa(lp325
+V499371059385098240
+p326
+aS' Chef is on board'
+p327
+aI0
+aa(lp328
+V499373428592611328
+p329
+aS' cop shoots unarmed black man, citizens start looting and burning the community.is it me or does this not make any sense.'
+p330
+aI0
+aa(lp331
+V500473967509909504
+p332
+aS' what the fuck'
+p333
+aI0
+aa(lp334
+V499372044593930240
+p335
+aS' is this photo from last night?? Please clarify because you are using  present tense.'
+p336
+aI0
+aa(lp337
+V499374160121184257
+p338
+aS'  Freedom of the press my ass'
+p339
+aI0
+aa(lp340
+V499369079288123392
+p341
+aS' Why am I reminded of Tienanmen Square.'
+p342
+aI0
+aa(lp343
+V499367096875114497
+p344
+aS" that's from last night. Not tonight."
+p345
+aI0
+aa(lp346
+V499368327530414080
+p347
+aS' Yeah Land of the Free My A%&amp;'
+p348
+aI0
+aa(lp349
+V499918462295490560
+p350
+aS" And this isn't tyranny because ...?? Beuller??"
+p351
+aI0
+aa(lp352
+V499378276671176704
+p353
+aS' Is Ferguson joining Russia and  China communist style of governance. The cops are calling the protesters animals.'
+p354
+aI0
+aaa(lp355
+(lp356
+V500290456845299714
+p357
+aS"Here's the police report. Somehow Ferguson cops valued a box of Swishers at nearly $50. Time to stop smokin I guess "
+p358
+aI0
+aa(lp359
+V500298114675539968
+p360
+aS"  $50 ?! Shit.. Mane this is some nonsense the report don't even look right. Missing info allat"
+p361
+aI0
+aa(lp362
+V500297879831838720
+p363
+aS"  it also says they didn't arrive on the scene for the first time until 8/13"
+p364
+aI0
+aa(lp365
+V500291870736412672
+p366
+aS" Could've been a 60 count box which are ~$40. Box like this: "
+p367
+aI0
+aa(lp368
+V500297423047376897
+p369
+aS'  If he stole a case of cigars, where were they?'
+p370
+aI3
+aa(lp371
+V500298800947142656
+p372
+aS" if they have the box it would be in evidence, but that's assuming this isn't just fabricated to create an excuse for the cop"
+p373
+aI4
+aa(lp374
+V500306310450003968
+p375
+aS'   they have the whole thing on video..'
+p376
+aI4
+aa(lp377
+V500306749090324480
+p378
+aS'   it was on the news where I live.'
+p379
+aI6
+aa(lp380
+V500306603233386496
+p381
+aS'   you have a link? or you just taking their word for it?'
+p382
+aI6
+aa(lp383
+V500306929412210688
+p384
+aS'   ok, have you seen the video?'
+p385
+aI6
+aa(lp386
+V500305543802519553
+p387
+aS' I think perhaps theyre saying the entire wholesale box a store would use for displayas opposed to one package.'
+p388
+aI0
+aa(lp389
+V500297571856678912
+p390
+aS"  that's also not a robbery in most jurisdictions, it's a petty theft. (Eg Los Angeles)"
+p391
+aI0
+aa(lp392
+V500305311647817729
+p393
+aS'   I stole gum from a drugstore as a kid. Glad Im alive to tell it.'
+p394
+aI11
+aa(lp395
+V500308754194497537
+p396
+aS'  WHY does the time stamp say 11:51 on the report, but one of the stills of the robbery shows 11:53?'
+p397
+aI0
+aa(lp398
+V500294975481843712
+p399
+aS'  The key here is the verbiage Theft,burglary,larceny, or Robbery? Robbery is the term in this report!'
+p400
+aI0
+aa(lp401
+V500303660220706821
+p402
+aS'  why robbery..whats the difference between shoplift or robbery..I have not read report yet'
+p403
+aI14
+aa(lp404
+V500306606597636096
+p405
+aS'  Robbery involves threat or the use of force or violence to take the property'
+p406
+aI15
+aa(lp407
+V500307149398876160
+p408
+aS" right.  So he did that for cigars ? I know I need to sit and read report.   What's your thoughts on sll this"
+p409
+aI16
+aa(lp410
+V500303314106720256
+p411
+aS'  for real.. I buy a box for 15 bucks.'
+p412
+aI0
+aa(lp413
+V500291600501600258
+p414
+aS'  The property would have been valued by store employee not cops. Retail cost as determined by business.'
+p415
+aI0
+aa(lp416
+V500299687090335744
+p417
+aS'  Items Stolen: 1 - Items Recovered: 0 - Fatally Shot Suspects: 1...'
+p418
+aI0
+aa(lp419
+V500299937771692032
+p420
+aS'  man. in so heated over this'
+p421
+aI20
+aa(lp422
+V500293253510754304
+p423
+aS" Actually it's pretty reasonable. Maybe do research before tweeting to the masses? "
+p424
+aI0
+aa(lp425
+V500303419027247104
+p426
+aS' lmap research before tweeting? pfft if anything this entire mess had showed research is the last thing people use'
+p427
+aI22
+aa(lp428
+V500303880820117504
+p429
+aS' Anon has been pretty awful through this whole thing.'
+p430
+aI23
+aa(lp431
+V500304092296912897
+p432
+aS' I meant in general. People went off the deep end and believed the 1st thing they heard or read. No matter how 1 sided'
+p433
+aI24
+aa(lp434
+V500304836798472192
+p435
+aS' Oh for sure.. Anon has been exceptionally awful though!'
+p436
+aI25
+aa(lp437
+V500293362055151616
+p438
+aS' You should be focusing on the ROBBERY charge and not the SHOPLIFTING charge.'
+p439
+aI0
+aa(lp440
+V500297973905895424
+p441
+aS'  so not even a felony... Haha'
+p442
+aI0
+aa(lp443
+V500297800354377730
+p444
+aS'  So there are already two different charges!\n\nAnd none of them shows Michael Browns name!!!'
+p445
+aI0
+aa(lp446
+V500298324365160450
+p447
+aS'   Notice the top this says 2nd suspect.  Mike Brown is suspect 1.  Please read everything out there.'
+p448
+aI29
+aa(lp449
+V500298472785182720
+p450
+aS'   \nGood look! Thank you!'
+p451
+aI30
+aa(lp452
+V500298596772622336
+p453
+aS"   You're welcome!"
+p454
+aI31
+aa(lp455
+V500297602231853057
+p456
+aS'  no signatures?'
+p457
+aI0
+aa(lp458
+V500297717432594432
+p459
+aS'   I bet they just typed that up this morning.'
+p460
+aI33
+aa(lp461
+V500297910047604736
+p462
+aS'   right. I made better report cards on Photoshop '
+p463
+aI34
+aa(lp464
+V500297784134606849
+p465
+aS"   they're not finished yet, didn't want to sign rough draft."
+p466
+aI33
+aaa(lp467
+(lp468
+V500319801344929795
+p469
+aS'The day Ferguson cops told a dirty, bloody lie (via   '
+p470
+aI0
+aa(lp471
+V500320311997640704
+p472
+aS'Unbelieveable  The day Ferguson cops told a dirty, bloody lie (via   '
+p473
+aI0
+aa(lp474
+V500325331442892800
+p475
+aS'    DONTSHOOT SongForAwareness '
+p476
+aI1
+aa(lp477
+V500350142122577920
+p478
+aS'RT   The day Ferguson cops told a dirty, bloody lie (  '
+p479
+aI1
+aa(lp480
+V500331349421879297
+p481
+aS'  They killed that young man as an excuse to use martial law.'
+p482
+aI0
+aa(lp483
+V501466955564740609
+p484
+aS'  Um... they told just one lie on a specific day?'
+p485
+aI0
+aa(lp486
+V500348857705041920
+p487
+aS'  Sign and Share! Time to End Police Militarization Now! '
+p488
+aI0
+aa(lp489
+V501469191216840704
+p490
+aS'  WOW. FUCKIN WOW.'
+p491
+aI0
+aa(lp492
+V500321279208341504
+p493
+aS' The day Ferguson cops told a dirty, bloody lie (via    Whoa'
+p494
+aI0
+aa(lp495
+V500326334464544769
+p496
+aS'  Republican Rand Paul is speaking out STRONGLY against police brutality against blacks\n\nNews '
+p497
+aI0
+aa(lp498
+V500341401583104000
+p499
+aS'   Looks like he started the 2016 campaign early.'
+p500
+aI9
+aa(lp501
+V500448504058093568
+p502
+aS'   Why is Hillary Clinton silent about innocent blacks being killed'
+p503
+aI10
+aa(lp504
+V500337293375197184
+p505
+aS'   WOW! FANTASTIC ARTICLE! RT &amp; RT! FBI NEEDS TO INVESTIGATE THIS ONE ALSO! NO JUSTICE, NO PEACE!'
+p506
+aI0
+aa(lp507
+V500322303717441536
+p508
+aS'Henry Davis  The day Ferguson cops told a dirty, bloody lie (via   '
+p509
+aI0
+aa(lp510
+V500320354892795904
+p511
+aS' The day Ferguson cops told a dirty, bloody lie (via   '
+p512
+aI0
+aa(lp513
+V500325872583200770
+p514
+aS'   just proves that discrimination is still prevalent..we shud all strive to wipe it out'
+p515
+aI14
+aa(lp516
+V500322285883228162
+p517
+aS"LRT from  -- THIS is the kind of local PD we're dealing with. ferguson"
+p518
+aI14
+aaa(lp519
+(lp520
+V499530130487017472
+p521
+aS'A woman in Ferguson was shot in head last night and released this selfie. Conflicting reports of how it happened: '
+p522
+aI0
+aa(lp523
+V499533751513518080
+p524
+aS' as reported by   injured in a RANDOM drive-by shooting per Lt. Col w/ '
+p525
+aI0
+aa(lp526
+V499538310986219520
+p527
+aS'  wow.'
+p528
+aI0
+aa(lp529
+V499610176518119424
+p530
+aS'casual impressive   A woman in Ferguson was shot in head last night and released this selfie: '
+p531
+aI0
+aa(lp532
+V499623513435947009
+p533
+aS'  This is terrible. The police is out of control and needs to be stopped asap.'
+p534
+aI0
+aa(lp535
+V499533285387960321
+p536
+aS' A woman in Ferguson was shot in head last night and released this selfie.  HUalum'
+p537
+aI0
+aa(lp538
+V499532079873261568
+p539
+aS' The story is true.'
+p540
+aI0
+aa(lp541
+V499532400293335040
+p542
+aS' which version?'
+p543
+aI6
+aa(lp544
+V499533162028883969
+p545
+aS' Shooting related to protesting. Ppl on the street are upset about this. Also, 6mo pregnant woman forced facedown on ground'
+p546
+aI7
+aa(lp547
+V499534240254803968
+p548
+aS"  she's been reporting on the story for days diligently. I don't think she would be violent."
+p549
+aI8
+aa(lp550
+V499532679059374081
+p551
+aS'gm  wow     just cld Potus all but N wrd on air.Birthers '
+p552
+aI0
+aa(lp553
+V499532946412687360
+p554
+aS' when u spew racism,hate of us blks&amp;Potus      u shw slvs '
+p555
+aI10
+aa(lp556
+V499533154219474944
+p557
+aS' they just went aft Potus,Flotus&amp;fam 4 going on vacation lk whites do daily    '
+p558
+aI11
+aa(lp559
+V499533764088049664
+p560
+aS' &gt;    Obamas cnt vac per racist     '
+p561
+aI10
+aa(lp562
+V499534535764480000
+p563
+aS'     we blks 4 Potus see &gt; racism runs deep   '
+p564
+aI13
+aa(lp565
+V499534297662246913
+p566
+aS'    Potus blk per    cnt go golf.wow '
+p567
+aI13
+aa(lp568
+V499551016300593152
+p569
+aS' Holy Moses. I never used to believe it, but social media really is changing everything about how we interact and see.'
+p570
+aI0
+aa(lp571
+V499531355651579905
+p572
+aS" compelling photo. It's always miraculous to hear about a headshot victim surviving."
+p573
+aI0
+aa(lp574
+V499531869189586945
+p575
+aS' A woman in Ferguson was shot in head last night, took selfie.  EVERYTHING WRONG WITH THIS WORLD'
+p576
+aI0
+aa(lp577
+V499536346210652161
+p578
+aS' wow'
+p579
+aI18
+aa(lp580
+V499537282177978368
+p581
+aS' crazy right?'
+p582
+aI19
+aa(lp583
+V499538648023719936
+p584
+aS' and shame on people like your boy skolnik giving it pub...  just perpetuates ridiculous things like that (the selfie)'
+p585
+aI20
+aa(lp586
+V499538983215706112
+p587
+aS' "my boy" is a bit much. I just follow to get ridiculous shit like this.'
+p588
+aI21
+aa(lp589
+V499685061956882433
+p590
+aS' Not minding ur own business is often the first step towards big problems.No matter what color u are or how much money u have'
+p591
+aI0
+aa(lp592
+V510533977086500866
+p593
+aS'-  A MONTH LATER; Ferguson police have YET to interview MyaAatenWhite. The ambulances came only after numerous calls.'
+p594
+aI0
+aaa(lp595
+(lp596
+V500327120770301952
+p597
+aS"How many white celebrities have been CAUGHT shoplifting and end up dead in streets? I'll wait. Ferguson"
+p598
+aI0
+aa(lp599
+V500491967097479168
+p600
+aS"  don't hold your breath waiting"
+p601
+aI0
+aa(lp602
+V500329670232256512
+p603
+aS" only in films. And we're their live entertainment."
+p604
+aI0
+aa(lp605
+V500328537316794368
+p606
+aS' White serial killers, cannibals &amp; mass shooters all manage to make it to their trials w/out police violence but not MikeBrown'
+p607
+aI0
+aa(lp608
+V500327896670830592
+p609
+aS" How many white celebrities have been CAUGHT shoplifting and end up dead in streets? I'll wait. Ferguson still waiting...."
+p610
+aI0
+aa(lp611
+V500341555061075968
+p612
+aS' I shoplift all the time and I am still alive.'
+p613
+aI0
+aa(lp614
+V500327577031307265
+p615
+aS" How many white celebrities have been CAUGHT shoplifting and end up dead in streets? I'll wait. Ferguson even OJ lol."
+p616
+aI0
+aa(lp617
+V500327538627837954
+p618
+aS'  Can u say Lindsey Lohan?? Go ahead say her name 3x.. LOL'
+p619
+aI0
+aa(lp620
+V500327622954717184
+p621
+aS' *raises hand* Oooh Oooh I know, I know!....Um, none.'
+p622
+aI0
+aa(lp623
+V500330092208218114
+p624
+aS' *Crickets'
+p625
+aI0
+aa(lp626
+V500327721747349506
+p627
+aS"That's the thing they have the money to get away with it you shouldn't even attempt shit if your poor  "
+p628
+aI0
+aa(lp629
+V500332078513520640
+p630
+aS' as soon as you physically fight cops and run they can shoot under fleeing felon law'
+p631
+aI0
+aa(lp632
+V500340654841798656
+p633
+aS" How many white celebrities have been CAUGHT shoplifting and end up dead in streets? I'll wait. Ferguson truth"
+p634
+aI0
+aa(lp635
+V500327508706074624
+p636
+aS'  Charlie Sheen shot one of his wives and went on to be one of the highest paid actors on TV.'
+p637
+aI0
+aa(lp638
+V500345176783458305
+p639
+aS' RacistWhiteSupremacy Is One Helluva Drug.'
+p640
+aI13
+aa(lp641
+V500345821272215553
+p642
+aS' Man...'
+p643
+aI14
+aa(lp644
+V500329247148609536
+p645
+aS' Not a damn one.'
+p646
+aI0
+aa(lp647
+V500355260079415296
+p648
+aS' Not Winona Ryder. '
+p649
+aI0
+aa(lp650
+V500489624851324929
+p651
+aS"  Didn't happen to Lindsey Lohan or Winona Ryder.  Lily's unpunished shoplifting was a plot device on HIMYM."
+p652
+aI0
+aaa(lp653
+(lp654
+V500391222075076610
+p655
+aS'Store owner told  Monday that there was a theft, but said it was not MichaelBrown; said it was someone else Ferguson'
+p656
+aI0
+aa(lp657
+V500503447544680448
+p658
+aS"  why did the store owner say it wasn't him and the friend admitted it was? Have the gotten an explanation"
+p659
+aI0
+aa(lp660
+V500393155066626048
+p661
+aS"  Any chance that's being said for fear of retribution?"
+p662
+aI0
+aa(lp663
+V500394093420494849
+p664
+aS'   or is that impossible because the police would never be capable of unscrupulous behavior?'
+p665
+aI2
+aa(lp666
+V500394517733068801
+p667
+aS"   I def did not say that. And even if it was mikesmith I certainly don't think he deserved to die for it."
+p668
+aI3
+aa(lp669
+V500395293675122688
+p670
+aS"   and the last time i checked the eyewitness testimony overrides the testimony of the defident's friends"
+p671
+aI4
+aa(lp672
+V500395008592465921
+p673
+aS'   im not saying you did, but that is what has been implied the entire course of this investigation'
+p674
+aI4
+aa(lp675
+V500395125802278912
+p676
+aS"   that's why the police's testimony has been considered law despite it contrasting what EYEWITNESSES said"
+p677
+aI4
+aa(lp678
+V500395581429526528
+p679
+aS'   Not by this kid.'
+p680
+aI7
+aa(lp681
+V500395926595596288
+p682
+aS'   you seem to be the only one and that is a testament to your character miss.'
+p683
+aI8
+aa(lp684
+V500396139305517057
+p685
+aS'   There are lots of us out there. Promise.'
+p686
+aI8
+aa(lp687
+V500396253327687680
+p688
+aS'   we all need to unite then. solidarity is key in the face of adversity and prejudice.'
+p689
+aI10
+aa(lp690
+V500396405614460928
+p691
+aS'   Truer words have never been spoken.'
+p692
+aI11
+aa(lp693
+V500398468503207936
+p694
+aS'    whose mike smith ?'
+p695
+aI12
+aa(lp696
+V500401161732886529
+p697
+aS'    Very embarrassing! Of course I meant mikebrown. Ugh'
+p698
+aI13
+aa(lp699
+V500394000550215680
+p700
+aS'   or maybe the police scared him into saying it was michael brown in the first place?'
+p701
+aI2
+aa(lp702
+V500393880462692353
+p703
+aS'  possibly. He seemed frightened'
+p704
+aI2
+aa(lp705
+V500587418584907776
+p706
+aS'  now we now why!!  Jeez!!'
+p707
+aI16
+aa(lp708
+V500393935223533569
+p709
+aS'   even though his friend and witness to the shooting has admitted to the cigarillo theft?'
+p710
+aI0
+aa(lp711
+V500418076723396608
+p712
+aS"  Where's    With this breaking news? Police Chief making press conference. SmokeScreen4Murder Ferguson"
+p713
+aI0
+aa(lp714
+V500392059832770560
+p715
+aS"  no doubt scared for his life. It's obviously mike brown in the video"
+p716
+aI0
+aa(lp717
+V500393643815882752
+p718
+aS'  he seemed frightened'
+p719
+aI20
+aa(lp720
+V500392623107223552
+p721
+aS'   Obviously? So he took off his socks in the 5m between the video and getting shot? '
+p722
+aI20
+aa(lp723
+V500392872856649728
+p724
+aS"   dude even his parents acknowledge it's him."
+p725
+aI22
+aa(lp726
+V500393535263481858
+p727
+aS"   And the store owner and the pictures say it wasn't. Why does someone who didn't see it matter?"
+p728
+aI23
+aa(lp729
+V500394049501544449
+p730
+aS'   Dorian Johnson just confirmed it was them. What now? blackdenial'
+p731
+aI24
+aa(lp732
+V500395569760972800
+p733
+aS'   Good job getting (a guy who looks a bit like a) petty thief off the street (four hours after shooting him)'
+p734
+aI25
+aa(lp735
+V500397394291208192
+p736
+aS"   it's obviously the same people and there's a confession"
+p737
+aI26
+aa(lp738
+V500397765881774080
+p739
+aS'   Hey everybody,  robbed a store. Can they shoot you down? Can I say that after they shoot you down?'
+p740
+aI27
+aa(lp741
+V500399140572897280
+p742
+aS'    And also obliterating your attempt to deny that he was the person that robbed the store'
+p743
+aI28
+aa(lp744
+V500399362183536640
+p745
+aS'   So he took off his socks but did nothing else to change his appearance? Obliterated, lol'
+p746
+aI29
+aa(lp747
+V500399820511535104
+p748
+aS"    dude give it up. It's him. Confirmed."
+p749
+aI28
+aa(lp750
+V500400549117034497
+p751
+aS"   You get the last word here, I can't argue with everyone forever. Peace."
+p752
+aI31
+aa(lp753
+V500398907415732227
+p754
+aS"    I'm not arguing that he deserved to be shot."
+p755
+aI28
+aa(lp756
+V500399226489434112
+p757
+aS'   Then what are you arguing?'
+p758
+aI33
+aa(lp759
+V500399685232623616
+p760
+aS'   snitches get stitches in the hood. Store owner knows. blackdenial changeyourculture'
+p761
+aI28
+aa(lp762
+V500400188541140992
+p763
+aS'   looooool. "snitches get stiches in the hood" (noracist bro)'
+p764
+aI35
+aa(lp765
+V500395360125464576
+p766
+aS"   but reasonable doubt? Innocent until proven guilt? Nah, fuck it, let's execute him"
+p767
+aI25
+aa(lp768
+V500394987373490176
+p769
+aS"   you just repeated what you said in the last tweet, p sure my reply doesn't change"
+p770
+aI25
+aa(lp771
+V500395253300731906
+p772
+aS"   but you have two pictures of people with different clothes, and an eyewitness who says it wasn't him"
+p773
+aI25
+aa(lp774
+V500401233212227585
+p775
+aS' But Dorian Johnson already admitted they were in store and stole'
+p776
+aI0
+aa(lp777
+V500393320032370688
+p778
+aS'    Is that the video also?'
+p779
+aI0
+aa(lp780
+V500429451323523073
+p781
+aS'Y\'all --&gt; " Store owner told  Monday that there was a theft, but said it was not MichaelBrown said it was someone else"'
+p782
+aI0
+aa(lp783
+V500392192167645184
+p784
+aS'  Somebody else probably did commit theft.  Brown committed Robbery.'
+p785
+aI0
+aa(lp786
+V500393552946282496
+p787
+aS'  actually I did use the word robbery'
+p788
+aI43
+aa(lp789
+V500393982992470016
+p790
+aS'  Your post states theft.  What am I missing?'
+p791
+aI44
+aa(lp792
+V500397725129531393
+p793
+aS'  when I spoke to store owner, I said "robbery", tweeted "theft" in error'
+p794
+aI45
+aa(lp795
+V500398642167947264
+p796
+aS"  Thank you for clarifying.  You definitely didn't have to reply to me.  \n\nHave a great day and thanks for the reports"
+p797
+aI46
+aa(lp798
+V500396146150621185
+p799
+aS'  Brown\'s family attorney said in an interview today that the person in the video "probably is Brown"'
+p800
+aI44
+aa(lp801
+V500727265412386816
+p802
+aS'  think he was too scare to tell who it really was? How many 6\'5" 300  men in Ferguson ?'
+p803
+aI0
+aa(lp804
+V500429697587871745
+p805
+aS'  " Store owner told  Monday that there was a theft, but said it was not MichaelBrown; said it was someone else"'
+p806
+aI0
+aa(lp807
+V500431996397846528
+p808
+aS" I could tell it wasn't him when I saw the video.  "
+p809
+aI50
+aa(lp810
+V500417601109889024
+p811
+aS'  This is getting stranger by the minute. Will we ever get to the truth?'
+p812
+aI0
+aaa(lp813
+(lp814
+V500281131057811456
+p815
+aS'BREAKING NEWS: According to documents released to the press, MikeBrown was connected to an earlier robbery Ferguson '
+p816
+aI0
+aa(lp817
+V500281613561761793
+p818
+aS' Even if connected, does that mean he should be shot 8 times with his hands up on the ground?'
+p819
+aI0
+aa(lp820
+V500281983885672448
+p821
+aS' I have a real civil rights idea that WILL work.'
+p822
+aI0
+aa(lp823
+V500281427494043648
+p824
+aS' all I see is him walking in a store'
+p825
+aI0
+aa(lp826
+V500283804272328704
+p827
+aS' LIES'
+p828
+aI0
+aa(lp829
+V500282611143413763
+p830
+aS'  Lies if those kids were involved why would the officer just tell the kids to get on the sidewalk, not get on the ground?'
+p831
+aI0
+aa(lp832
+V500283799708499969
+p833
+aS' Now I dont even believe they gave the right name of the officer.one lie leads to another and another..they r buried in lies'
+p834
+aI0
+aa(lp835
+V500281311852916736
+p836
+aS' oh hell of course'
+p837
+aI0
+aa(lp838
+V500283406962663424
+p839
+aS" didn't the manager of the store already say this was not true"
+p840
+aI0
+aa(lp841
+V500281475141357568
+p842
+aS' LIES! MikeBrown was not wanted 4 robbery otherise his friend would hv been considered an accomplice...COVERUP Ferguson'
+p843
+aI0
+aa(lp844
+V500281337694416896
+p845
+aS' that still is no excuse to kill him'
+p846
+aI0
+aa(lp847
+V500283469864239104
+p848
+aS' OMG this IS a police state, if this was true,the Nazi Police wouldve already put this out there they are GraspingAtStraws'
+p849
+aI0
+aa(lp850
+V500283678170562561
+p851
+aS'  I want to know what kind of vision the police have to clearly say this is Mike Brown! I can barely see a face'
+p852
+aI0
+aa(lp853
+V500283216847446016
+p854
+aS' this guy is way fatter than mike'
+p855
+aI0
+aa(lp856
+V500282657125572608
+p857
+aS' he stole a candy bar and was threatened the cops will come to resolve the issue'
+p858
+aI0
+aa(lp859
+V500282369023430656
+p860
+aS'Of course, you have to crop have his face. Ferguson MikeBrown '
+p861
+aI0
+aa(lp862
+V500283133674405888
+p863
+aS" this isn't him clearly"
+p864
+aI15
+aa(lp865
+V500295061595521024
+p866
+aS' omg stfu already. Did you see the clothes the kid was wearing, looked similar. Agree with you but quit fucking fishing.'
+p867
+aI15
+aa(lp868
+V500308342599061504
+p869
+aS"  lol there's a million dudes wearing cargos &amp; white tees everyday please stop"
+p870
+aI17
+aa(lp871
+V500312191090712577
+p872
+aS'   these pictures look damning, but stealing rillos DOES NOT JUSTIFY MURDER!'
+p873
+aI18
+aa(lp874
+V500323392864919552
+p875
+aS"   just so my opinion is clear; no way that kid should be dead, period! Anon ain't the vigilante he thinks"
+p876
+aI19
+aaa(lp877
+(lp878
+V500327106824245249
+p879
+aS'All weekend ppl will be talking about the "robbery" instead of the shooting bc Ferguson PD didn\'t release any info about the shooting.'
+p880
+aI0
+aa(lp881
+V500332729008160768
+p882
+aS" Hopefully not - I'm seeing a lot of people who recognize that his involvement in the robbery is irrelevant to his execution"
+p883
+aI0
+aa(lp884
+V500338745359753216
+p885
+aS' that was their intent all along. Brown will be painted a "thug" and "deserves" what he got.'
+p886
+aI0
+aa(lp887
+V500328018087514112
+p888
+aS' dm'
+p889
+aI0
+aa(lp890
+V500328023129075712
+p891
+aS" It smells don't it. This is the plan to get Darren Wilson off. Period."
+p892
+aI0
+aa(lp893
+V500327704399331331
+p894
+aS' Smearing the victim, tainting any jury pool, dodging out of the real questions. This is definitely a calculated smoke screen'
+p895
+aI0
+aa(lp896
+V500328058621280256
+p897
+aS"  They're trying to skirt the situation &amp; take focus off of Darren Wilson.  Who's left over to blame?  Dead victim."
+p898
+aI0
+aa(lp899
+V500327239419195392
+p900
+aS' He did that quickly &amp; made moves. Like ok lets get that wheel spinning.'
+p901
+aI0
+aaa(lp902
+(lp903
+V499612545909415938
+p904
+aS"Nearly 7k blacks were murdered last yr--almost all by other blacks. A tiny % were unarmed-killed-by-cop.\nWhere's Al, Jesse?\ntcot ferguson"
+p905
+aI0
+aa(lp906
+V499991648232017920
+p907
+aS'  Yet the POTUS wants 4billon for illegals.'
+p908
+aI0
+aa(lp909
+V499755375642816512
+p910
+aS'  Al and Jesse have to go where the money can be had. If there were no Racism, they would be saying "Paper or Plastic?'
+p911
+aI0
+aa(lp912
+V499641023950512128
+p913
+aS'  cops kill too many Americans, black &amp; white. While i reject the race baiting the left is doing this is still wrong'
+p914
+aI0
+aa(lp915
+V499613890171662336
+p916
+aS' No Justice, No Peace, No $$$, for Race Hawkers!'
+p917
+aI0
+aa(lp918
+V499689772928204800
+p919
+aS'  So I guess you are saying it is no big deal for cops to kill unarmed black kids???   WTF.'
+p920
+aI0
+aa(lp921
+V499691100370911232
+p922
+aS" I think you missed  point. Where's the uproar over B-on-B killings &amp; shooting that stem from Chicago on daily basis?"
+p923
+aI5
+aa(lp924
+V499691339995709440
+p925
+aS'  You are right - jury still out - but no question the kid was unarmed.  How about the choking of the guy on NY?  Murder'
+p926
+aI5
+aa(lp927
+V499694054226284544
+p928
+aS' "Jury still out." Yet, you made a direct inference that was recklessly false in MO. Misrepresentation serves no one. '
+p929
+aI7
+aa(lp930
+V499690552821284864
+p931
+aS". Has that been proven? I haven't heard your news account. Isn't the investigation of account still ongoing? "
+p932
+aI5
+aa(lp933
+V499691687326007296
+p934
+aS'  I don\'t believe that was his "point" at all.'
+p935
+aI5
+aa(lp936
+V499693411130429443
+p937
+aS' Uh Sorry. I believe it was his point. Sharpton and Jesse remain silent on Chicago crimes happening daily.  '
+p938
+aI10
+aa(lp939
+V499692380296318976
+p940
+aS'  Also, cops need to be held to a higher standard.'
+p941
+aI10
+aa(lp942
+V499692833121783809
+p943
+aS" Me thinks you like to emote in suppositions. Truth is, you don't know what happened, but want to speculate. "
+p944
+aI12
+aa(lp945
+V499620018951561217
+p946
+aS" Why aren't they talking about the lack of family structure? That's where it all begins and ends."
+p947
+aI0
+aa(lp948
+V499759387657764864
+p949
+aS'  Black on Black crime is not what feeds them.'
+p950
+aI0
+aa(lp951
+V499689337370324992
+p952
+aS'  How the fuck you comparing a whole race too a single occupation of course you are gonna get a tiny % dumbass'
+p953
+aI0
+aa(lp954
+V499773548202688512
+p955
+aS' how many of those blacks that killed blacks avoided prosecution?'
+p956
+aI0
+aa(lp957
+V499692801274441729
+p958
+aS'  1,800 plus black babies aborted a day. No one hates blacks like other blacks.'
+p959
+aI0
+aa(lp960
+V499612667430977536
+p961
+aS' No profit in it.'
+p962
+aI0
+aa(lp963
+V499612832363581440
+p964
+aS' immortalconsciousness WuWednesday TupacTuesday'
+p965
+aI0
+aa(lp966
+V499752447930155008
+p967
+aS'\n'
+p968
+aI0
+aa(lp969
+V499613561044598785
+p970
+aS' : fk yr derailment. This is about the blatant and often sanctioned murder of black men (and women) by cops.'
+p971
+aI0
+aa(lp972
+V499688811300151297
+p973
+aS" There's no $$ in it for them. "
+p974
+aI0
+aa(lp975
+V499921932645433344
+p976
+aS' Ferguson, MO is 70% low-income black and had no homicides all year until Mike Brown.'
+p977
+aI0
+aa(lp978
+V499990307291664384
+p979
+aS'  Indeed where?'
+p980
+aI0
+aa(lp981
+V499919010625253376
+p982
+aS' there is no money in black on black crime.'
+p983
+aI0
+aa(lp984
+V499619405576544256
+p985
+aS'  Obama is the great divider. He has no love of this country. Perpetuates class war and race war.'
+p986
+aI0
+aaa(lp987
+(lp988
+V500286058664579072
+p989
+aS'Update: Ferguson police release stills from convenience store footage showing robbery  '
+p990
+aI0
+aa(lp991
+V500288040963964928
+p992
+aS' Gentle Giant, RIGHT. Go arrest that partner he had too.'
+p993
+aI0
+aa(lp994
+V500293069947015168
+p995
+aS' this is mike brown stop lying and get your facts straight next time you insult another HUMANS life '
+p996
+aI0
+aa(lp997
+V500289033650446338
+p998
+aS' that dude is huge'
+p999
+aI0
+aa(lp1000
+V500287202124103680
+p1001
+aS" oh well that just justifies everything doesn't it.  HANDSUPdontshoot"
+p1002
+aI0
+aa(lp1003
+V500434967177224193
+p1004
+aS"  no I'm sure the violent felon put his hands right up and the evil policeman after 6 yrs of service decided to kill 4 fun!"
+p1005
+aI4
+aa(lp1006
+V500588486664409088
+p1007
+aS" are you afraid of admitting you're a racist? Are you afraid of being called a racist?"
+p1008
+aI5
+aa(lp1009
+V500659341801046017
+p1010
+aS" race doesn't matter to me nor should it matter to this case. You are the racist. Facts don't matter 2u Just blindly follow the herd."
+p1011
+aI6
+aa(lp1012
+V500661909751103488
+p1013
+aS' you do a lot of bitching and whining, but never make any points.'
+p1014
+aI7
+aa(lp1015
+V500659434558087168
+p1016
+aS' '
+p1017
+aI6
+aa(lp1018
+V500663231338536960
+p1019
+aS" yep this picture proves he wasn't on his knees with his hands up. And the Mr Wilson didn't empty his gun on him. Nice work."
+p1020
+aI9
+aa(lp1021
+V500288489678577664
+p1022
+aS"  doesn't excuse murder"
+p1023
+aI0
+aa(lp1024
+V500286680381665282
+p1025
+aS' is that Mike Brown? the guy in these pics looks a lot bigger than the pics of Mike Brown in prior still photos released?'
+p1026
+aI0
+aa(lp1027
+V500294827351621632
+p1028
+aS'  He is large. In the store photos you have some prospective unlike the still photos.'
+p1029
+aI12
+aa(lp1030
+V500297053990158336
+p1031
+aS"  i'd be a bad witness"
+p1032
+aI13
+aa(lp1033
+V500288027705741313
+p1034
+aS'This proves what? RT Update: Ferguson police release stills from convenience store footage showing robbery '
+p1035
+aI0
+aa(lp1036
+V500295998753611777
+p1037
+aS'  That maybe he did try &amp; take cops gun though window (something witnesses could not see). This goes toward CHARACTER. '
+p1038
+aI15
+aa(lp1039
+V500287325621198848
+p1040
+aS' That person does not look 18. It actually looks a lot like a looter with their face  covered that was photographed by '
+p1041
+aI0
+aa(lp1042
+V500295232399757312
+p1043
+aS'   Take a look at college football players, roughly same size and maturity (in terms of looking older).'
+p1044
+aI17
+aa(lp1045
+V500295397886025729
+p1046
+aS"   my brother played, I'm familiar with their size"
+p1047
+aI18
+aa(lp1048
+V500287728064688130
+p1049
+aS' Good folk of Ferguson, Support your Police Dept., Riot against the THUGS in your town.'
+p1050
+aI0
+aa(lp1051
+V500301215461548032
+p1052
+aS'  if there was a black person in an altercation in a convenience store, that totally justifies killing another black person, right?'
+p1053
+aI0
+aa(lp1054
+V500286538878427136
+p1055
+aS' Gentle giant.'
+p1056
+aI0
+aa(lp1057
+V500298076914221056
+p1058
+aS"  I didn't head you  "
+p1059
+aI22
+aa(lp1060
+V500297133841731585
+p1061
+aS' Wow!'
+p1062
+aI0
+aa(lp1063
+V500297826510057474
+p1064
+aS"  I'm looking for his read hat and his flip flops can you find them? "
+p1065
+aI24
+aa(lp1066
+V500289557624287234
+p1067
+aS' red hat?'
+p1068
+aI0
+aa(lp1069
+V500290943849725952
+p1070
+aS' If this is real, I feel one of those aweshit moments coming on both sides, the neighborhood and the police.'
+p1071
+aI0
+aa(lp1072
+V500290288221687808
+p1073
+aS" umm wasn't Mike Brown wearing pants, and shoes?"
+p1074
+aI0
+aa(lp1075
+V500287363361546240
+p1076
+aS' check your facts and the pics from what he was wearing when he was gunned down, smh'
+p1077
+aI0
+aa(lp1078
+V500289895706144768
+p1079
+aS' here goes the fukkry now look at his picture.o wait he is black robber black. Has it been confirmed. Or just blow smoke our bum'
+p1080
+aI0
+aa(lp1081
+V500288302100918272
+p1082
+aS'  Waiting to see an outpouring of sympathy for the owner of the store that was attacked.  Not holding my breath.'
+p1083
+aI0
+aa(lp1084
+V500303315843170305
+p1085
+aS' poor baby "he din do nuffin" lol'
+p1086
+aI0
+aa(lp1087
+V500288271650684928
+p1088
+aS' JUSTICE FOR THE POLICE DEPT. they were doing their job &amp; protecting your sorry butts.'
+p1089
+aI0
+aa(lp1090
+V500289420730597377
+p1091
+aS'  are you really justifying the murder of an unarmed kid? o'
+p1092
+aI33
+aa(lp1093
+V500289645301989377
+p1094
+aS"  He wasn't a kid, an Adult who was robbing a business."
+p1095
+aI34
+aa(lp1096
+V500290340738592769
+p1097
+aS"   you are saying that's mike brown in the picture? It's not. Two events unconnected. What's your point?"
+p1098
+aI35
+aa(lp1099
+V500298509870837760
+p1100
+aS" I think  is saying: tough guy in pic is low life scum whether it's the late Mr. Brown or not   "
+p1101
+aI36
+aa(lp1102
+V500298645494067200
+p1103
+aS"    then what's the relevance?"
+p1104
+aI37
+aa(lp1105
+V500298817531432961
+p1106
+aS'    low life scum I think'
+p1107
+aI38
+aa(lp1108
+V500300092054974464
+p1109
+aS'    still unclear in the context of the shooting of an unarmed teen. But ok.'
+p1110
+aI39
+aa(lp1111
+V500300308145528832
+p1112
+aS'    18 is an ADULT'
+p1113
+aI40
+aa(lp1114
+V500300875844583424
+p1115
+aS'    I said teen not child but again, how is the pic relevant?'
+p1116
+aI41
+aa(lp1117
+V500301417869869059
+p1118
+aS'    A black cop shot Mr. Brown if he is charged (it will be racist) there will be more riots.'
+p1119
+aI40
+aa(lp1120
+V500290579075715072
+p1121
+aS'   You are a Peter Piper follower. Monkey see, monkey do.'
+p1122
+aI36
+aa(lp1123
+V500290809678536705
+p1124
+aS'   what point are you making about the photo?'
+p1125
+aI44
+aa(lp1126
+V500289833651429376
+p1127
+aS'  are you justifying the murder of an unarmed ADULT?'
+p1128
+aI35
+aa(lp1129
+V500301956989349888
+p1130
+aS"   Wait, so why didn't we shoot down the ARMED (white) men who shot up theaters and schools?"
+p1131
+aI46
+aa(lp1132
+V500315069142405120
+p1133
+aS'    um, they killed themself. whendumbpeopletweet'
+p1134
+aI47
+aa(lp1135
+V500316980130619392
+p1136
+aS'    . '
+p1137
+aI48
+aa(lp1138
+V500367357198745600
+p1139
+aS'    Aaaaand this: '
+p1140
+aI49
+aa(lp1141
+V500317610228342784
+p1142
+aS' Call me "dumb" all you want. Just realize that probably makes your tawdry, feeble-minded ass stupid (at best) in comparison.'
+p1143
+aI48
+aa(lp1144
+V500317606717693952
+p1145
+aS'  '
+p1146
+aI48
+aa(lp1147
+V500316855157137408
+p1148
+aS'    James Holmes is still alive. So is the guy who shot a congresswomen in Az.'
+p1149
+aI48
+aa(lp1150
+V500302249974059008
+p1151
+aS'   They killed themselves, Thugs are thugs whatever color they are.'
+p1152
+aI47
+aa(lp1153
+V500290256928014336
+p1154
+aS'  YES, it was JUSTIFIED'
+p1155
+aI46
+aa(lp1156
+V500290490382942209
+p1157
+aS"  you're one sick racist bitch"
+p1158
+aI55
+aa(lp1159
+V500290781178261504
+p1160
+aS"  You're one sick stupid person."
+p1161
+aI56
+aa(lp1162
+V500289666290294784
+p1163
+aS' if the officer did his job he would be arrested not murdered. Still the point.'
+p1164
+aI0
+aaa(lp1165
+(lp1166
+V500279160795721728
+p1167
+aS'Question for Ferguson police chief? If OFFICER DARREN WILSON was in pursuit of a robbery suspect, why tell kids to get out of the road? LIE'
+p1168
+aI0
+aa(lp1169
+V500281521841139712
+p1170
+aS' I could not agree more, it just plain sounds preposterous. And why did he NOT get OUT of the car. It has to be a huge LIE.'
+p1171
+aI0
+aa(lp1172
+V500289773525671936
+p1173
+aS'More like   why was DarrenWilson trying to pull MikeBrown into police car thru the window?'
+p1174
+aI1
+aa(lp1175
+V500292093487886336
+p1176
+aS'A good question. I still think the cop was on drugs and hallucinating.  '
+p1177
+aI2
+aa(lp1178
+V500291010010701825
+p1179
+aS'.  - Barney Fife would have tried to pull MikeBrown through a window too. Shades of Ernest T. Bass Ferguson'
+p1180
+aI2
+aa(lp1181
+V500292264909107200
+p1182
+aS'And at least Barney Fife would have been HONEST from the first hour.  '
+p1183
+aI4
+aa(lp1184
+V500294835559866371
+p1185
+aS'    and his bullet would have been harmlessly in his pocket. Ferguson'
+p1186
+aI5
+aa(lp1187
+V500342630145081344
+p1188
+aS'YES!!   '
+p1189
+aI6
+aa(lp1190
+V500292158344417280
+p1191
+aS'Agreed, Dante!  '
+p1192
+aI4
+aa(lp1193
+V500292755885531138
+p1194
+aS'.  - The Barney Fife fear is real in Ferguson, total excessive force is common practice. This was a murder!'
+p1195
+aI8
+aa(lp1196
+V500293402890469377
+p1197
+aS'Agree  those Cops in Ferguson are filled with FEAR so they hide behind military equipment, outrageous tactics '
+p1198
+aI9
+aa(lp1199
+V500340428701712384
+p1200
+aS'TYPICAL OF COWARDS AND BULLIES  '
+p1201
+aI10
+aa(lp1202
+V500294076273811459
+p1203
+aS"   Thank goodness the cops in Ferguson aren't very bright. Makes it easier to sue their sorry asses!"
+p1204
+aI10
+aa(lp1205
+V500338566229401600
+p1206
+aS'    It\'s not about smarts, it\'s that they never had to justify their actions  "Rubber Stamped"'
+p1207
+aI12
+aa(lp1208
+V500344082804518913
+p1209
+aS'   To think after all this time a lame-assed story about stolen cigars is going to fly is beyond stupid!'
+p1210
+aI13
+aa(lp1211
+V500345170295271425
+p1212
+aS"Apparently they don't think people can think for themselves. How WRONG they are. Will live to regret it   "
+p1213
+aI14
+aa(lp1214
+V500345332811956224
+p1215
+aS'   Yes!'
+p1216
+aI15
+aa(lp1217
+V500344847661006848
+p1218
+aS'   Affluent people and those in authority take it as an affront to be questioned, especially by lesser people'
+p1219
+aI14
+aa(lp1220
+V500345409500639232
+p1221
+aS'AND that attitude will be their downfall too. Bet on it.   '
+p1222
+aI17
+aa(lp1223
+V500454080796704768
+p1224
+aS'   That makes no sense at all.'
+p1225
+aI4
+aa(lp1226
+V500286604129619969
+p1227
+aS"  are they calling Mike Brown a suspect? If so, why didn't he stop them and check them?"
+p1228
+aI0
+aa(lp1229
+V500287184847798272
+p1230
+aS"  I'm all types of confused."
+p1231
+aI20
+aa(lp1232
+V500287454575099904
+p1233
+aS'  shits not adding up. What convenient store was robbed? Who are the witnesses that called it in?'
+p1234
+aI21
+aa(lp1235
+V500325414917505024
+p1236
+aS' | We need to see/review the statement by officer Wilson on what happened.'
+p1237
+aI0
+aa(lp1238
+V500306362090680320
+p1239
+aS'  Never mentioned "robbery" in his confrontation with them...where is the corresponding dispatch call?'
+p1240
+aI0
+aa(lp1241
+V500311345665810433
+p1242
+aS'    Cop never mentions shooting. Dispatch never mentions robbery. '
+p1243
+aI24
+aa(lp1244
+V500311804518871040
+p1245
+aS'   But they have had six days to come up with a narrative though!'
+p1246
+aI25
+aa(lp1247
+V500313191524466692
+p1248
+aS'.   - No narrative will justify actions after the 2d shot, MikeBrown surrendered, cop kept firing '
+p1249
+aI26
+aa(lp1250
+V500313643435954177
+p1251
+aS"    and that's cold blooded murder!"
+p1252
+aI27
+aa(lp1253
+V500310835219431424
+p1254
+aS"   Corey, think we're gonna find out DWilson had no idea that MB had stolen Swishers. WAIT4 IT."
+p1255
+aI24
+aa(lp1256
+V500311033110855680
+p1257
+aS'   Of course not...they have this fake police report, but no dispatch call detailing alleged robbery!'
+p1258
+aI29
+aa(lp1259
+V500312772866211841
+p1260
+aS"    time to arrest D Wilson, guys.  Sorry, but shooting ppl u think are thieves isn't OK."
+p1261
+aI30
+aa(lp1262
+V500299354499198976
+p1263
+aS'  Racist LIE to make it seem like innocent black child was a criminal. It will not work!! Police LIE may start more riots'
+p1264
+aI0
+aa(lp1265
+V500301270532370433
+p1266
+aS'  - Even if not innocent, no justification for violating rights, removing due process &amp; execution Ferguson MURDER!'
+p1267
+aI32
+aa(lp1268
+V500304234404130816
+p1269
+aS'      Where there is just enough justification that a person thinks they can get by with it.'
+p1270
+aI33
+aa(lp1271
+V500317100704288768
+p1272
+aS'   Someone needs to explain how the cop shot MichaelBrown &amp; then NEVER called an ambulance?'
+p1273
+aI33
+aa(lp1274
+V500319394325479424
+p1275
+aS'.    - Wilson knew he intentionally killed an alleged suspect trying to surrender to him &amp; people saw it.'
+p1276
+aI35
+aa(lp1277
+V500320115632918531
+p1278
+aS'   a riot not a robbery suspect apprehended.'
+p1279
+aI36
+aa(lp1280
+V500320061425729536
+p1281
+aS'   Michael never received emergency medical treatment, they left him in the street &amp; labeled the event'
+p1282
+aI36
+aa(lp1283
+V500568852959608833
+p1284
+aS"   Police LIED \n'Ferguson police chief: Officer didn't stop Brown as robbery suspect'  "
+p1285
+aI36
+aa(lp1286
+V500319932585111553
+p1287
+aS"   I know : (  but sicker part is we don't know if Michael was dead or the let him die so he couldn't talk"
+p1288
+aI36
+aa(lp1289
+V500303942040186880
+p1290
+aS'     The problem is that some police and others believe in a concept of a Free Kill.'
+p1291
+aI33
+aa(lp1292
+V500304493146157056
+p1293
+aS'     - Ferguson cop administered "Street Justice." Execution for alleged robbery, No go!'
+p1294
+aI41
+aa(lp1295
+V500313282184761344
+p1296
+aS'   Robbers do not just stroll down the middle of the street after robbing a store.  IDIOTS Ferguson'
+p1297
+aI33
+aa(lp1298
+V500303330825216000
+p1299
+aS'      He is innocent of any death penalty offense. Even if assault is involved.'
+p1300
+aI33
+aa(lp1301
+V500303993805889537
+p1302
+aS' Absolutely!    '
+p1303
+aI44
+aa(lp1304
+V500317233047142401
+p1305
+aS'   The let him die so he could not talk. Police station learned of shooting from the news not Wilson'
+p1306
+aI33
+aa(lp1307
+V500304668699156481
+p1308
+aS"     It doesn't matter if you are police, gang, or neighborhood watch. Life means more."
+p1309
+aI33
+aa(lp1310
+V501384325913665536
+p1311
+aS'     I say no more streetjustice/freekill. No matter who does it.'
+p1312
+aI47
+aa(lp1313
+V500301494193627136
+p1314
+aS' Absolutely my point!!  '
+p1315
+aI33
+aa(lp1316
+V500304544257949696
+p1317
+aS' Sov. Citizen in Dallas this week PLANNED TO KILL COPS and was brought in alive, how come a Shoplifter is denied same courtesy?'
+p1318
+aI33
+aa(lp1319
+V500300300897751040
+p1320
+aS' IF Brown committed strong arm robbery is one thing,but cop response is still another entirely. No riots. Justice  '
+p1321
+aI32
+aa(lp1322
+V500575438524407809
+p1323
+aS'  Fri: Police LIED saying "friend\' confessed to robbery. NOW Chief says, he did NOT commit crime '
+p1324
+aI51
+aa(lp1325
+V500301396764532736
+p1326
+aS"  It's a LIE. Police originally said confrontation started b/c cop told Michael to get out of street &amp; walk on sidewalk."
+p1327
+aI51
+aa(lp1328
+V500302378931716096
+p1329
+aS' There are pics of "strong arm robbery" clothing description/size of assailant similar BUT cop deadly force? No! '
+p1330
+aI53
+aa(lp1331
+V500302889429241856
+p1332
+aS"  Alasscan it's a lie. Pics are fake. No robbery was reported! If true, police would have said it last week to stop riots"
+p1333
+aI54
+aa(lp1334
+V500304014765199360
+p1335
+aS' Sadly DorianJohnson friend of MichaelBrown was in store also &amp; has admitted to it  '
+p1336
+aI55
+aa(lp1337
+V500938515367342080
+p1338
+aS"    Dorian's lawyer said in CNN interview Dorian had admitted it as he give his witness statement"
+p1339
+aI56
+aa(lp1340
+V500939702565105664
+p1341
+aS'    Dorian admitted from day 1.Now rumor has it that store never called 911 who called? 911 tape?'
+p1342
+aI57
+aa(lp1343
+V500964275373244416
+p1344
+aS' Makes me wonder since robbery report filled out day later. Also was cigarillo value raised?   '
+p1345
+aI58
+aa(lp1346
+V500930761818509313
+p1347
+aS"    Police lied! Chief now says Michaels's friend was NOT involved in any robbery. "
+p1348
+aI56
+aa(lp1349
+V500961800868098049
+p1350
+aS' Heard that friend was not going to be "charged" in any robbery since video shows it was other person  '
+p1351
+aI60
+aa(lp1352
+V501760642928635904
+p1353
+aS'    This shows Michael paid for cigarillos. No robbery, no crime! Pls RT \n'
+p1354
+aI61
+aa(lp1355
+V501761634076217345
+p1356
+aS'Thing is Killer cop knew nothing -was just being a ASSHOLE BULLY-started to leave backed up-killed kid    '
+p1357
+aI62
+aa(lp1358
+V501295330210885632
+p1359
+aS"   Who is 'other person?' 1st police LIE saying friend confessed. Under pressure, they now say he was not involved"
+p1360
+aI61
+aa(lp1361
+V501336276285788160
+p1362
+aS' 1st interview politicsnation DorianJohnson mentions cigarillos &amp; told lawyer. Video shows he gave back, not Mike Ferguson'
+p1363
+aI64
+aa(lp1364
+V501667615350083584
+p1365
+aS' Max are you listening to what the Chief of Police said or do you just want to believe lies? Listen carefully\n'
+p1366
+aI65
+aa(lp1367
+V501714124771168257
+p1368
+aS" Don't understand your argument - we're both on same side. Was repeating what Dorian said. Also Chief walked stmt back later"
+p1369
+aI66
+aa(lp1370
+V501720931803602944
+p1371
+aS' Now another store video out that some say shows MichaelBrown DID pay 4 cigarillos - confusing '
+p1372
+aI66
+aa(lp1373
+V500575842268098560
+p1374
+aS'  All a damn LIE. Plant the image of a violent black man &amp; say he was a suspect. DID NOT WORK!\n'
+p1375
+aI55
+aa(lp1376
+V500303952391331843
+p1377
+aS'.  - Even if robbery took place &amp; stop legal, actions after 1st &amp; 2d shot &amp; after MikeBrown put HandsUp = MURDER'
+p1378
+aI55
+aa(lp1379
+V500304228653346816
+p1380
+aS" IMO no shot should've happened. Call was unarmed suspect, cop had full description, easy to find where he lived "
+p1381
+aI70
+aa(lp1382
+V500304474616119296
+p1383
+aS" Besides a person who committed a robbery wouldn't call attention to himself by walking in the middle of the street. It's a lie."
+p1384
+aI70
+aa(lp1385
+V500571622303367168
+p1386
+aS"  Chief admits 'friend' did NOT confess to a crime! Cop did not stop Michael as a suspect!  LIES! "
+p1387
+aI54
+aa(lp1388
+V500308563269783552
+p1389
+aS' theve acted the same even over a bag of chips'
+p1390
+aI0
+aa(lp1391
+V500279534420525056
+p1392
+aS' THIS IS MY FUCKING QUESTION!!!'
+p1393
+aI0
+aa(lp1394
+V500288878578642944
+p1395
+aS"  that's what they took 4 days to concort ?...those 2 situations don't seem related at all"
+p1396
+aI0
+aa(lp1397
+V500294892606590977
+p1398
+aS'   They had 2 splice some tapes together.'
+p1399
+aI76
+aa(lp1400
+V500295747766468608
+p1401
+aS'   how convenient for this police chief....he needs to just go'
+p1402
+aI77
+aa(lp1403
+V500298745301729282
+p1404
+aS' Another question, how would the police engage a suspect from INSIDE his vehicle? And, why not question 2nd suspect?'
+p1405
+aI0
+aa(lp1406
+V500311553183588352
+p1407
+aS" get outta d f'in road! (moreover). I'm sorry, time to call for the arrest now, of Mr. Darren Wilson."
+p1408
+aI0
+aa(lp1409
+V500294985376608256
+p1410
+aS"  The cops can't spin this unlawful shooting try as they may. Police Dept. credibility ruined with Ferguson community."
+p1411
+aI0
+aa(lp1412
+V500298040511451136
+p1413
+aS".  - Spin still doesn't justify the murder versus the arrest. Why did the Ferguson officer not call for backup?"
+p1414
+aI81
+aa(lp1415
+V500301957396193280
+p1416
+aS"  There's no spin, cops blew it from day one by not releasing shooter's name! Trying to control the narrative w/lies."
+p1417
+aI82
+aa(lp1418
+V500303144429973508
+p1419
+aS'.  - Ferguson PD tried to justify probable cause, even 1st &amp; 2d shot, everything after = premeditated murder.'
+p1420
+aI83
+aa(lp1421
+V500307074589659137
+p1422
+aS"  Probable cause for what? The alleged robbery that cop wasn't aware of (so it appears) or alleged assault of cop?"
+p1423
+aI84
+aa(lp1424
+V500308085143912449
+p1425
+aS".  - Ferguson PD new story is trying to establish: probable cause, justify 1st &amp; 2d shot, but can't justify extras."
+p1426
+aI85
+aa(lp1427
+V500313676654473217
+p1428
+aS'   There is a very fishy fishing expedition going on in Ferguson looking for excuses for murder.'
+p1429
+aI85
+aa(lp1430
+V500309759367856129
+p1431
+aS'  Why did it take 5 days for this "info" to come out? Looks like Ferguson PD is looking for excuses for murder.'
+p1432
+aI0
+aa(lp1433
+V500310926906490883
+p1434
+aS".  -Ferguson PD trying to make case for probable cause, initial 1st &amp; 2d shot, but can't for execution w/Hands Up"
+p1435
+aI88
+aa(lp1436
+V500292183438925824
+p1437
+aS'Agreed-also,if MikeBrown was suspect,why not just question him? Why tell him &amp; friend get off road,not stop them?  bsDetector'
+p1438
+aI0
+aa(lp1439
+V500574997921136640
+p1440
+aS" You were correct yesterday! \nFerguson police chief: Officer didn't stop Brown as robbery suspect\n"
+p1441
+aI0
+aa(lp1442
+V500302395042439168
+p1443
+aS" You're right! Police said fight started after cop told Michael to get out of street, walk on sidewalk! He was never a suspect!"
+p1444
+aI0
+aaa(lp1445
+(lp1446
+V500270780832174080
+p1447
+aS'Police in Ferguson plan to release name of officer who shot unarmed teen Michael Brown:  '
+p1448
+aI0
+aa(lp1449
+V500278197447966722
+p1450
+aS'  Well, Darrel Wilson is officially screwed!'
+p1451
+aI0
+aa(lp1452
+V500271834416574464
+p1453
+aS'  how will that make a difference to the grieving gamin and unrest / distrust in Ferguson'
+p1454
+aI0
+aa(lp1455
+V500313330930966529
+p1456
+aS' that is a really stupid announcement by the Ferguson police'
+p1457
+aI0
+aa(lp1458
+V500272785428860928
+p1459
+aS'  its about time...\n'
+p1460
+aI0
+aa(lp1461
+V500296531036364800
+p1462
+aS' then put him under 24/7/365 guard???'
+p1463
+aI0
+aa(lp1464
+V500273321213456385
+p1465
+aS' More kissing blacks butt'
+p1466
+aI0
+aa(lp1467
+V500277729863159808
+p1468
+aS'  better than the crap sparking ice buy  available now on amazon  '
+p1469
+aI0
+aa(lp1470
+V500271679273054208
+p1471
+aS' dont plan on it release it already. Ferguson Mike Brown'
+p1472
+aI0
+aa(lp1473
+V500282815796494337
+p1474
+aS'  FergusonMO Police Officer is Darren Wilson who shot&amp;killed MikeBrown. Also a video too of Strong Armed robbery.'
+p1475
+aI0
+aa(lp1476
+V500274739537924096
+p1477
+aS"  they don't have a choice under MO law"
+p1478
+aI0
+aa(lp1479
+V500279384075685888
+p1480
+aS' '
+p1481
+aI0
+aa(lp1482
+V500273884479098880
+p1483
+aS'    whos the man in blk,'
+p1484
+aI0
+aa(lp1485
+V500277616587587584
+p1486
+aS' '
+p1487
+aI0
+aa(lp1488
+V500274502652411904
+p1489
+aS'  I WILL KEEP THE BROWN FAMILY IN PRAYERS!'
+p1490
+aI0
+aa(lp1491
+V500274134094319618
+p1492
+aS'    All this because they are black people ,,who are in America second class'
+p1493
+aI0
+aaa(lp1494
+(lp1495
+V500294803402137600
+p1496
+aS'Photos of alleged robbery involving Michael Brown in Ferguson (via police)  '
+p1497
+aI0
+aa(lp1498
+V500295655458230272
+p1499
+aS' Is robbery a death penalty in MO? and without a trial?'
+p1500
+aI0
+aa(lp1501
+V500296225678045184
+p1502
+aS' Easy to know if this is Brown by looking at what he was wearing when he was killed.  Has there been a positive ID for this?'
+p1503
+aI0
+aa(lp1504
+V500297916553371648
+p1505
+aS'  one sure way to know would be if they tested for DNA on the employees shirt...'
+p1506
+aI2
+aa(lp1507
+V500299170993819649
+p1508
+aS'  Even so - since when do you shoot a suspected robber if he is unarmed and cooperating?'
+p1509
+aI3
+aa(lp1510
+V500299463135858688
+p1511
+aS"  I agree it isn't robbery its simple shoplifting an assult"
+p1512
+aI4
+aa(lp1513
+V500299040655806465
+p1514
+aS'  True.  However if clothes were different or the same would do it also - I doubt that he the time to change.'
+p1515
+aI3
+aa(lp1516
+V500297035879563265
+p1517
+aS' Photos of alleged robbery involving MikeBrown in Ferguson (via police)  '
+p1518
+aI0
+aa(lp1519
+V500298524953939969
+p1520
+aS' Photos of alleged robbery involving Michael Brown in Ferguson (via police)   '
+p1521
+aI0
+aa(lp1522
+V500296225405415424
+p1523
+aS' Now they say this? Not very believable.'
+p1524
+aI0
+aa(lp1525
+V500299816971546624
+p1526
+aS'  that is him same hat and outfit at sceen still gave no right to kill him'
+p1527
+aI0
+aa(lp1528
+V500299469372420098
+p1529
+aS".  Which excuses him getting shot in the street and his body left there for four hours HOW? Y'all are magpies; all you see is shiny."
+p1530
+aI0
+aa(lp1531
+V500295446578085889
+p1532
+aS"   Here's a petition to stop militarization of police departments "
+p1533
+aI0
+aa(lp1534
+V500297358966808576
+p1535
+aS'Now police issue pix of "alleged" robbery involving Michael Brown in Ferguson   via '
+p1536
+aI0
+aa(lp1537
+V500295853186510848
+p1538
+aS'RT  Photos of alleged robbery involving Michael Brown in Ferguson (via police)  '
+p1539
+aI0
+aa(lp1540
+V500295308572893184
+p1541
+aS'   That guy is much fatter then Michael and older'
+p1542
+aI0
+aa(lp1543
+V500299799267389440
+p1544
+aS" It doesn't matter if it's him in this picture or not the report said he was unarmed still no reason to shoot him Ferguson"
+p1545
+aI0
+aa(lp1546
+V500295400696586240
+p1547
+aS' Is there a police report we can see? Initially, the police said the victim was stopped for walking in the street.  Ferguson'
+p1548
+aI0
+aa(lp1549
+V500298399095074816
+p1550
+aS'. why are the cops releasing this? Has nothing to do with later shooting.'
+p1551
+aI0
+aaa(lp1552
+(lp1553
+V500278045597368320
+p1554
+aS'URGENT: Darren Wilson is the police officer who shot Mike Brown  Ferguson '
+p1555
+aI0
+aa(lp1556
+V500281457391435777
+p1557
+aS"  deserved what he got. Don't attack police officers!!!!"
+p1558
+aI0
+aa(lp1559
+V500278540391440385
+p1560
+aS' Is this the right link?'
+p1561
+aI0
+aa(lp1562
+V500338161370034177
+p1563
+aS' now US American know and fine! But is he going  to pay for it? Stop those BULLIES from murdering again'
+p1564
+aI0
+aa(lp1565
+V500280315429289985
+p1566
+aS' hysterical'
+p1567
+aI0
+aa(lp1568
+V500278685698519041
+p1569
+aS' Micheal Brown was a hardened criminal. But , of course, shooting him was wrong and the cop should get the death penalty'
+p1570
+aI0
+aa(lp1571
+V500281543823458304
+p1572
+aS' excuses coming thick &amp; fast next'
+p1573
+aI0
+aa(lp1574
+V500312413930291201
+p1575
+aS'RT  URGENT: Darren Wilson is the police officer who shot Mike Brown  Ferguson '
+p1576
+aI0
+aa(lp1577
+V500280986845073408
+p1578
+aS'URGENT: Darren Wilson is the police officer who shot Mike Brown  Ferguson  rt'
+p1579
+aI0
+aa(lp1580
+V500278888216268800
+p1581
+aS'     '
+p1582
+aI0
+aa(lp1583
+V500335190146056192
+p1584
+aS' Urgent: Fearmonger much?'
+p1585
+aI0
+aa(lp1586
+V500289844728565760
+p1587
+aS"  More of RT reporting on American news not it's own. hmhmhmhmhm..."
+p1588
+aI0
+aa(lp1589
+V500292092032471040
+p1590
+aS'  Because American media is staying incredibly quiet. Call RT propaganda but its more news than CNN, MSNBC or Fox.'
+p1591
+aI11
+aaa(lp1592
+(lp1593
+V500258409988763649
+p1594
+aS'Name of Ferguson cop is expected to be released by 9 ET, police chief says:  (J.B. Forbes, AP) '
+p1595
+aI0
+aa(lp1596
+V500258778122420225
+p1597
+aS' New police chief?'
+p1598
+aI0
+aa(lp1599
+V500258777057480706
+p1600
+aS" Good Ol' Boy system at work just like 1865."
+p1601
+aI0
+aa(lp1602
+V500270734934282240
+p1603
+aS'  like holding back zombies'
+p1604
+aI0
+aa(lp1605
+V500259232764411904
+p1606
+aS' BTW the interview the Ferguson Police Chief conducted yesterday was the worst interview I have ever seen'
+p1607
+aI0
+aa(lp1608
+V500259034755526656
+p1609
+aS' The Ferguson police department is incompetent. Why would you give 12 hours notice of releasing the officers name? Builds hype'
+p1610
+aI0
+aa(lp1611
+V500260909994885120
+p1612
+aS'RT  Name of Ferguson cop is expected to be released by 9 ET  (J.B. Forbes, AP) '
+p1613
+aI0
+aa(lp1614
+V500270212198174720
+p1615
+aS' Get ready to tweet the address SpikeLee and other vigilantes .'
+p1616
+aI0
+aaa(lp1617
+(lp1618
+V500377906305327104
+p1619
+aS'Ferguson PD charged HenryDavis w/ "destruction of property" for bleeding on their uniforms:  '
+p1620
+aI0
+aa(lp1621
+V500393198603489280
+p1622
+aS' My God, this dude looks like he deserved a touch up. Push his face in dough and make some gorilla cookies. Prolly in jail now.'
+p1623
+aI0
+aa(lp1624
+V500402817065320448
+p1625
+aS'Violent (&amp;racist) police officers MUST be prosecuted.\n Ferguson PD  \nsickening'
+p1626
+aI0
+aa(lp1627
+V500544598268063744
+p1628
+aS'  Thats because their SKANKERS'
+p1629
+aI0
+aa(lp1630
+V500419588199571456
+p1631
+aS' Ferguson PD charged HenryDavis w/ "destruction of property" for bleeding on their uniforms: '
+p1632
+aI0
+aa(lp1633
+V500463618480037889
+p1634
+aS' Yaaay you got Police Dept.'
+p1635
+aI0
+aa(lp1636
+V500557666528542720
+p1637
+aS'  SUCH BULLSHIT!!'
+p1638
+aI0
+aa(lp1639
+V500379811974774784
+p1640
+aS" this can't be true....lol"
+p1641
+aI0
+aa(lp1642
+V500394742966808576
+p1643
+aS"It's true.    \n"
+p1644
+aI7
+aa(lp1645
+V500404172140085248
+p1646
+aS'  I see. These guys are like the 3 Stooges'
+p1647
+aI8
+aa(lp1648
+V500415275884244992
+p1649
+aS'Which is an insult to the Three Stooges, but I agree with your point hundred percent. \n'
+p1650
+aI9
+aa(lp1651
+V500379221504442370
+p1652
+aS' wait.....what???!!!'
+p1653
+aI0
+aa(lp1654
+V500379473326665728
+p1655
+aS' Yes, you read that right. click the link and read the whole thing'
+p1656
+aI11
+aa(lp1657
+V500382569746030592
+p1658
+aS' smmmmmhhhh'
+p1659
+aI12
+aa(lp1660
+V500387049543725056
+p1661
+aS' MY GOOOOD'
+p1662
+aI12
+aa(lp1663
+V500379240299122690
+p1664
+aS' after they beat him.'
+p1665
+aI0
+aaa(lp1666
+(lp1667
+V500332933098385408
+p1668
+aS'If you can justify shooting an unarmed teenager by saying "he might have been committing a misdemeanor" you are a fucking asshole. Ferguson'
+p1669
+aI0
+aa(lp1670
+V500344751934406656
+p1671
+aS" If you don't think there is clear motive in fighting or fleeing from police after robbery, you are a fucking moron. Ferguson"
+p1672
+aI0
+aa(lp1673
+V500345018926645250
+p1674
+aS'. This "fucking moron" has an IQ of 140 &amp; admission to med school, but you are DEFINITELY a fucking racist. Ferguson'
+p1675
+aI1
+aa(lp1676
+V500345416320581632
+p1677
+aS" You've confirmed. Only the true idiots try to brag about their IQ on social media and believe admission equals intelligence."
+p1678
+aI2
+aa(lp1679
+V500337288564723712
+p1680
+aS' "might" does not even constitute evidenciary support for ANY criminal charges.'
+p1681
+aI0
+aa(lp1682
+V500338356387999745
+p1683
+aS'  attacking an officer is no a misdemeanor ....'
+p1684
+aI0
+aa(lp1685
+V500338593391341568
+p1686
+aS"  Hey look, it's a fucking racist! BLOCK, you son of a bitch."
+p1687
+aI5
+aa(lp1688
+V500343675575361536
+p1689
+aS" Strong Armed Robbery ain't a misdemeanor &amp; supplies a motive for fighting w/the cop. And, yeah, I'm an asshole.\n FERGUSON"
+p1690
+aI0
+aa(lp1691
+V500344654319988741
+p1692
+aS". Damn right you're an asshole! Since when is shooting an UNARMED TEENAGER ok? Only racists find it acceptable.  Ferguson"
+p1693
+aI7
+aaa(lp1694
+(lp1695
+V500371149713178625
+p1696
+aS'In what world do you let a cop who killed someone leave town?  Ferguson'
+p1697
+aI0
+aa(lp1698
+V500371613087326209
+p1699
+aS' Vacationing on the Bundy Ranch, Id imagine.'
+p1700
+aI0
+aa(lp1701
+V500613335541239809
+p1702
+aS'   A. In a white privilege world'
+p1703
+aI1
+aa(lp1704
+V500472043205173248
+p1705
+aS'  When you place him in the Whiteness Protection Program.'
+p1706
+aI0
+aa(lp1707
+V500371565641756673
+p1708
+aS' Brilliant! Lets arrest the entire police force for aiding and abetting.'
+p1709
+aI0
+aa(lp1710
+V500619773873770496
+p1711
+aS'   She has a valid concern.  You offer a grossly exaggerated red herring in order too...?'
+p1712
+aI4
+aa(lp1713
+V500487734914723840
+p1714
+aS'.  In a world where white cops who murder shoplifting kids are free of responsibility for their actions.'
+p1715
+aI0
+aa(lp1716
+V500477494307618816
+p1717
+aS'  I think you know the answer to that one.'
+p1718
+aI0
+aa(lp1719
+V500516393305907200
+p1720
+aS'  In a world where you have to convince everyone where the community is comprised of crazed animals and unsafe.'
+p1721
+aI0
+aa(lp1722
+V500382019109810176
+p1723
+aS" in Egypt, they killed 1000's and still free"
+p1724
+aI0
+aa(lp1725
+V500374875253391360
+p1726
+aS'.  this goes against everything i have seen on law and order!!!! MY FAITH IN THE WHOLE SYSTEM IS SHAKEN NOW!'
+p1727
+aI0
+aa(lp1728
+V500371968831787009
+p1729
+aS' Ferguson Missouri, obvs.'
+p1730
+aI0
+aa(lp1731
+V500371435127185409
+p1732
+aS" One in which you've already decided to let them get away with it. He's on paid vaca."
+p1733
+aI0
+aa(lp1734
+V500372596832350208
+p1735
+aS'  I said the exact same thing! Lady onhere told me officer was prob. checking in. HAHAHAHAHAHAHAHAHA! Ferguson'
+p1736
+aI12
+aa(lp1737
+V500375314128572416
+p1738
+aS' My column: FERGUSON: OBAMA KICKS NIXON IN THE ASS:  \nferguson  mikebrown  handsup NMOS14'
+p1739
+aI0
+aa(lp1740
+V500374020744019969
+p1741
+aS'  same one where ppl r Rioting and that are making death threats to him'
+p1742
+aI0
+aa(lp1743
+V500372355521462272
+p1744
+aS'  When is the Ferguson police chief being relieved? He allowed the alleged cop who killed MikeBrown leave town!'
+p1745
+aI0
+aa(lp1746
+V500371534913871874
+p1747
+aS'    : New Hashtag FINDDARRENWILSONNOW Ferguson'
+p1748
+aI0
+aa(lp1749
+V500371896295120896
+p1750
+aS' in a valid world like ours. Where criminals are victims...'
+p1751
+aI0
+aa(lp1752
+V500372393890557952
+p1753
+aS' Well maybe a world where you know where he lives &amp;works. Same world where ppl RIOT over a man who was shot after a robbery'
+p1754
+aI0
+aa(lp1755
+V500498433279811585
+p1756
+aS'  In the U.S.A. world.'
+p1757
+aI0
+aaa(lp1758
+(lp1759
+V500354773133299713
+p1760
+aS'In 2009, Ferguson police beat a man and charged him for bleeding on them: '
+p1761
+aI0
+aa(lp1762
+V500356143739576320
+p1763
+aS' In 2009, Ferguson police beat a man and charged him for bleeding on them:  SMH.'
+p1764
+aI0
+aa(lp1765
+V500355119183982595
+p1766
+aS'Shocker  In 2009, Ferguson police beat a man and charged him for bleeding on them: '
+p1767
+aI0
+aa(lp1768
+V500356467548250112
+p1769
+aS' In 2009, Ferguson police beat a man and charged him for bleeding on them: '
+p1770
+aI0
+aa(lp1771
+V500354972366942210
+p1772
+aS' In 2009, Ferguson police beat a man and charged him for bleeding on them:   bloods a pain to get out'
+p1773
+aI0
+aa(lp1774
+V500386459468439552
+p1775
+aS' In 2009, Ferguson police beat a man and charged him for bleeding on them:  WTF BRUH'
+p1776
+aI0
+aa(lp1777
+V500365775128248320
+p1778
+aS' In 2009, Ferguson police beat a man and charged him for bleeding on them:  read this '
+p1779
+aI0
+aa(lp1780
+V500378624113909760
+p1781
+aS'  I saw this....Its impressive how bold their police are'
+p1782
+aI6
+aa(lp1783
+V500355274352234496
+p1784
+aS'Kanye would do this  In 2009, Ferguson police beat a man and charged him for bleeding on them.'
+p1785
+aI0
+aa(lp1786
+V500357119804444673
+p1787
+aS'Tbey been fuckin niggas up  In 2009, Ferguson police beat a man and charged him for bleeding on them: '
+p1788
+aI0
+aa(lp1789
+V500356419921510400
+p1790
+aS'Wow.  In 2009, Ferguson police beat a man and charged him for bleeding on them: '
+p1791
+aI0
+aa(lp1792
+V500357628384788480
+p1793
+aS'jesus RT  Wow.  In 2009, Ferguson police beat a man &amp; charged him for bleeding on them: '
+p1794
+aI10
+aa(lp1795
+V500356749342560256
+p1796
+aS' Pretty simple 2 see that FergusonPoliceDepartment is RACIST, they have shown that 2 the whole world! BlackLivesMatter'
+p1797
+aI0
+aa(lp1798
+V500356990917681152
+p1799
+aS' In 2009, Ferguson police beat a man and charged him for bleeding on them: '
+p1800
+aI0
+aa(lp1801
+V500355191645171712
+p1802
+aS' In 2009, Ferguson police beat a man and charged him for bleeding on them:  '
+p1803
+aI0
+aa(lp1804
+V500355631627632641
+p1805
+aS" that's way OC bruh lol"
+p1806
+aI14
+aa(lp1807
+V500356049766219777
+p1808
+aS' at least we know it really happened lol'
+p1809
+aI15
+aa(lp1810
+V500356193731481600
+p1811
+aS" yeah I'm hip lol I can't call that one fluke"
+p1812
+aI16
+aa(lp1813
+V500357475762466816
+p1814
+aS'This.  In 2009, Ferguson police beat a man and charged him for bleeding on them: '
+p1815
+aI0
+aa(lp1816
+V500355126666600448
+p1817
+aS'YO?!?! RT  In 2009, Ferguson police beat a man and charged him for bleeding on them: '
+p1818
+aI0
+aa(lp1819
+V500355125517361153
+p1820
+aS' In 2009, Ferguson police beat a man and charged him for bleeding on them: '
+p1821
+aI0
+aa(lp1822
+V500363247355457536
+p1823
+aS' you see this '
+p1824
+aI0
+aa(lp1825
+V500358331073318912
+p1826
+aS' In 2009, Ferguson police beat a man and charged him for bleeding on them:  still trust them??????????'
+p1827
+aI0
+aa(lp1828
+V500367331424751616
+p1829
+aS'what? " In 2009, Ferguson police beat a man and charged him for bleeding on them: '
+p1830
+aI0
+aa(lp1831
+V500382451324440576
+p1832
+aS'This right here smh  In 2009, Ferguson police beat a man and charged him for bleeding on them: '
+p1833
+aI0
+aaa(lp1834
+(lp1835
+V500363126294863876
+p1836
+aS'The Ferguson police chief just basically confirmed MikeBrown was gunned to death for the crime of walking in the street?\n\nHorrific.'
+p1837
+aI0
+aa(lp1838
+V500383873482891264
+p1839
+aS' Walking in the street while Black'
+p1840
+aI0
+aa(lp1841
+V500385377656377346
+p1842
+aS" Hmm. That's not what I heard at all.  What's your source and quote?"
+p1843
+aI0
+aa(lp1844
+V500363420689248256
+p1845
+aS' But... There was something leading up to the shooting? Or what?'
+p1846
+aI0
+aa(lp1847
+V500363941114298368
+p1848
+aS"  But... There was something leading up to the shooting? Or what?-&gt; soon they'll say officer felt a gun onMike"
+p1849
+aI3
+aa(lp1850
+V500387635429642240
+p1851
+aS' if he was not a suspect why was MikeBrown inside the police car in the first place? Or was he ever  near the police car?'
+p1852
+aI0
+aa(lp1853
+V500382947229581312
+p1854
+aS' no they did not'
+p1855
+aI0
+aa(lp1856
+V500364276281122817
+p1857
+aS'  Wrong. The violent assault MikeBrown committed makes it more likely he attacked the cops minutes later.  Ferguson'
+p1858
+aI0
+aaa(lp1859
+(lp1860
+V500341884678836224
+p1861
+aS'Hobby Lobby asks Ferguson PD for clarification: "We thought chopping off someone\'s hand was the maximum penalty for shoplifting"'
+p1862
+aI0
+aa(lp1863
+V500346621801295872
+p1864
+aS' terrible attempt at humor. Shame on you.'
+p1865
+aI0
+aa(lp1866
+V500343086988677120
+p1867
+aS'Funny. Unfortunately wrestling a cops gun away would have gotten you shot 50 yrs ago &amp; it will get you shot 50 yrs from now. '
+p1868
+aI0
+aa(lp1869
+V500342822059646976
+p1870
+aS' lol'
+p1871
+aI0
+aa(lp1872
+V500405557602553857
+p1873
+aS'    Good one!'
+p1874
+aI0
+aa(lp1875
+V500386248284831746
+p1876
+aS' "Unfortunately "there is no proof he did that and witnesses who say he didn\'t go for the gun. Perhaps we should wait for facts'
+p1877
+aI0
+aa(lp1878
+V500460605686677504
+p1879
+aS'  so bad...'
+p1880
+aI0
+aa(lp1881
+V500489755373862913
+p1882
+aS'  you know that was funny!'
+p1883
+aI6
+aa(lp1884
+V500344330046152705
+p1885
+aS" That's only in countries that need to be converted!"
+p1886
+aI0
+aa(lp1887
+V500349107672580096
+p1888
+aS" ... That's just plain funny."
+p1889
+aI0
+aaa(lp1890
+(lp1891
+V500319675797209088
+p1892
+aS'If we shot everyone in the street for stealing, imagine the carnage on Wall St. mikebrown ferguson'
+p1893
+aI0
+aa(lp1894
+V500341644873723905
+p1895
+aS' \n\nThe halls of congress would be empty too. And every union official would be waiting for a coroner pick up.'
+p1896
+aI0
+aa(lp1897
+V500348187656601600
+p1898
+aS'Does Missouri, St. Louis County &amp; Ferguson have rules &amp; laws about cops using deadly force? What are they?\n '
+p1899
+aI0
+aa(lp1900
+V500574128609312769
+p1901
+aS'  yes but cops only shoot for stealing material things. Not peoples life savings.'
+p1902
+aI0
+aa(lp1903
+V500714300046974976
+p1904
+aS"  \nwe're going to need to try it out, before I comment"
+p1905
+aI0
+aa(lp1906
+V500715098583736320
+p1907
+aS'  oops, getting sleepy...kitty meowed out all nite!'
+p1908
+aI4
+aa(lp1909
+V500348247677104128
+p1910
+aS'  Those thefts are all well clear of the legal limit.'
+p1911
+aI0
+aa(lp1912
+V500340602236833792
+p1913
+aS"  there'd be no one left in government parasites"
+p1914
+aI0
+aa(lp1915
+V500322693460131841
+p1916
+aS'He went there.  If we shot everyone in the street for stealing, imagine the carnage on Wall St. mikebrown ferguson'
+p1917
+aI0
+aa(lp1918
+V500714325472866304
+p1919
+aS'  They would need a helluva huge cannon..........'
+p1920
+aI0
+aa(lp1921
+V500320165142495232
+p1922
+aS" ladies and gentlemen, don't tip your waitress as it perpetuates wage slavery."
+p1923
+aI0
+aaa(lp1924
+(lp1925
+V500389488217309184
+p1926
+aS'Ferguson chief let most of day go by b4 disclosing (after repeated Qs) that cop who killed MikeBrown knew nothing about robbery. DANGER'
+p1927
+aI0
+aa(lp1928
+V500472734573658112
+p1929
+aS' the chief said this am that cop was at a call for sick person, then got the call for store strong arm robbery'
+p1930
+aI0
+aa(lp1931
+V500476059880816640
+p1932
+aS' Incorrect. Was on sick person call &amp; then driving came across Brown &amp; friend walking &amp; asked they get off the road '
+p1933
+aI1
+aa(lp1934
+V500478671451586560
+p1935
+aS'  seems like theres soo much about this case it gets confusing yet there isnt enough info??'
+p1936
+aI2
+aa(lp1937
+V500478509366915072
+p1938
+aS'  i relistened to the press conf &amp; ur right i was wrong'
+p1939
+aI2
+aa(lp1940
+V500479810939142144
+p1941
+aS" It's like the 'connect the dots' books. If they sold cliff notes, they'd be outdated by day end. Bumbling idiots "
+p1942
+aI4
+aa(lp1943
+V500397204730048512
+p1944
+aS' did of release the report filed by Wilson?'
+p1945
+aI0
+aa(lp1946
+V500390996673585152
+p1947
+aS' Polluting potential jurors by any Chief of LEOs should be an intentional malice reprimand,+ the county DA may be his Advisor'
+p1948
+aI0
+aa(lp1949
+V500395032718110721
+p1950
+aS' I want to believe its total incompetence.  But its was all on purpose to change public opinion.  My guess is it will continue'
+p1951
+aI0
+aa(lp1952
+V500390975819513856
+p1953
+aS"  Ferguson Chief needs to be removed from his job...I never meant 4 this 2 happen..don't insult our intelligence"
+p1954
+aI0
+aa(lp1955
+V500390676802961408
+p1956
+aS" you know the cop didnt have to know about robbery for this video to have value. you're not very good at being stupid."
+p1957
+aI0
+aa(lp1958
+V500670228708462592
+p1959
+aS"  But she's very good at instigating and baiting....just like her mother. Smh"
+p1960
+aI10
+aa(lp1961
+V500741014181531648
+p1962
+aS'  i had no idea that was her mom.'
+p1963
+aI11
+aa(lp1964
+V500757739480842242
+p1965
+aS'  Yep!! Splitting image in everything except one has black hair and other blonde....'
+p1966
+aI12
+aa(lp1967
+V500390919951351808
+p1968
+aS' Lisa is he the confirmed robber?'
+p1969
+aI0
+aa(lp1970
+V500392686260879360
+p1971
+aS' Have to show Mike without clean hands somehow.'
+p1972
+aI0
+aa(lp1973
+V500395857473466368
+p1974
+aS" that's what I thought too... "
+p1975
+aI0
+aa(lp1976
+V500415611449909249
+p1977
+aS' Did the media ask for the video under FOIA as the Chief of Police said? And why was video released without  commentary in am?'
+p1978
+aI0
+aa(lp1979
+V500391396910456832
+p1980
+aS" MikeBrown connects the robbery w shooting. dont have to be a genius. a guy who shoves clerk is s'posed to raise his hands later?"
+p1981
+aI0
+aa(lp1982
+V500394428243390465
+p1983
+aS"  Shoving a clerk means you'll take on a police officer with a  gun? SoundLogic YesThisIsSarcasm MikeBrown"
+p1984
+aI18
+aa(lp1985
+V500426909860114432
+p1986
+aS'  not necessarily. but it might show a particular disposition towards authority figures.'
+p1987
+aI19
+aa(lp1988
+V500698984877666304
+p1989
+aS'  I rolled through a stop sign once, the cop was shouting at me like I killed someone. I was terrified. They overreact.'
+p1990
+aI20
+aa(lp1991
+V500743658451107842
+p1992
+aS'  sad that happened to you. no doubt there are racist/ignorant cops. but not all, maybe not Ferguson'
+p1993
+aI21
+aa(lp1994
+V500698326720086017
+p1995
+aS'  and who would blame them when those authority figures are gunning surrendering suspects down?'
+p1996
+aI20
+aa(lp1997
+V500742011834470401
+p1998
+aS"  since the 'witness' version is incomplete/inaccurate the whole 'hands up' part prob isn't true either Ferguson"
+p1999
+aI23
+aa(lp2000
+V500399953295208448
+p2001
+aS'   it prevented future crimes by MikeBrown'
+p2002
+aI19
+aa(lp2003
+V500407103774003201
+p2004
+aS" but mike brown knew about the robbery and DIDN'T know the cop didn't know - that's what makes it POSSIBLY relevant"
+p2005
+aI0
+aa(lp2006
+V500391932934512640
+p2007
+aS'  stranger by the second'
+p2008
+aI0
+aa(lp2009
+V500390396229615617
+p2010
+aS"It's a strategy to manipulate media and misinform people. "
+p2011
+aI0
+aa(lp2012
+V500389858243006464
+p2013
+aS'  For that reason precisely, media should refrain from connecting the two. Stay with the shooting story.'
+p2014
+aI0
+aa(lp2015
+V500390243716304896
+p2016
+aS" that's unfortunate. signed, ferguson PD"
+p2017
+aI0
+aa(lp2018
+V500390764518854656
+p2019
+aS"   it's about changing the narrative."
+p2020
+aI0
+aa(lp2021
+V500391055259598849
+p2022
+aS'  And it is down right disrespectful to the young man and his family.'
+p2023
+aI31
+aa(lp2024
+V500409272807985152
+p2025
+aS'  The people responsible for killing MikeBrown should not be in control of the evidence proving what happenend.'
+p2026
+aI0
+aa(lp2027
+V500394092484755458
+p2028
+aS'  IMMORTALCONSCIOUSNESS '
+p2029
+aI0
+aa(lp2030
+V500458931723202561
+p2031
+aS' Of course he did. It gave people time to solidify the opinions that they already had. It was a calculated move.'
+p2032
+aI0
+aa(lp2033
+V500399784394764288
+p2034
+aS" he didn't say he didn't know about the robbery, it went out over radio, he said he didn't know MikeBrown was a suspect"
+p2035
+aI0
+aaa(lp2036
+(lp2037
+V500378223977721856
+p2038
+aS'Oh. So NOW the Ferguson police chief says the cop didn\'t know about the robbery when he stopped MikeBrown. The kid was "jaywalking"? BS!'
+p2039
+aI0
+aa(lp2040
+V500379064146751490
+p2041
+aS" It's a conniving way to do a smear campaign. Darren Wilson is a cold-blooded murderer. JusticeForMikeBrown Ferguson"
+p2042
+aI0
+aa(lp2043
+V500379350563569666
+p2044
+aS' Because jaywalking and stealing cigars are capital crimes. It\'s the classic "Blame the victim" defense.'
+p2045
+aI0
+aa(lp2046
+V500385105337417728
+p2047
+aS' they\'ve been throwing out one lie after another. And none of it makes sense. How was he "prime suspect" just minutes after?'
+p2048
+aI0
+aa(lp2049
+V500396771345199104
+p2050
+aS' ok so that was mike in the convenience store?'
+p2051
+aI0
+aa(lp2052
+V500378447597039617
+p2053
+aS' initially, but found out about the robbery during the altercation'
+p2054
+aI0
+aa(lp2055
+V500387422417338368
+p2056
+aS'Well, yeah.  He had to trash the name of a dead child before providing that little tid bit. '
+p2057
+aI0
+aa(lp2058
+V500379398525431809
+p2059
+aS' SUSPICION of a crime results n DEATH of the unarmed in the Black comm as a rule. MichaelBrown EricGarner TrayvonMartin'
+p2060
+aI0
+aa(lp2061
+V500378498054500352
+p2062
+aS' may be prudent to ask clerk if Brown was the one who hit him'
+p2063
+aI0
+aa(lp2064
+V500381074531569664
+p2065
+aS' their account is getting worse and worse Roland'
+p2066
+aI0
+aa(lp2067
+V500379599185125376
+p2068
+aS" &lt;&lt;he didn't know at all they still has a B.O.L.O out at 7 for the suspect"
+p2069
+aI0
+aa(lp2070
+V500380991035559937
+p2071
+aS' I\'m not sure there was a "robbery". Convenience stores keep tobacco behind a counter where you PAY first! IJS MikeBrown'
+p2072
+aI0
+aa(lp2073
+V500382426909392896
+p2074
+aS' if u watch the tape, he reached over counter, still not grounds to shoot him from behind'
+p2075
+aI11
+aa(lp2076
+V500384398022565888
+p2077
+aS" you can't tell whether there was somebody behind the counter or not. Either way not related to shooting."
+p2078
+aI12
+aa(lp2079
+V500385005873680386
+p2080
+aS' I hear ya, but u said the swishers were behind the counter and they were, no biggie'
+p2081
+aI13
+aa(lp2082
+V500385293103820800
+p2083
+aS" when that didn't made logical sense, now it was jaywalking? And he felt the nd to use deadly force for jaywalking? Lol"
+p2084
+aI0
+aa(lp2085
+V500379949463654401
+p2086
+aS" wasn't it just this morning they were saying it was the reason"
+p2087
+aI0
+aaa(lp2088
+(lp2089
+V499456140044824576
+p2090
+aS'St. Louis Co Police tell me ofcr shot a man who pointed handgun at him at Chambers &amp; Sheffingdell at about 1 a.m. Man in critical. ferguson'
+p2091
+aI0
+aa(lp2092
+V499462679736496130
+p2093
+aS"  Why should we believe anything FERGUSON police have to say, won't release  of bullets or autopsy MICHAELBROWN"
+p2094
+aI0
+aa(lp2095
+V499538759076282368
+p2096
+aS'   or the video!'
+p2097
+aI1
+aa(lp2098
+V499456558125023233
+p2099
+aS' tx for keeping us informed.  Stay safe!'
+p2100
+aI0
+aa(lp2101
+V499456567990026240
+p2102
+aS' source?'
+p2103
+aI0
+aa(lp2104
+V499456892595613696
+p2105
+aS" Uh! Oh. This is serious and officially out of control. Ferguson I sure hope it wasn't false sighting or PD in more hot water"
+p2106
+aI0
+aa(lp2107
+V499460810704302080
+p2108
+aS' How many weeks until police interview witnesses? '
+p2109
+aI0
+aa(lp2110
+V499462325544304640
+p2111
+aS'True?  CountyPD tell me ofcr shot a man who pointed handgun at him at Chambers/Sheffingdell at 1 a.m. Man critical ferguson'
+p2112
+aI0
+aa(lp2113
+V499462501998665730
+p2114
+aS"  according to police that's the truth"
+p2115
+aI7
+aa(lp2116
+V499458379555684353
+p2117
+aS' Thank you so much for getting this scoop.  People have been on pins and needles at the reddit live feed. '
+p2118
+aI0
+aa(lp2119
+V499555936969957376
+p2120
+aS" I'm glad this officer wasn't at the bundy ranch,  because he would've shot a lot of people for pointing guns at him.  Smh"
+p2121
+aI0
+aaa(lp2122
+(lp2123
+V499368931367608320
+p2124
+aS'Currently the FoxNews website has zero, repeat, ZERO coverage of the Ferguson protests, probably due to lack of cowboy hats.'
+p2125
+aI0
+aa(lp2126
+V499370756241764352
+p2127
+aS" assholes on FOXNEWS are a major reason why stupid cops don't give a damn about d life of young black kids"
+p2128
+aI0
+aa(lp2129
+V499371743773863936
+p2130
+aS' Thanks 4 going where many of us don\'t care to wonder . No surprises, but really no articles "he ran at my car really fast."'
+p2131
+aI0
+aa(lp2132
+V499595867683565568
+p2133
+aS'  I remember the same type of coverage when we invaded Iraq. Boots on the ground?  Cont...'
+p2134
+aI0
+aa(lp2135
+V499435529130504192
+p2136
+aS' My column: AN EXECUTION IN FERGUSON:  \nferguson michaelbrown policebrutality'
+p2137
+aI0
+aa(lp2138
+V499370418445508608
+p2139
+aS" Na, it's too many black people for FoxNews to care"
+p2140
+aI0
+aa(lp2141
+V499665170390470658
+p2142
+aS' Good to know but exactly what is to be expected.'
+p2143
+aI0
+aa(lp2144
+V499385991292280832
+p2145
+aS"  They don't want their hillbilly viewers to start thinking that the race war has finally started... yet. FOXNEWS"
+p2146
+aI0
+aa(lp2147
+V499370097698291713
+p2148
+aS' Too busy bitching about POTUS for sure'
+p2149
+aI0
+aa(lp2150
+V499586042752557056
+p2151
+aS"  Imagine if Ferguson folks were strutting around with AR's. Think Perry&amp;Hannity would be hunkered down in solidarity?"
+p2152
+aI0
+aa(lp2153
+V499596052623028224
+p2154
+aS"  Boots on the ground? Who cares! We need more coverage of Brittney Spears' blobs!"
+p2155
+aI0
+aa(lp2156
+V499369111663550465
+p2157
+aS' Shocking... Earlier they had a segment on TV asking if black America would do anything to stop the looting in Ferguson'
+p2158
+aI0
+aa(lp2159
+V499386359841554432
+p2160
+aS"   Isn't this the truth!"
+p2161
+aI0
+aa(lp2162
+V499592983810158594
+p2163
+aS' Your tweet really makes this page stronger: '
+p2164
+aI0
+aa(lp2165
+V499570907602767872
+p2166
+aS'  MikeBrown would need to be shot in Benghazi  for foxnews to cover it'
+p2167
+aI0
+aa(lp2168
+V499580023901519872
+p2169
+aS"   FOX HAS BECOME A REPUBLICAN POLITICIANS INFOMERCIAL,&amp; ISN'T REALLY INTERESTED IN REAL NEWS,BOYCOTT !"
+p2170
+aI14
+aa(lp2171
+V499571259730976771
+p2172
+aS'  Nicely played, sir!'
+p2173
+aI14
+aa(lp2174
+V499596317413621760
+p2175
+aS'   or be white. Or old and white. Or an old, rich and white Senator.'
+p2176
+aI14
+aa(lp2177
+V499434486804000768
+p2178
+aS' or no missing pretty blonde white girl.'
+p2179
+aI0
+aa(lp2180
+V499370209442942976
+p2181
+aS" Currently the FoxNews website has zero/........as the three wise monkeys commented 'see no evil hear no evil speak no evil"
+p2182
+aI0
+aa(lp2183
+V499447388025921536
+p2184
+aS"  won't release the name of the cop who did the shooting &amp; have not spoke to the witnesses..BuyingTime"
+p2185
+aI0
+aa(lp2186
+V499449102908653570
+p2187
+aS'  Buying Time to Protect a Racist..Murdering Cop.. Sick Coward'
+p2188
+aI20
+aa(lp2189
+V499451011791335424
+p2190
+aS"  I know that's right..hoping to god Someone captured on phone +hasn't came forward -yet..(video/shooting)"
+p2191
+aI21
+aa(lp2192
+V499452664053104642
+p2193
+aS"  If we don't Jail these Rogue..Racist Cops they won't Stop Killing young Unarmed Black Men.. Sick"
+p2194
+aI22
+aa(lp2195
+V499453449206239232
+p2196
+aS'  I was raised by a hater; + knew very wrong-always.But it baffles me w Diversity in creation y ppl hate rt race..'
+p2197
+aI23
+aa(lp2198
+V499459462965362688
+p2199
+aS'  HatersHate and LiarsLie'
+p2200
+aI24
+aa(lp2201
+V499435314373734400
+p2202
+aS" you have the right to remain silent but isn't that how we ended up here? Ferguson "
+p2203
+aI0
+aa(lp2204
+V499448422127394816
+p2205
+aS'   '
+p2206
+aI26
+aa(lp2207
+V499547493592743936
+p2208
+aS'  so tragic!'
+p2209
+aI26
+aa(lp2210
+V499369781846233088
+p2211
+aS' get some "don\'t tread on me" flags and fox will go'
+p2212
+aI0
+aa(lp2213
+V499427932935180289
+p2214
+aS". It's the lack of property damage. On Fox, it's property&gt;people"
+p2215
+aI0
+aa(lp2216
+V499447660777316352
+p2217
+aS"  they have already f'd themselves..all the different accounts of what happened..dirtyTruth will come to light.."
+p2218
+aI0
+aa(lp2219
+V499377993153019904
+p2220
+aS" Their cameras can't focus on brown people."
+p2221
+aI0
+aaa(lp2222
+(lp2223
+V500280422295937024
+p2224
+aS'Darren Wilson is a six year veteran of the Ferguson Police and had no disciplinary actions against him.'
+p2225
+aI0
+aa(lp2226
+V500284169382289409
+p2227
+aS'  Can we see video proof'
+p2228
+aI0
+aa(lp2229
+V500284024162488321
+p2230
+aS'  im sure none of the  officers in fergurson have any infractions against them........'
+p2231
+aI0
+aa(lp2232
+V500289950735400961
+p2233
+aS"HE ISN'T THE SHOOTER RT  Darren Wilson is a six year veteran of the Ferguson Police and had no disciplinary actions against him."
+p2234
+aI0
+aa(lp2235
+V500290872479449089
+p2236
+aS' well who is Ferguson'
+p2237
+aI3
+aa(lp2238
+V500291568361041920
+p2239
+aS'  Bryan Willman'
+p2240
+aI4
+aa(lp2241
+V500281136439103489
+p2242
+aS" In case you haven't been told enough, you've done a fantastic job covering this story. Really great work."
+p2243
+aI0
+aa(lp2244
+V500283944089423872
+p2245
+aS'   yamiche. you didnt get this topic cause your black right?  i hope its of your enduring work ethic'
+p2246
+aI0
+aa(lp2247
+V500281906320404480
+p2248
+aS' you do an amazing job! Thank you.'
+p2249
+aI0
+aa(lp2250
+V500283809989132288
+p2251
+aS'Translation: killing unarmed teen his first. MT  Darren Wilson 6-yr vet of Ferguson Police w/ no disciplinary actions against him.'
+p2252
+aI0
+aa(lp2253
+V500283535769759744
+p2254
+aS'6 years is a "veteran"?  Darren Wilson is a six year veteran of the Ferguson Police and had no disciplinary actions against him.'
+p2255
+aI0
+aa(lp2256
+V500282011982913539
+p2257
+aS'  - Is it true there was a struggle in the squad car, before shooting?'
+p2258
+aI0
+aa(lp2259
+V500282657037496320
+p2260
+aS" I'm sure they covered up all his disciplinary actions. They've had almost a week to set up a defense strategy!"
+p2261
+aI0
+aaa(lp2262
+(lp2263
+V498430783699554305
+p2264
+aS'Witness: Police allegedly stopped Mike Brown after yelling at him to walk on sidewalk. Ferguson '
+p2265
+aI0
+aa(lp2266
+V498432131669192704
+p2267
+aS' cool! Darkskinned man is a crime element in your village?? So, why obama is alive yet???'
+p2268
+aI0
+aa(lp2269
+V498455687836758016
+p2270
+aS" &lt;&lt;&lt; ~~~~  The SecretService Protects Obama PresidentObama He Get's Threats All The Time."
+p2271
+aI1
+aa(lp2272
+V498456361286795265
+p2273
+aS' Is People Like You That MURDER UNARMEDBLACKS You Ask Why Is Obama Still Alive.RACIST \nKKK SMH '
+p2274
+aI1
+aa(lp2275
+V498471393538093056
+p2276
+aS"   I'm not RACIST. We live together with over 200 nations in Russia. And U can go out for this words, mucacho."
+p2277
+aI3
+aa(lp2278
+V498465487635099648
+p2279
+aS"  I'm glad, amigo, you love your president, who kills many children in Ukrain and Gaza and many places more ;-)"
+p2280
+aI3
+aa(lp2281
+V498455038701092864
+p2282
+aS"  I Don't Like His Tweet Asking Why \nIs Obama Alive Yet!! WePray SecretService  "
+p2283
+aI1
+aa(lp2284
+V498433698149056513
+p2285
+aS'Another win for the gene pool '
+p2286
+aI0
+aa(lp2287
+V498488174923227136
+p2288
+aS'  You so edgy.'
+p2289
+aI7
+aa(lp2290
+V498453873124970496
+p2291
+aS'  Cleveland MalissaWilliamsAndTimothyRussell\nGot No Justice 12 Of The 13RacistCops NotCHARGED BlackLifeMatters'
+p2292
+aI0
+aa(lp2293
+V498452460881870848
+p2294
+aS'  Cleveland  \nMalissaWilliamsAndTimothyRussell Were Shot Up,UNARMED \n12 Of 13RacistCops NotCHARGED'
+p2295
+aI0
+aa(lp2296
+V498453364045529088
+p2297
+aS'  Cleveland  2UNARMEDBLACKS\nMURDERED 11-29-12~The Case Was Being Covered Up~Mayor Was On Cops Sides!!'
+p2298
+aI0
+aa(lp2299
+V498440508256292864
+p2300
+aS'   These responses explain why thiskeeps happening. Too many white men hate black men. Sad.'
+p2301
+aI0
+aa(lp2302
+V498448178270990336
+p2303
+aS'   so, what the fuck? Is anyone in your village walk through streets with a knife or a gun???'
+p2304
+aI12
+aa(lp2305
+V498504798971650049
+p2306
+aS'    White guys jealous.'
+p2307
+aI12
+aa(lp2308
+V498521904396115971
+p2309
+aS'    perfect!!)) Like Daniel Craig throw his GF to the window. White girls smart ;-)'
+p2310
+aI14
+aa(lp2311
+V498488821197991937
+p2312
+aS"If u think something another says can somehow hold you back, you're a loser &amp; deserve failure   "
+p2313
+aI12
+aa(lp2314
+V498448625643831296
+p2315
+aS'   U just want to say "white is guilty, because they white"? In Moscow black guys sold drugs...'
+p2316
+aI12
+aa(lp2317
+V498474828278804481
+p2318
+aS' Witness: Police allegedly stopped Mike Brown after yelling at him to walk on sidewalk. Ferguson '
+p2319
+aI0
+aa(lp2320
+V498452989930401792
+p2321
+aS'  GOOGLE Cleveland Police Shoot\n137 Times&lt;~MURDERING 2UNARMEDBLACKS They Have \nMURDERED Many UNARMEDBLACKS'
+p2322
+aI0
+aa(lp2323
+V498454395248721920
+p2324
+aS'  Cleveland A Cop Shot A 19yr Old In The \nHead! Black Unarmed MomsOnlyChild Cop Said He THOUGHT He\nSaw A Gun!!!'
+p2325
+aI0
+aa(lp2326
+V498451864112074752
+p2327
+aS'  Cleveland Any Excuse Will Do.\nIn A Police Chase 11-29-12~2UnarmedBLACKS MURDERED \nBy 13RACISTCOPS 137GUNSHOTS'
+p2328
+aI0
+aaa(lp2329
+(lp2330
+V500280838710247424
+p2331
+aS'Police reports released this morning indicate Mike Brown was a suspect in a "strong-armed" robbery in Ferguson'
+p2332
+aI0
+aa(lp2333
+V500281916658958337
+p2334
+aS'  WHEN?  he became a suspect upon the firing of the fatal shot?'
+p2335
+aI0
+aa(lp2336
+V500282527559720960
+p2337
+aS'   exactly'
+p2338
+aI1
+aa(lp2339
+V500284352832757760
+p2340
+aS'   We will not rest until there is Justice here.  Even if true, Mike Brown did not deserve execution.'
+p2341
+aI1
+aa(lp2342
+V500281948233674753
+p2343
+aS"It's a little scary to know they shoot and kill people suspected of crimes in Ferguson.  "
+p2344
+aI0
+aa(lp2345
+V500330934118658048
+p2346
+aS' Police reports  indicate Mike Brown was a suspect in a "strong-armed" robbery in Ferguson Oh, please, of course it did'
+p2347
+aI0
+aa(lp2348
+V500284524971188224
+p2349
+aS'  A pack of cigarettes = strong armed robbery.... You guys are getting ready to stir the pot again.'
+p2350
+aI0
+aa(lp2351
+V500282616289828864
+p2352
+aS'  "strong-armed"? But not actually "armed." Soooo, the use of deadly force against him? How can it be justified?'
+p2353
+aI0
+aa(lp2354
+V500285250791288832
+p2355
+aS'   whitesupremacy attacks victim, leaves perp unexamined nojusticenopeace'
+p2356
+aI0
+aa(lp2357
+V500282169227755520
+p2358
+aS'  so it was fine to just execute him in the street then'
+p2359
+aI0
+aa(lp2360
+V500283973239865345
+p2361
+aS' Police reports released this morning indicate Mike Brown was a suspect in a "strong-armed" robbery in Ferguson VictimOnTrial'
+p2362
+aI0
+aa(lp2363
+V500285361394708480
+p2364
+aS'Wait...  Police reports released this morning indicate Mike Brown was a suspect in a "strong-armed" robbery in Ferguson'
+p2365
+aI0
+aa(lp2366
+V500284160100294657
+p2367
+aS'  Fuck that.  Where is the report?  Why was he unarmed?  No.  We demand justice.  FixThePolice'
+p2368
+aI0
+aa(lp2369
+V500282025543499777
+p2370
+aS' Police reports released this morning indicate Mike Brown was a suspect in a "strong-armed" robbery in Ferguson '
+p2371
+aI0
+aa(lp2372
+V500284241985683456
+p2373
+aS'  old saying "there\'s always two sides to a story"'
+p2374
+aI13
+aa(lp2375
+V500284857650782209
+p2376
+aS"  and unfortunately we'll never hear the other side of the story because he's dead"
+p2377
+aI14
+aa(lp2378
+V500286345668202497
+p2379
+aS'  Exactly'
+p2380
+aI15
+aa(lp2381
+V500284605770235904
+p2382
+aS'  how many times do innocent "Black men" fit the description tho?'
+p2383
+aI14
+aa(lp2384
+V500285261813940224
+p2385
+aS'  9 times out 10!'
+p2386
+aI17
+aa(lp2387
+V500285798089252865
+p2388
+aS"  that's problematic."
+p2389
+aI18
+aa(lp2390
+V500284153674219521
+p2391
+aS'  All "strong-armed" means is physical force was used; term is being used deliberately so people get confused. Ferguson'
+p2392
+aI0
+aa(lp2393
+V500284990345981952
+p2394
+aS'  oh yes. Clear that something occurred, death still not necessarily the right result.'
+p2395
+aI20
+aa(lp2396
+V500285795002236928
+p2397
+aS'  "Strong armed" is being used to obfuscate; sounds like the perp was armed, which he wasn\'t, &amp; the crime was SHOPLIFTING.'
+p2398
+aI21
+aa(lp2399
+V500283424477687808
+p2400
+aS' Police reports released this morning indicate Mike Brown was a suspect in a "strong-armed" robbery in FergusonSo kill him?'
+p2401
+aI0
+aa(lp2402
+V500285527820890113
+p2403
+aS' all there is a still picture of a black man walking is that what counts as evidence were they on his person?'
+p2404
+aI23
+aa(lp2405
+V500283123532570624
+p2406
+aS' wait a min, I thought they said he was a good boy?'
+p2407
+aI0
+aa(lp2408
+V500282726298054656
+p2409
+aS'  that\'s bs. there\'s always a "history" when the African Americans gets killed.'
+p2410
+aI0
+aa(lp2411
+V500283003323842560
+p2412
+aS'  Ironic since all the i witnesses say the officer was white. Now it is the black officer Darren Wilson who shot??'
+p2413
+aI0
+aa(lp2414
+V500286677303058432
+p2415
+aS"   I haven't seen anyone say he was black. It is a somewhat common name."
+p2416
+aI27
+aa(lp2417
+V500302632641396736
+p2418
+aS"  I retract my previous tweet. Darren Wilson's race is NOT CONFIRMED. I apologize."
+p2419
+aI28
+aa(lp2420
+V500284989565448192
+p2421
+aS"   So they're claiming a BLACK cop killed MikeBrown? ?"
+p2422
+aI27
+aa(lp2423
+V500301459469373440
+p2424
+aS'   that is MY ERROR. There is no report confirming Darren Wilson is black. I retract my tweet.'
+p2425
+aI30
+aa(lp2426
+V500313005855617024
+p2427
+aS'  Fit description would be more accurate.'
+p2428
+aI0
+aa(lp2429
+V500284023340818433
+p2430
+aS'  Indicate? If he was a suspect why did the police stop his car next to him and tell him to "get the fck on the sidewalk" ?'
+p2431
+aI0
+aa(lp2432
+V500291543631429632
+p2433
+aS'. GOOD POINT. \nwalkingonsidewalkwhileblack \ncc  '
+p2434
+aI33
+aa(lp2435
+V500282858737778688
+p2436
+aS'  How were the police so quick to indicate Mike Brown if all of this took place in a matter of minutes?'
+p2437
+aI0
+aa(lp2438
+V500285916494061568
+p2439
+aS'   Even IF he did IF; he was still UNARMED &amp; shot MULTIPLE times. Does it JUSTIFY his killing NO!.Ferguson'
+p2440
+aI0
+aa(lp2441
+V500281906362351616
+p2442
+aS'  Antonio French tweeted this vid 4 days ago. Is this the same robbery and market? '
+p2443
+aI0
+aa(lp2444
+V500284767196430337
+p2445
+aS" This would be more believable if they'd said it a week ago. No one believes it now. NO ONE. Ferguson "
+p2446
+aI0
+aaa(lp2447
+(lp2448
+V498280126254428160
+p2449
+aS'Mike Brown was staying with his grandmother for the summer, who lived in the community. Ferguson'
+p2450
+aI0
+aa(lp2451
+V498282494387843072
+p2452
+aS' Unbelieveable ..... We R in double digits with white men killing black male children. This has got 2 stop ppl! racism'
+p2453
+aI0
+aa(lp2454
+V498323335965868032
+p2455
+aS' Mike Brown was staying with his grandmother for the summer, who lived in the community. Ferguson&lt;  sad story'
+p2456
+aI0
+aa(lp2457
+V498280920227794945
+p2458
+aS' -- wow'
+p2459
+aI0
+aa(lp2460
+V498283789744103424
+p2461
+aS' Emmett Till was visiting his family too when he was murdered. Decades apart still innocent murders of African America males.'
+p2462
+aI0
+aaa(lp2463
+(lp2464
+V500284699546517505
+p2465
+aS'If there is surveillance of a robbery why release stills and not the video itself? Ferguson'
+p2466
+aI0
+aa(lp2467
+V500365550351290371
+p2468
+aS" It doesn't matter. The cop shouldn't have killed him. Also, I'd like to see the damn injuries the wussy cop had."
+p2469
+aI0
+aa(lp2470
+V500285141370298368
+p2471
+aS" It's easier to manipulate pictures than a video."
+p2472
+aI0
+aa(lp2473
+V500299320676339712
+p2474
+aS'  Where is the video from the cellphone taken from one of the witnesses who saw Brown shot and killed?'
+p2475
+aI0
+aa(lp2476
+V500286059885125632
+p2477
+aS' is that even him in the stills?'
+p2478
+aI0
+aa(lp2479
+V500297607475105792
+p2480
+aS'  look at the shoes'
+p2481
+aI4
+aa(lp2482
+V500297892511633408
+p2483
+aS"  doesn't justify him getting shot several times."
+p2484
+aI5
+aa(lp2485
+V500299770968408064
+p2486
+aS'  got me all wrong the robbery suspect is wearing sandals but michael is wearing tennis shoes- few mins later'
+p2487
+aI6
+aa(lp2488
+V500286470150967296
+p2489
+aS' maybe they will do like 911 and cut out frames'
+p2490
+aI0
+aa(lp2491
+V500299056934289408
+p2492
+aS'  Because it shows Brown negatively. The real issue is: Why did a cop shoot and kill an unarmed man, hands up?'
+p2493
+aI0
+aa(lp2494
+V500285091394764801
+p2495
+aS'Video manipulation takes time. RT  If there is surveillance of a robbery why release stills and not the video itself? Ferguson'
+p2496
+aI0
+aa(lp2497
+V500285436527661056
+p2498
+aS'  why is that even relevant?!'
+p2499
+aI10
+aa(lp2500
+V500286862255464448
+p2501
+aS" Video manipulation takes time. RT  If there's surveillance of a robbery why release stills &amp; not video? Ferguson."
+p2502
+aI10
+aa(lp2503
+V500286154944827392
+p2504
+aS'To not telegraph their court case  If there is surveillance of a robbery why release stills and not video itself? Ferguson'
+p2505
+aI0
+aa(lp2506
+V500286352605577218
+p2507
+aS" That's what you got from those looks like some1 pushing an old lady around.... no?"
+p2508
+aI0
+aa(lp2509
+V500285913906565120
+p2510
+aS' they did release the video..up to the journalists to post them  '
+p2511
+aI0
+aaa(lp2512
+(lp2513
+V500413818368184321
+p2514
+aS'Remarkably, despite the military-style police presence in Ferguson, a known killer was able to skip town '
+p2515
+aI0
+aa(lp2516
+V500636418155098113
+p2517
+aS' that is why you were not given his name, so that he could skip town.'
+p2518
+aI0
+aa(lp2519
+V500699046181621760
+p2520
+aS'   nerdland  mediabuzz \nANHQDC '
+p2521
+aI0
+aa(lp2522
+V500414334367830017
+p2523
+aS' can find him either under a white cone hat or a koch bed!'
+p2524
+aI0
+aa(lp2525
+V500415249174888448
+p2526
+aS' probably the best idea'
+p2527
+aI0
+aa(lp2528
+V500500740163383299
+p2529
+aS' LOL!Ferguson'
+p2530
+aI0
+aa(lp2531
+V500414759502876673
+p2532
+aS' know surprise there.'
+p2533
+aI0
+aa(lp2534
+V500484108993458176
+p2535
+aS'  Remarkably, The Best Literary Novel First/Sentence/Like Tweet Ever ;D'
+p2536
+aI0
+aa(lp2537
+V500421425908703233
+p2538
+aS'  I understand his reluctance have his family around the violence, but they should know where he went.'
+p2539
+aI0
+aa(lp2540
+V500547984526802944
+p2541
+aS'   Watch this girl lie through her teeth at 4:47 '
+p2542
+aI8
+aa(lp2543
+V500676678956220416
+p2544
+aS"   and you're basing your assessment on what? Her statement seems to match other witnesses."
+p2545
+aI9
+aa(lp2546
+V500416260887166976
+p2547
+aS' What\'s that they say? "If he\'s not guilty, then why did he run?!"'
+p2548
+aI0
+aa(lp2549
+V500702640305868801
+p2550
+aS"(  :'Darren Wilson, FergusonMO. (cop) who shot MikeBrown reportedly skipped town with his family days ago.'"
+p2551
+aI0
+aa(lp2552
+V500703436103753728
+p2553
+aS'  :Plausible that the FergusonPD aided+abetted Wilson in fleeing.  PSYCHOLOGICAL TESTS for cops should be mandatory.'
+p2554
+aI12
+aa(lp2555
+V500704429600157696
+p2556
+aS"  :Please take no offense to my analogy. FergusonShooting is like something from 'Deliverance. "
+p2557
+aI13
+aa(lp2558
+V500442891102081024
+p2559
+aS' '
+p2560
+aI0
+aaa(lp2561
+(lp2562
+V500378522788315137
+p2563
+aS"Ferguson police: Officer involved in fatal shooting of Michael Brown didn't know he was suspect in alleged robbery. "
+p2564
+aI0
+aa(lp2565
+V500378835339476994
+p2566
+aS" that's big"
+p2567
+aI0
+aa(lp2568
+V500381422150905856
+p2569
+aS" HandsUpDontShoot hashtavists still don't know his hands were up."
+p2570
+aI0
+aa(lp2571
+V500418698532777985
+p2572
+aS" i don't believe that is what he said. He said the stop was initially not about that. Previously, they said he knew of robbery and..."
+p2573
+aI0
+aa(lp2574
+V500400593576669185
+p2575
+aS' NOTE TO SELF: Actions of committing amy crime, no matter how misqal may justify my death to some, regardless to how unwarranted.'
+p2576
+aI0
+aa(lp2577
+V500386880635301889
+p2578
+aS' Hi, like, please) '
+p2579
+aI0
+aa(lp2580
+V500383183217913856
+p2581
+aS' I believe the robbery actually did happen and is not alleged.'
+p2582
+aI0
+aa(lp2583
+V501757171122839552
+p2584
+aS'  You thought of that all by yourself??? Amazingly Irrelevant!!!'
+p2585
+aI6
+aa(lp2586
+V500396365986689025
+p2587
+aS' I am sure Cops go to work thinking what black kid can I shoot today and cause riots and Al Sharpton to speak again ..SMH'
+p2588
+aI0
+aa(lp2589
+V500406324644294657
+p2590
+aS' How is robbery define by state law? Where are the reports from the shooting? Why no ambulance? ferguson foi'
+p2591
+aI0
+aa(lp2592
+V500386770857758721
+p2593
+aS" Ferguson police: Officer involved in fatal shooting of Michael Brown didn't know he was suspect.  ridic"
+p2594
+aI0
+aa(lp2595
+V500418749548093441
+p2596
+aS' had a description.'
+p2597
+aI0
+aa(lp2598
+V501756572952166400
+p2599
+aS'  Go Back To Sleep Loraine!!!'
+p2600
+aI11
+aa(lp2601
+V500382765934604291
+p2602
+aS' This, and their militaristic approach to the problem, does not paint the Fergie PD in a favorable light'
+p2603
+aI0
+aa(lp2604
+V500383351828525056
+p2605
+aS'  So he thought he will pick on this black kid because it was a slow day?'
+p2606
+aI0
+aa(lp2607
+V500383587552985090
+p2608
+aS'  no justification needed...'
+p2609
+aI14
+aa(lp2610
+V500384126151573505
+p2611
+aS'  I asked the guy at the airport. Why did you chose me for a search? He said it was random. I did not buy that.'
+p2612
+aI15
+aa(lp2613
+V500384618496163840
+p2614
+aS'  nothing is random where the West is concerned...'
+p2615
+aI16
+aa(lp2616
+V500383170462621697
+p2617
+aS' This point is irrelevant.  What is important is what happened after the officer contacted the suspect.'
+p2618
+aI0
+aa(lp2619
+V500393289074638848
+p2620
+aS" and Brown wasn't aware that the cop was unaware of the violent robbery Brown had just committed."
+p2621
+aI0
+aa(lp2622
+V500378925021687808
+p2623
+aS' Mike thought the coppers were on to him so he tried to assault the officer to get away. shame..'
+p2624
+aI0
+aaa(lp2625
+(lp2626
+V500279189405433858
+p2627
+aS'That was very "SLICK" of the Police Chief to create a narrative that MikeBrown was a "suspect" in a robbery!  Ferguson'
+p2628
+aI0
+aa(lp2629
+V500279483732361216
+p2630
+aS' CRAZY'
+p2631
+aI0
+aa(lp2632
+V500291697167712258
+p2633
+aS' So they shot him 8 times because he was a "suspect"? Still doesn\'t make any sense.'
+p2634
+aI0
+aa(lp2635
+V500281136816594944
+p2636
+aS' VERY SLICK PASTOR!'
+p2637
+aI0
+aa(lp2638
+V500280396010229760
+p2639
+aS' We need b careful of jumping 2 conclusions. Waiting to see this videotape.'
+p2640
+aI0
+aa(lp2641
+V500285663271718914
+p2642
+aS' Come on now.......openminds'
+p2643
+aI0
+aa(lp2644
+V500279473187860480
+p2645
+aS' he knew what he was doing. Smh!'
+p2646
+aI0
+aa(lp2647
+V500280140560338944
+p2648
+aS' Yeah...I caught that too. "VERY SLICK"  Seeing the framing of the lie starting now!'
+p2649
+aI0
+aa(lp2650
+V500279655925293058
+p2651
+aS" key word: create...if that were true, that could've been released Sunday...smh"
+p2652
+aI0
+aa(lp2653
+V500279528225120256
+p2654
+aS' I thought Mike Brown was "struggling" for the cops gun? Total lies by police chief'
+p2655
+aI0
+aa(lp2656
+V500280663065772032
+p2657
+aS' Chief should go to Hollywood &amp; write suspense thrillers! Ferguson MikeBrown'
+p2658
+aI0
+aa(lp2659
+V500279402635067393
+p2660
+aS' he just admitted on national TV that Michael Brown was racially profiled'
+p2661
+aI0
+aa(lp2662
+V500280380910751745
+p2663
+aS'  he was racially profiled because he fit the description of a strong arm robber?'
+p2664
+aI11
+aa(lp2665
+V500286793632071681
+p2666
+aS' of course because they want to try and make black people look as bad as possible and worth them killing.'
+p2667
+aI0
+aaa(lp2668
+(lp2669
+V500377145349521411
+p2670
+aS'to be clear: an unarmed teenager POSSIBLY stealing a box of cigars does not warrant being shot to death by the police. Ferguson'
+p2671
+aI0
+aa(lp2672
+V500378287898918912
+p2673
+aS' Yes but it does warrant being shot to death by the store owner. Its called Karma.  Guy has a rap sheet as long as your arm'
+p2674
+aI0
+aa(lp2675
+V500377411469733889
+p2676
+aS' not even if he IS stealing.'
+p2677
+aI0
+aa(lp2678
+V500379602435731456
+p2679
+aS" agreed. Being shot for possibly stealing cigars isn't karma, it's excessive force that doesn't match the crime."
+p2680
+aI0
+aa(lp2681
+V501806249264959488
+p2682
+aS' to be clear: an unarmed teenager. I guess you were witness to the altercation between the cop &amp; the suspect if not shut it'
+p2683
+aI0
+aa(lp2684
+V500379102353047553
+p2685
+aS' Thanks for clearing that up. I was really confused about that. ;-)'
+p2686
+aI0
+aa(lp2687
+V500407313715302400
+p2688
+aS' fucked up police. "Police".'
+p2689
+aI0
+aa(lp2690
+V500377826722201600
+p2691
+aS" no but it shows this person's character and his disregard for the law and law enforcement this fact is highly relevant here."
+p2692
+aI0
+aa(lp2693
+V500386677513154560
+p2694
+aS'. a 300lbs aggressive young man might get shot if he attacks a cop.'
+p2695
+aI0
+aa(lp2696
+V500379220426907648
+p2697
+aS' you would be blown away by the swedish police then'
+p2698
+aI0
+aa(lp2699
+V500386025412104192
+p2700
+aS'Hey  on top of bein selfadmitted idiot : ) Yer also Retarted LOL Libs + their Ferguson WelfarePet Thugs '
+p2701
+aI0
+aa(lp2702
+V500378499891605505
+p2703
+aS'   So what?  The police still have to work within the confines of the law even if others do not.'
+p2704
+aI0
+aa(lp2705
+V500398105162821634
+p2706
+aS'  police are humans too and when confronted with that situation no training is perfect to predict a response'
+p2707
+aI11
+aa(lp2708
+V500387065650241536
+p2709
+aS' Ok yes but why the outrage..police are human too &amp; make wrong decisions..what about when they get shot just 4 protecting us!'
+p2710
+aI0
+aa(lp2711
+V500387923372425216
+p2712
+aS' Speak to them Moby, tell em!!!'
+p2713
+aI0
+aaa(lp2714
+(lp2715
+V500347114975944705
+p2716
+aS'New link: Ferguson police release video they say shows a robbery involving MichaelBrown:  '
+p2717
+aI0
+aa(lp2718
+V500347833774374912
+p2719
+aS' where is the robbery? All I see is a confrontation.'
+p2720
+aI0
+aa(lp2721
+V500350502690115584
+p2722
+aS'  smh'
+p2723
+aI1
+aa(lp2724
+V500382101930143745
+p2725
+aS'  you missed the part where he reaches in and takes these cigars? Passes them to his friend and takes some him self.POS'
+p2726
+aI1
+aa(lp2727
+V500382921476145152
+p2728
+aS'  again he could have paid for them'
+p2729
+aI3
+aa(lp2730
+V500347712764518400
+p2731
+aS" You guys are LATE with that video. It's been circulating for damn near 3 hours now."
+p2732
+aI0
+aa(lp2733
+V500348911404728320
+p2734
+aS"Doesn't matter. Cop still murdered him. We won't be distracted.  "
+p2735
+aI0
+aa(lp2736
+V500348806480035841
+p2737
+aS' wheres the money if he robbed the place looks like a soda in that persons hand'
+p2738
+aI0
+aa(lp2739
+V500352847351775234
+p2740
+aS'  so robbery can only be with money?Every time a black kid gets shot, all the black people say"He wasnt in the wrong"'
+p2741
+aI7
+aa(lp2742
+V500355271332757504
+p2743
+aS'  so they killed him for stealing chips and juice gtfoh point is he was unarmed '
+p2744
+aI8
+aa(lp2745
+V500356093801795585
+p2746
+aS'  You do realize he didnt get shot because of that robbery? He was shot during protests and riots.'
+p2747
+aI9
+aa(lp2748
+V500356692560072704
+p2749
+aS'  to make him he look like a thug ? '
+p2750
+aI10
+aa(lp2751
+V500357394845560835
+p2752
+aS'  Yes which from the video, he looks like thug. They are trying to make it seem like he could have done something to the cop'
+p2753
+aI11
+aa(lp2754
+V500357701827039232
+p2755
+aS' oh please even if he jacked the cop up they have other weapons besides a gun'
+p2756
+aI12
+aa(lp2757
+V500358464325947393
+p2758
+aS' So if someone was coming at you and beating the fuck out of you threating your life, you wouldnt shoot them if you could?'
+p2759
+aI13
+aa(lp2760
+V500359435911716864
+p2761
+aS" if i were a cop &amp; he was unarmed ummm hello .. So he must've left his taser in the car ... ?"
+p2762
+aI14
+aa(lp2763
+V500360127522693120
+p2764
+aS' the cop didnt know he was un armed he could have pulled out a gun and killed him, if he tazed him he could shot the cop.'
+p2765
+aI15
+aa(lp2766
+V500358008979722243
+p2767
+aS' stepped in the wrong part of town, but just because cop shot someone its bad. get over it.'
+p2768
+aI11
+aa(lp2769
+V500358715992969218
+p2770
+aS' he had no reason to shoot an unarmed person u sound ignorant  enjoy ya day'
+p2771
+aI17
+aa(lp2772
+V500359448531980288
+p2773
+aS' he felt threatened so he took action, not saying hes in the right but that what happen'
+p2774
+aI18
+aa(lp2775
+V500359336359518208
+p2776
+aS' Fists are weapons, he could have done anything at anytime he did what he thought was right he has a family to go home to'
+p2777
+aI18
+aa(lp2778
+V500357862699192321
+p2779
+aS' the cop shouldnt have shot him. but just because he was black people care. people kill each other everyday because someone'
+p2780
+aI11
+aa(lp2781
+V500356545730084864
+p2782
+aS'  then why accuse him of a robbery if thats not why they killed him? Whats the point of bringing it up..'
+p2783
+aI10
+aa(lp2784
+V500356909816631296
+p2785
+aS'  to make him look like the bad guy.. Since there is no real reason for why they did it.'
+p2786
+aI10
+aa(lp2787
+V500357587997831169
+p2788
+aS"   It was to show his mentality. To prove that he isn't as innocent as anyone thought he was."
+p2789
+aI23
+aa(lp2790
+V500358410572156928
+p2791
+aS'   exactly'
+p2792
+aI24
+aa(lp2793
+V500356297519165440
+p2794
+aS'  People act like he was shot because he was black, but if it was a white kid or a black cop no one would care.'
+p2795
+aI9
+aa(lp2796
+V500357390299308032
+p2797
+aS'  rather he was orange , purple or grey they  dead ass wrong ... If it were your relative u would feel different .'
+p2798
+aI26
+aa(lp2799
+V500384144405192704
+p2800
+aS"   MichaelBrown He struggled with a cop and went for his gun - that's what got his a$$ killed"
+p2801
+aI9
+aa(lp2802
+V500350665315450881
+p2803
+aS'  he robbed swishers supposedly'
+p2804
+aI7
+aa(lp2805
+V500354964838166528
+p2806
+aS'   he robbed swishers supposedly smh'
+p2807
+aI29
+aa(lp2808
+V500355777878835200
+p2809
+aS"  word, took a bullet for some swishers -.- we'll never know the whole story though"
+p2810
+aI30
+aa(lp2811
+V500356119932719104
+p2812
+aS"   word, took a bullet for some swishers we'll never know the whole story though exactly they looking for an excuse"
+p2813
+aI31
+aa(lp2814
+V500356480432754689
+p2815
+aS'  there doesnt have to be money stolen/ just stolen itemsto be a robbery, they said it is robbery bc the use of force'
+p2816
+aI7
+aa(lp2817
+V500357905968033792
+p2818
+aS'  the picture isnt clear that could be anybody'
+p2819
+aI33
+aa(lp2820
+V500359294181580800
+p2821
+aS'  thats not what i was referring to, i was just saying it doesnt have to be money to be a robbery'
+p2822
+aI34
+aa(lp2823
+V500348984347860992
+p2824
+aS'  Nothing in that video provides concrete evidence of anything,much less any kind of justification for cops murdering anyone.'
+p2825
+aI0
+aa(lp2826
+V500348365746737152
+p2827
+aS' oh please CNN cut the bullshit them dirty ass cops will say anything'
+p2828
+aI0
+aa(lp2829
+V500366747506335744
+p2830
+aS'  yeah they faked the video LOL racist denial'
+p2831
+aI37
+aa(lp2832
+V500367139652784128
+p2833
+aS'   yeah they faked the video LOL racist denial oh please'
+p2834
+aI38
+aa(lp2835
+V500367482679746560
+p2836
+aS'  did you see the video?\ndo you think the police faked the video? are you saying this ISNT Michael brown??\n\nplease'
+p2837
+aI39
+aa(lp2838
+V500368570724155392
+p2839
+aS'  did I say it was fake u , are u stupid or dumb? I said why show it now... '
+p2840
+aI40
+aa(lp2841
+V500654216239915008
+p2842
+aS'   WHY SHOW IT NOW???? because it is relevant you buffoon'
+p2843
+aI41
+aa(lp2844
+V500479738964901889
+p2845
+aS'  idiot'
+p2846
+aI41
+aa(lp2847
+V500371547496796162
+p2848
+aS'  what about the FBI'
+p2849
+aI37
+aa(lp2850
+V500372089967476736
+p2851
+aS'   what about the FBI'
+p2852
+aI44
+aa(lp2853
+V500373700974112768
+p2854
+aS"  do they count as part of the stupid LEO because their part of this investigation too. Video doesn't lie"
+p2855
+aI45
+aa(lp2856
+V500373096860487680
+p2857
+aS'   no offense 2 u sir but unless he was reaching 4 a gun then there was no reason for this to happen'
+p2858
+aI44
+aa(lp2859
+V500374119725031424
+p2860
+aS'   no offense taken sir and normally I would agree with you but their is more to this story.'
+p2861
+aI47
+aa(lp2862
+V500367241888944130
+p2863
+aS"  even going extreme length to hire an actor that looks like Michael brown! Not saying murder was justified, it's not"
+p2864
+aI37
+aa(lp2865
+V500368286027354113
+p2866
+aS'  i agree'
+p2867
+aI49
+aa(lp2868
+V500369339628126209
+p2869
+aS'  that being said, even if he committed the most awful crime on planet earth, he DID surrender. No reason to be shot.'
+p2870
+aI50
+aa(lp2871
+V500369701240066048
+p2872
+aS'  thankyou exactly my point'
+p2873
+aI51
+aa(lp2874
+V500371833376350208
+p2875
+aS'   this is just the beginning of the information!!!'
+p2876
+aI51
+aa(lp2877
+V500371514127310850
+p2878
+aS'  no need to thank im with u that stealing a 80cnt cigar shouldnt trump a kid who had a future. We all do stupid shit'
+p2879
+aI51
+aaa(lp2880
+(lp2881
+V500303431928922113
+p2882
+aS'Reminder: Forget the robbery, forget the minor looting. NOTHING justifies militarized police pointing sniper rifles at journalists Ferguson'
+p2883
+aI0
+aa(lp2884
+V500336087613464577
+p2885
+aS' MINOR LOOTING? LOL'
+p2886
+aI0
+aa(lp2887
+V500400826507341825
+p2888
+aS' new bill Stop Militarizing Law Enforcement act drafted yesterday '
+p2889
+aI0
+aa(lp2890
+V500308746820927489
+p2891
+aS' Journalists, poor and the homeless are not Royalty.'
+p2892
+aI0
+aa(lp2893
+V500303711533408257
+p2894
+aS' NOTHING justifies militarized police pointing sniper rifles at anyone fixed'
+p2895
+aI0
+aa(lp2896
+V500328120709570561
+p2897
+aS'  \nHow about this '
+p2898
+aI0
+aa(lp2899
+V500305500441833474
+p2900
+aS'You misspelled citizens.  '
+p2901
+aI0
+aa(lp2902
+V500308000901701632
+p2903
+aS" minor looting? Didn't they burn down a store?"
+p2904
+aI0
+aa(lp2905
+V500307986775298048
+p2906
+aS' Not simply a title: Journalists, but CITIZENS, Paul. Everyday USA People/CITIZENS protesting Police MURDER/Subterfuge!  --GBJ'
+p2907
+aI0
+aa(lp2908
+V500327481052655617
+p2909
+aS' there was shots fired from in the riot nite 1.I heard it live on the police scanner.I think theyre worried about armed rioters'
+p2910
+aI0
+aa(lp2911
+V500306266691219456
+p2912
+aS'  what about drone killing innocent bystanders that are near an alleged bad guy? We turn cheek No Twitter outrage'
+p2913
+aI0
+aa(lp2914
+V500305625545318400
+p2915
+aS' at anyone!'
+p2916
+aI0
+aa(lp2917
+V500708519583420417
+p2918
+aS". Is that why you guys posted TONS of photos of looters on the first day this story broke? You're so much like the MSM you hate"
+p2919
+aI0
+aa(lp2920
+V500646220755251201
+p2921
+aS" I say even before journalists, CITIZENS! but now the journalists can put light on the situation, it's all across the U.S."
+p2922
+aI0
+aa(lp2923
+V500304691985526787
+p2924
+aS' or pointing any weapon at any non-combatant'
+p2925
+aI0
+aa(lp2926
+V500320646396518400
+p2927
+aS' except molotov cocktails. Molotov cocktails justify snipers...'
+p2928
+aI0
+aa(lp2929
+V500327907114246148
+p2930
+aS'  oh yea the malatov cocktails too.'
+p2931
+aI15
+aa(lp2932
+V500304713141600256
+p2933
+aS" the original lie is going to screw them, everything after the first day is a separate crime.  they didn't care about boston!"
+p2934
+aI0
+aaa(lp2935
+(lp2936
+V500307001629745152
+p2937
+aS"It appears that Ferguson PD are trying to assassinate Mike Brown's character after literally assassinating Mike Brown."
+p2938
+aI0
+aa(lp2939
+V500385894134992896
+p2940
+aS' this turned out to be a very popular tweet'
+p2941
+aI0
+aa(lp2942
+V500386029791371267
+p2943
+aS' it sure did. A boon to my brand'
+p2944
+aI1
+aa(lp2945
+V500310256598011904
+p2946
+aS'  How? They are giving info that the media asked for.'
+p2947
+aI0
+aa(lp2948
+V500310883684208640
+p2949
+aS"  They are releasing irrelevant info that doesn't affect the case of Michael Brown's shooting"
+p2950
+aI3
+aa(lp2951
+V500311158138884096
+p2952
+aS'  also wrong venues and in wrong order. After his summary execution in the street, they are trying him through the media.'
+p2953
+aI4
+aa(lp2954
+V500314894063767553
+p2955
+aS"  Are you saying they start at the end and don't explain why he was approached by cops?"
+p2956
+aI5
+aa(lp2957
+V500313920301588480
+p2958
+aS"  They can't tie the two together cause they are separate issues. Releasing at different times puts distance between them."
+p2959
+aI4
+aa(lp2960
+V500313720145207297
+p2961
+aS"  They can't release shooting info cause they are still interviewing witnesses. Media wanted this info."
+p2962
+aI4
+aa(lp2963
+V500311506676756480
+p2964
+aS"   What case? It's totally cool to shoot unarmed people suspected of a crime!"
+p2965
+aI4
+aa(lp2966
+V500312144421089281
+p2967
+aS'    to have the Supreme Court declare open season for cops on the population is a deliberate decision.'
+p2968
+aI9
+aa(lp2969
+V500315190529773570
+p2970
+aS'    For you to declare he was executed without any facts is also as absurd.'
+p2971
+aI10
+aa(lp2972
+V500316587333652480
+p2973
+aS'    and not releasing any facts is a real good way to make sure people pass judgment on the facts they have'
+p2974
+aI11
+aa(lp2975
+V500318794862960640
+p2976
+aS'    Not releasing facts about that shooting is also a way to make sure they get good info from witnesses.'
+p2977
+aI12
+aa(lp2978
+V500320401369870336
+p2979
+aS"    they've systematically only released information that makes them look good, even info that might taint"
+p2980
+aI13
+aa(lp2981
+V500321053197864961
+p2982
+aS'    What other info do they have ready to release? All they have said is this is why we approached him.'
+p2983
+aI14
+aa(lp2984
+V500321227597021184
+p2985
+aS"    Why wasn't Dorian Johnson arrested if he was suspected of a robbery?"
+p2986
+aI15
+aa(lp2987
+V500321569907150848
+p2988
+aS'    an investigative report on the shooting?'
+p2989
+aI15
+aa(lp2990
+V500319011955949569
+p2991
+aS'    What they did today was also a good way to taint the jury pool.'
+p2992
+aI13
+aa(lp2993
+V500378492488253440
+p2994
+aS"    What they also did was chose to not ignore facts that call in to question the witness' credibility."
+p2995
+aI18
+aa(lp2996
+V500379159965618178
+p2997
+aS"    He admitted they stole cigars to DOJ &amp; StL County PD. He wasn't charged b/c he didn't commit a crime."
+p2998
+aI19
+aa(lp2999
+V500379294284001282
+p3000
+aS"    There are several witnesses. They don't all know each other and they're all saying the same things."
+p3001
+aI19
+aa(lp3002
+V500381689399369730
+p3003
+aS'    Ok, so you get accounts from the community he lives in where people already have a distrust in police'
+p3004
+aI21
+aa(lp3005
+V500383616283975680
+p3006
+aS"    then tell me the people of Ferguson haven't EARNED some distrust."
+p3007
+aI22
+aa(lp3008
+V500385684285190144
+p3009
+aS'    Right there you just admired they are all bad witnesses if they have distrusts in cops.'
+p3010
+aI23
+aa(lp3011
+V500383364084686849
+p3012
+aS"    why don't you check out the racial profiling statistics of the Ferguson PD? some real, hard facts."
+p3013
+aI22
+aa(lp3014
+V500384522840453120
+p3015
+aS'    That right there tells me you are going into this with an agenda.'
+p3016
+aI25
+aa(lp3017
+V500384718496747520
+p3018
+aS"    that I don't like racial profiling and think police should obey the law? That is definitely my agenda."
+p3019
+aI26
+aa(lp3020
+V500384895319818240
+p3021
+aS'    LOL'
+p3022
+aI27
+aa(lp3023
+V500385933523304448
+p3024
+aS'    No that you see this as a racial situation before you know anything.'
+p3025
+aI27
+aa(lp3026
+V500392633760759808
+p3027
+aS'    country is just not paying close enough attention."'
+p3028
+aI29
+aa(lp3029
+V500399816954753024
+p3030
+aS'    Anybody who uses it at every opportunity falsely weakens the message.'
+p3031
+aI30
+aa(lp3032
+V500400629739573250
+p3033
+aS'    Rand Paul used those words BECAUSE of this incident. Just fuck off dude. Fuck off so hard.'
+p3034
+aI31
+aa(lp3035
+V500401666454065154
+p3036
+aS"    You're making an assumption about something based on other peoples actions, that's my point."
+p3037
+aI32
+aa(lp3038
+V500400605035507712
+p3039
+aS"    who says it's false? There's a large &amp; documented history of this PD arresting too many blacks."
+p3040
+aI31
+aa(lp3041
+V500392542853406720
+p3042
+aS'    Rand Paul, yesterday:  "Anyone who thinks race does not skew the application of criminal justice in this'
+p3043
+aI29
+aa(lp3044
+V500381784425512960
+p3045
+aS'    and you want to make a decision without any hard facts.'
+p3046
+aI21
+aa(lp3047
+V500379521900503040
+p3048
+aS"    You don't want to see what's happening? Fine. Keep being naive. Good day."
+p3049
+aI19
+aa(lp3050
+V500380753272635392
+p3051
+aS"    I see a lot of people making assumptions with limited facts. We haven't even seen an autopsy report."
+p3052
+aI37
+aa(lp3053
+V500384077481259008
+p3054
+aS'    autopsy report SPOILER alert: died from multiple gunshot wounds'
+p3055
+aI38
+aa(lp3056
+V500384869419978752
+p3057
+aS"    Was he shot in the chest or back? From 35' away or 3' away? Which wounds came first?"
+p3058
+aI39
+aa(lp3059
+V500385201181052928
+p3060
+aS"    They've already said he shot him once from the car. Christ."
+p3061
+aI40
+aa(lp3062
+V500386143943139332
+p3063
+aS'    If he was shot in the chest or back is the biggest factor in who is right.'
+p3064
+aI41
+aa(lp3065
+V500389863561388032
+p3066
+aS"    in your world, it's cool to shoot unarmed people in the chest, but not the back? Or vice versa?"
+p3067
+aI42
+aa(lp3068
+V500399589417963521
+p3069
+aS'    If he was shot in the back he was running away but shot in the chest he could have been charging.'
+p3070
+aI43
+aa(lp3071
+V500400101097889792
+p3072
+aS"    Yeah, I would totally expect a kid that's been shot to run away, get shot again, and decide to charge."
+p3073
+aI44
+aa(lp3074
+V500400890126155777
+p3075
+aS'    Has that info came out yet?'
+p3076
+aI45
+aa(lp3077
+V500402352919445504
+p3078
+aS"    confused how an unarmed person, charging, retreating, or standing still, is a threat to a cop 30' away"
+p3079
+aI44
+aa(lp3080
+V500404864443105280
+p3081
+aS"    Did you see him stand 30' away and get shot? No. A few people who have a problem with cops did."
+p3082
+aI47
+aa(lp3083
+V500405250755690496
+p3084
+aS'    do you not even have a basic understanding why people mistrust police?'
+p3085
+aI48
+aa(lp3086
+V500405947253006339
+p3087
+aS"    I do, but do you have a basic understanding of the judicial system? Let's hear both sides then decide."
+p3088
+aI49
+aa(lp3089
+V500407571153694720
+p3090
+aS'    dude, come on. This rogue cop apparently thought he was Judge Dredd and murdered an unarmed kid.'
+p3091
+aI50
+aa(lp3092
+V500415054559203329
+p3093
+aS"    So no matter that evidence comes out during the investigation that's what you're going with?"
+p3094
+aI51
+aa(lp3095
+V500415578373627904
+p3096
+aS'    UNSUBSCRIBE'
+p3097
+aI52
+aa(lp3098
+V500405661864566784
+p3099
+aS"    that's an account FROM THE STL CO POLICE CHIEF"
+p3100
+aI48
+aa(lp3101
+V500405868244910081
+p3102
+aS"  I blocked him, so you can leave me off the tweets. I won't see them, gives you more characters."
+p3103
+aI54
+aa(lp3104
+V500406011543703552
+p3105
+aS'  ok'
+p3106
+aI55
+aa(lp3107
+V500405818769285120
+p3108
+aS"    I'm relying on details agreed upon by the police and the witnesses."
+p3109
+aI48
+aa(lp3110
+V500406892644937728
+p3111
+aS"    They didn't say who fired the shots in the car. The fact is we've only heard one side."
+p3112
+aI57
+aa(lp3113
+V500407281486663680
+p3114
+aS" there's a difference between an open mind and an empty one"
+p3115
+aI58
+aa(lp3116
+V500415239163101184
+p3117
+aS' An open mind waits for all the facts then decides. An empty one makes a decision before the investigation is over.'
+p3118
+aI59
+aa(lp3119
+V500405555282726912
+p3120
+aS'  per chief belmar: "a shot was fired inside the car, and Brown was eventually shot about 35 feet away from the vehicle."'
+p3121
+aI48
+aa(lp3122
+V500406172155777025
+p3123
+aS"  And there was a struggle inside the car. How do we know Brown didn't get the gun and fire the shot during the struggle?"
+p3124
+aI61
+aa(lp3125
+V500406679176241153
+p3126
+aS" why would the ferguson PD and STLCO PD release the information they've released and fail to mention that?"
+p3127
+aI62
+aa(lp3128
+V500402902662262784
+p3129
+aS'    Simple: Mike Brown was Inspector Gadget.'
+p3130
+aI47
+aa(lp3131
+V500387313050845184
+p3132
+aS"    What? No it isn't. There is definitely no justification for deadly force once he was running."
+p3133
+aI42
+aa(lp3134
+V500399398132523009
+p3135
+aS'    If he was shot in the chest how was he running away?'
+p3136
+aI65
+aa(lp3137
+V500385150468116480
+p3138
+aS'    everyone agrees he was shot once at close range and multiple times at 30+ feet.'
+p3139
+aI40
+aa(lp3140
+V500319116776198144
+p3141
+aS'    P MUCH'
+p3142
+aI18
+aa(lp3143
+V500320630156189697
+p3144
+aS"    I don't understand the double standard of wanting all the info about the cop but Brown's past is safe."
+p3145
+aI68
+aa(lp3146
+V500320501475332096
+p3147
+aS'    the investigation (e.g., that officer had a facial injury).'
+p3148
+aI13
+aa(lp3149
+V500315733633806336
+p3150
+aS"    I don't think i did say that. I did criticize a Supreme Court decision I've read many times."
+p3151
+aI11
+aa(lp3152
+V500320131239518209
+p3153
+aS"    That's two different arguments."
+p3154
+aI71
+aa(lp3155
+V500320873086476288
+p3156
+aS'    it is! I both argued that the Supreme Court was wrong . . .'
+p3157
+aI72
+aa(lp3158
+V500321014816210944
+p3159
+aS'    and that suppressing or selectively releasing info led to people deciding for themselves.'
+p3160
+aI72
+aa(lp3161
+V500311885120819200
+p3162
+aS"    and that is part of what's distressing. Police screw up and make bad decisions in any system."
+p3163
+aI9
+aa(lp3164
+V500309015981989888
+p3165
+aS' At least they are thorough.  '
+p3166
+aI0
+aa(lp3167
+V500315038541156352
+p3168
+aS" I'm curious, had the suspect been white would the PD have acted the same?"
+p3169
+aI0
+aa(lp3170
+V500315174633766912
+p3171
+aS' p sure you know the answer to that question.'
+p3172
+aI77
+aa(lp3173
+V500320052449914880
+p3174
+aS" And that's the point. That's what people are upset about, I think."
+p3175
+aI78
+aa(lp3176
+V500320369056948224
+p3177
+aS" it's also pretty upsetting that a kid was summarily executed for maybe stealing a pack of cigars."
+p3178
+aI79
+aa(lp3179
+V500320602520293376
+p3180
+aS' Agree. Not worth the bullets whatsoever.'
+p3181
+aI80
+aa(lp3182
+V500320974697693185
+p3183
+aS' Also per last press conf, local PD depts seem super disconnected and out of touch with African American community.'
+p3184
+aI80
+aa(lp3185
+V500321405540786176
+p3186
+aS' I believe I read something like Ferguson is 29% white but the PD is 94% white.'
+p3187
+aI82
+aa(lp3188
+V500322465323974656
+p3189
+aS' White or Black the biggest prob people have with police is the attitude from cops. We are a guilty till proven innocent society.'
+p3190
+aI83
+aa(lp3191
+V500322706760691712
+p3192
+aS' strongly agree. I know policing is a terribly high-stress job, but most people are not criminals.'
+p3193
+aI84
+aa(lp3194
+V500323321519800321
+p3195
+aS' Perhaps they need to alter/improve their training.'
+p3196
+aI85
+aaa(lp3197
+(lp3198
+V500381163866062848
+p3199
+aS'Report: Ferguson police beat up wrong suspect then charged him for getting blood on uniforms in 2009 '
+p3200
+aI0
+aa(lp3201
+V500384948826935297
+p3202
+aS' Report: Ferguson police beat up wrong suspect then charged him for getting blood on uniforms in 2009 '
+p3203
+aI0
+aa(lp3204
+V500384255814299648
+p3205
+aS'  Awful! The DOJ needs to do thorough investigation of this PD-these problems are systemic. The citizens deserve better!'
+p3206
+aI0
+aa(lp3207
+V500428718917951488
+p3208
+aS'  Just plain scary.'
+p3209
+aI0
+aa(lp3210
+V500387275767681024
+p3211
+aS'  Those times when you laugh at a funny, sarcastic, and ridiculous tweet and then realize it was neither of those...'
+p3212
+aI0
+aa(lp3213
+V500429048602845186
+p3214
+aS"  Wouldn't you have thought after widely publicized abuses by LAPD and CPD, that departments everywhere else would learn??"
+p3215
+aI0
+aa(lp3216
+V500386447158161408
+p3217
+aS' Wow. I thought a Tweep was being sarcastic, but...it really happened that way?!?'
+p3218
+aI0
+aa(lp3219
+V500412019531849728
+p3220
+aS"  Oh no,That's for real!! The Pig MiKeWhite Ferguson PD!!"
+p3221
+aI6
+aaa(lp3222
+(lp3223
+V500308076004929537
+p3224
+aS'Possible "robbery" took place and BAM! Like magic it\'s as if another UNARMED black youth being murdered has been forgotten smh Ferguson'
+p3225
+aI0
+aa(lp3226
+V500316896299061248
+p3227
+aS'  No but it def softens the blow.'
+p3228
+aI0
+aa(lp3229
+V500309367129133056
+p3230
+aS" A robbery doesn't excuse an execution style murder I don't give a fuck what anyone says. Swisher Sweets aren't worth a life."
+p3231
+aI0
+aa(lp3232
+V500317344997330945
+p3233
+aS'   corny, but only TRUE evil wants Us to believe INERT OBJECTS are more valuable than LIFE!  --GBJ thinkforyourself'
+p3234
+aI2
+aa(lp3235
+V500317982799982592
+p3236
+aS'  Strong armed robbery, Assault on the store clerk, assaulting a police officer...and the info continues to come in.'
+p3237
+aI2
+aa(lp3238
+V500317848536096768
+p3239
+aS" it's not race were all targeted by the governments, cops, swat, FBI, they'll silence anyone who'll try to tell the truth"
+p3240
+aI0
+aa(lp3241
+V500318691909959681
+p3242
+aS' of course , however please do not try and compare it to hundreds of years of systemic oppression of a whole people'
+p3243
+aI5
+aa(lp3244
+V500309556921384960
+p3245
+aS" don't make this a race issue. The militarization of the police is the issue"
+p3246
+aI0
+aa(lp3247
+V500312045334851585
+p3248
+aS'  well put. There are bigger issues the masses are finally starting to see.'
+p3249
+aI7
+aa(lp3250
+V500312223471120384
+p3251
+aS'  it STARTED as a race issue, then people tried to SWAY it to an issue of militarization, dont get it twisted'
+p3252
+aI7
+aa(lp3253
+V500324150519808000
+p3254
+aS' but because of the training that cops receive now is more military in manner they react overly aggressive towards us (non-cop)'
+p3255
+aI9
+aa(lp3256
+V500317273002106880
+p3257
+aS'   You realize police brutality affects all races right?'
+p3258
+aI9
+aa(lp3259
+V500317791933972481
+p3260
+aS'   you imagine the shitstorm if this guy was black? Doubt U heard about it '
+p3261
+aI9
+aa(lp3262
+V500313313188663296
+p3263
+aS"  Even if he had robbed a convenience store, that's no excuse for murder."
+p3264
+aI0
+aa(lp3265
+V500308366561124352
+p3266
+aS' BAM ANTI-WHITES get caught with their foot in their mouth in front of the WORLD LMAO'
+p3267
+aI0
+aa(lp3268
+V500308482676240384
+p3269
+aS' anti-whites ? lulz'
+p3270
+aI14
+aa(lp3271
+V500311799712198656
+p3272
+aS' yup Anti-Racist is a codeword for ANTI-WHITE'
+p3273
+aI15
+aa(lp3274
+V500310820635815937
+p3275
+aS' Good job, faggots. You IDd the wrong man.'
+p3276
+aI0
+aa(lp3277
+V500312280933097472
+p3278
+aS' SeeWhatTheyDidThere? TheNarrativeHasChanged. From Murder in the 1st to a Gross Misdemeanor. MyPeopleMyPeople'
+p3279
+aI0
+aaa(lp3280
+(lp3281
+V500281094239817728
+p3282
+aS'MikeBrown wanted to walk down the street. And he is dead. And the Ferguson PD is using his silence in death to make him a criminal.'
+p3283
+aI0
+aa(lp3284
+V501730232790183936
+p3285
+aS' no he was walking IN the street big difference'
+p3286
+aI0
+aa(lp3287
+V501145902007222272
+p3288
+aS'  a story that continues to repeat itself, over and over and over in America. Ferguson'
+p3289
+aI0
+aa(lp3290
+V500282232855334912
+p3291
+aS" You are supposed to not be biased when you're a journalist. Glad you can come up with that decision without knowing all the facts"
+p3292
+aI0
+aa(lp3293
+V500281536919642112
+p3294
+aS" it's sound like they may have been racially profiling him as a suspect"
+p3295
+aI0
+aa(lp3296
+V500306952241840128
+p3297
+aS' If they were criminals why did the police not arrest his friend right away?They shot one robber &amp; let the other go MikeBrown'
+p3298
+aI0
+aaa.

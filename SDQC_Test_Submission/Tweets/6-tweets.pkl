@@ -1,0 +1,4718 @@
+(lp0
+(lp1
+(lp2
+V525025463648137216
+p3
+aS'BREAKING: A source confirms to CP24 that the deceased soldier in Ottawa is Cpl. Nathan Cirillo. Cirillo was a member of the Hamilton Argylls'
+p4
+aI0
+aa(lp5
+V525027625329508352
+p6
+aS' RIP'
+p7
+aI0
+aa(lp8
+V525031063178211330
+p9
+aS' very sad news. RIP '
+p10
+aI0
+aa(lp11
+V525029708384468994
+p12
+aS' Rip :('
+p13
+aI0
+aa(lp14
+V525032025238294528
+p15
+aS'  Rest in peace soldier. '
+p16
+aI0
+aa(lp17
+V525026551411519488
+p18
+aS' I teared up when I heard. \n\nRIP Cpl Cirillo.'
+p19
+aI0
+aa(lp20
+V525026071457300480
+p21
+aS' R IP NATHAN !'
+p22
+aI0
+aa(lp23
+V525037638898954240
+p24
+aS"Condolences to Cpl.'s family/friends  BREAKING: deceased soldier in Ottawa is Cpl. Nathan Cirillo...member of the Hamilton Argylls"
+p25
+aI0
+aa(lp26
+V525027171321282560
+p27
+aS' RIPNathanCirillo '
+p28
+aI0
+aa(lp29
+V525026196451782656
+p30
+aS" So sad. Too close to home. He's in God's hands now."
+p31
+aI0
+aa(lp32
+V525025722466058240
+p33
+aS' this is heartbreaking.'
+p34
+aI0
+aaa(lp35
+(lp36
+V524929497205055488
+p37
+aS"Canada's Parliament Hill is on lockdown as police hunt shooting suspect; at least 1 injured -   "
+p38
+aI0
+aa(lp39
+V524931961744142338
+p40
+aS'     \nNews,darams,cric,funny \n'
+p41
+aI0
+aa(lp42
+V525030609757151232
+p43
+aS"   \nI'm guessing Obama will probably apologize to the terrorists on Canada's behalf."
+p44
+aI0
+aa(lp45
+V524951847472488448
+p46
+aS'  what? You have only been there a week! How did you manage this! Stay safe.'
+p47
+aI0
+aa(lp48
+V524930598733758465
+p49
+aS'   praying for all affected by this shooting'
+p50
+aI0
+aa(lp51
+V524930767810756608
+p52
+aS'   get well soon'
+p53
+aI0
+aa(lp54
+V524929713014181890
+p55
+aS"   So Canada's strict gun control policies have failed"
+p56
+aI0
+aa(lp57
+V524929931634286592
+p58
+aS'    this is probably ISIS. canadas gun control hasnt failed at all.'
+p59
+aI6
+aa(lp60
+V524930651964051456
+p61
+aS'    Hardly, dont hear about a school shooting or spree every 5 mins do we?'
+p62
+aI6
+aa(lp63
+V524930719077122048
+p64
+aS"    it's Isis fucktard"
+p65
+aI6
+aa(lp66
+V524930529637175296
+p67
+aS'    that is such a stupid, uneducated comment'
+p68
+aI6
+aa(lp69
+V524930854335053824
+p70
+aS'    you stupid fuck'
+p71
+aI6
+aa(lp72
+V524931726699954178
+p73
+aS" Canada's Parliament Hill is on lockdown as police hunt shooting suspect; at least 1 injured  O.O"
+p74
+aI0
+aaa(lp75
+(lp76
+V524925215235911680
+p77
+aS'BREAKING news: Shots fired at Parliament Hill. Follow developing story:  '
+p78
+aI0
+aa(lp79
+V524927455715663872
+p80
+aS"  I'm taking bets on how quick ISIS or Syria will be blamed. After all Syria is where the US want to bomb next."
+p81
+aI0
+aa(lp82
+V524940919494426624
+p83
+aS'Canada:  BREAKING: Shots fired at Parliament Hill. Follow developing story:  '
+p84
+aI0
+aa(lp85
+V524941120636469248
+p86
+aS' Probably another "false flag" on the Canadian side!'
+p87
+aI0
+aa(lp88
+V524933596113801218
+p89
+aS''
+p90
+aI0
+aa(lp91
+V524935939077206016
+p92
+aS'  looks like American values are heading north'
+p93
+aI0
+aa(lp94
+V524925756087214082
+p95
+ag90
+aI0
+aa(lp96
+V524934180548124672
+p97
+aS' Stay safe police and soldiers protecting us all!  '
+p98
+aI0
+aa(lp99
+V524926127174078464
+p100
+aS' BREAKING news: Shots fired at Parliament Hill.   '
+p101
+aI0
+aa(lp102
+V524929949258768384
+p103
+aS'BreakingNews RT  Shots fired at Parliament Hill. Follow developing story:  '
+p104
+aI0
+aa(lp105
+V524931144476028928
+p106
+aS' BREAKING news: Shots fired at Parliament Hill. Follow developing story:  '
+p107
+aI0
+aa(lp108
+V524937817924067328
+p109
+ag90
+aI0
+aa(lp110
+V524925724499935232
+p111
+aS'RT  BREAKING news: Shots fired at Parliament Hill. Follow developing story:  '
+p112
+aI0
+aa(lp113
+V524935683908333569
+p114
+ag90
+aI0
+aa(lp115
+V524926377481736192
+p116
+aS'  ! be careful!'
+p117
+aI0
+aa(lp118
+V524926300990214144
+p119
+aS'Yikes rt: : BREAKING news: Shots fired at Parliament Hill.  '
+p120
+aI0
+aa(lp121
+V524928075981918209
+p122
+aS' trying to but got this - shameful behaviour '
+p123
+aI0
+aa(lp124
+V524928329468870657
+p125
+aS'Sending thoughts and prayers. " BREAKING: Shots fired at Parliament Hill.  '
+p126
+aI0
+aaa(lp127
+(lp128
+V525023025792835585
+p129
+aS'RIPNathanCirillo\n\nRT  Soldier killed at war memorial identified as Cpl. Nathan Cirillo OttawaShooting '
+p130
+aI0
+aa(lp131
+V525025685820030976
+p132
+aS'   Effed-up for so many reasons.'
+p133
+aI0
+aa(lp134
+V525032806288601088
+p135
+aS'   Rest in Peace, Cpl Cirillo.  Prayers for his famil.'
+p136
+aI0
+aa(lp137
+V525031384029872128
+p138
+aS'  I am so sorry for him, his family and friends. May his memory be a blessing.'
+p139
+aI0
+aa(lp140
+V525024680613511169
+p141
+aS' Heartbreaking! '
+p142
+aI0
+aa(lp143
+V525023379481313281
+p144
+aS'  Rest In Peace Soldier and God Bless You.'
+p145
+aI0
+aa(lp146
+V525046262467293184
+p147
+aS'   Prayers &amp; hugs to his family. RIPNathanCirillo'
+p148
+aI0
+aa(lp149
+V525049296794574850
+p150
+aS'   May His Soul Rest in Peace!'
+p151
+aI0
+aa(lp152
+V525024498999783424
+p153
+aS"  A hero's life cut short by a coward while standing by our symbol of freedom. Condolences to his family and CF."
+p154
+aI0
+aa(lp155
+V525028433106309121
+p156
+aS' RIPNathanCirillo\n: Soldier killed at war memorial identified as Cpl. Nathan Cirillo OttawaShooting '
+p157
+aI0
+aa(lp158
+V525025735338381313
+p159
+aS'  May he rest in peace.respect'
+p160
+aI0
+aaa(lp161
+(lp162
+V524926235030589440
+p163
+aS'BREAKING NEWS: At least 3 shots fired at Ottawa War Memorial. One soldier confirmed shot -  '
+p164
+aI0
+aa(lp165
+V524926674417500160
+p166
+aS'  All our domestic military should be armed, now.'
+p167
+aI0
+aa(lp168
+V524926344992686081
+p169
+aS' Gee, I thought Canadians are supposed to be polite for once....'
+p170
+aI0
+aa(lp171
+V524937952820883456
+p172
+aS" so who is the brainiac on the right that looks like he's taking a picture?"
+p173
+aI0
+aa(lp174
+V524946118774620161
+p175
+aS' sickening'
+p176
+aI0
+aa(lp177
+V524926750506377216
+p178
+aS" can't believe it I was there less then 24 hours ago"
+p179
+aI0
+aa(lp180
+V524929568327888896
+p181
+aS"  That's disgusting tbh..."
+p182
+aI0
+aaa(lp183
+(lp184
+V524983581983375360
+p185
+aS'Police now say there were two shooting incidents in Ottawa: one at the war memorial, the other on Parliament Hill. '
+p186
+aI0
+aa(lp187
+V524984794480775168
+p188
+aS' Police now say there were 2 shooting incidents in Ottawa:  at the war memorial, &amp; on Parliament Hill. '
+p189
+aI0
+aa(lp190
+V524985542384320514
+p191
+aS" Weren't you reporting THREE incidents earlier?"
+p192
+aI0
+aa(lp193
+V524985802502447105
+p194
+aS'  breaking news is fraught with mistakes.  Calm down.'
+p195
+aI2
+aa(lp196
+V525056723497660416
+p197
+aS'  - You mean like someone who harps on someone else asking for clarification?  Sounds like *you* need to calm down.'
+p198
+aI3
+aa(lp199
+V524984804161642497
+p200
+aS' Three'
+p201
+aI0
+aa(lp202
+V524984000134520834
+p203
+aS" let's wish the best for Canada and this time of tragedy"
+p204
+aI0
+aa(lp205
+V524985119036411904
+p206
+aS' how was Ebola at both places simultaneously??'
+p207
+aI0
+aa(lp208
+V524985076250341376
+p209
+aS' Now two shooting incidents in Ottawa: one at the war memorial, the other on Parliament Hill.   scary'
+p210
+aI0
+aa(lp211
+V524983715832029184
+p212
+aS' hope they die fuck canada'
+p213
+aI0
+aa(lp214
+V524988101966303233
+p215
+aS'  and I hope you are arrested for saying shit like that'
+p216
+aI9
+aa(lp217
+V524988215376510976
+p218
+aS'  FUCK U'
+p219
+aI10
+aa(lp220
+V524984454365077505
+p221
+aS'  '
+p222
+aI0
+aaa(lp223
+(lp224
+V524981436252950528
+p225
+aS'Canadian authorities have given name of suspect in Ottawa attacks to U.S. feds; ask for FBI assistance: Sr U.S. law enforcement official'
+p226
+aI0
+aa(lp227
+V524981904131764224
+p228
+aS'  any timeline on when the general public gets the name?'
+p229
+aI0
+aa(lp230
+V524981780122972161
+p231
+aS'  The FBI probably already knew him quite well, if past incidents are anything to go by.'
+p232
+aI0
+aa(lp233
+V525541364927574016
+p234
+aS' Follow Official account '
+p235
+aI0
+aa(lp236
+V524982686369472512
+p237
+aS' Canadian authorities have given name of suspect in Ottawa to U.S. feds; ask for FBI help: Sr U.S. law enforcement official'
+p238
+aI0
+aa(lp239
+V525554047408160768
+p240
+aS' Follow Official account '
+p241
+aI0
+aa(lp242
+V524982445469622272
+p243
+aS'  what is happening in Ottawa today is devastating. This is Canada, peace loving!!'
+p244
+aI0
+aa(lp245
+V524982163456786432
+p246
+aS' My map app shows tweets from Ottawa shooting site   '
+p247
+aI0
+aaa(lp248
+(lp249
+V524959809402331137
+p250
+aS'Senior U.S. official: Canadian government has informed U.S. that one shooter is dead in Ottawa. Live blog: '
+p251
+aI0
+aa(lp252
+V524960933211168770
+p253
+aS' Replies 2 this English post really need to be in English. Especially when  the world is assuming  this is yet another act of terror.'
+p254
+aI0
+aa(lp255
+V524960034305114113
+p256
+aS' PLEASE help us spread the word for our fundraiser to kickstart our company  ROC SmallBusiness the585'
+p257
+aI0
+aa(lp258
+V524985774224048129
+p259
+aS" you're a scumbag for trying to profit off a tragedy."
+p260
+aI2
+aa(lp261
+V524960862248132608
+p262
+aS' Police searching and firing on Parliament Hill '
+p263
+aI0
+aa(lp264
+V524961297721749505
+p265
+aS' There is no proof yet that the shooter(s) has anything to do with ISIL but A BANFIELD &amp; CNN are already dropping that scare message'
+p266
+aI0
+aa(lp267
+V524961861406838784
+p268
+aS' we need d I.D of the shooter'
+p269
+aI0
+aa(lp270
+V524959988956291074
+p271
+aS' War Memorial Soldier pronounced dead just now.'
+p272
+aI0
+aa(lp273
+V524960004529737728
+p274
+aS'  Police - more than 1 suspect, downtown remains in lockdown. LA  '
+p275
+aI0
+aa(lp276
+V524961093496885248
+p277
+aS' The world has gone MAD. '
+p278
+aI0
+aa(lp279
+V524960097563590656
+p280
+aS' So sad. This is not right.\n\nPrayForOttawa \nOttawa \nottawashooting \nCanadaShooting'
+p281
+aI0
+aa(lp282
+V524960960227078144
+p283
+aS' looks like Canada caught a case of the United States , '
+p284
+aI0
+aa(lp285
+V524961643688890368
+p286
+aS' US official - whatever. Take your source from the Canadian government what has your channel become'
+p287
+aI0
+aa(lp288
+V524960274156371968
+p289
+aS'Scary situation. RT  U.S. official: Canadian government has informed U.S. that one shooter is dead in Ottawa. '
+p290
+aI0
+aa(lp291
+V524960359388823552
+p292
+aS' Senior U.S. official: Canadian government has informed U.S. that one shooter is dead in Ottawa. Live blog: '
+p293
+aI0
+aa(lp294
+V524960144632070145
+p295
+aS' I hate to say that but maybe we should let Assad finish the job over there'
+p296
+aI0
+aa(lp297
+V524960409602650113
+p298
+aS' those gun crazy canadians need to be stopped, destroy all donuts'
+p299
+aI0
+aaa(lp300
+(lp301
+V524936872666353664
+p302
+aS'More shots fired just off Parliament Hill. Police telling everyone to take cover.'
+p303
+aI0
+aa(lp304
+V524937639989092352
+p305
+aS'  Dear People I see on the news with your phones out taking pics - PLEASE get off the streets and take cover!! Ottawa'
+p306
+aI0
+aa(lp307
+V524937314708242432
+p308
+aS' my god, sending prayers. Has he been shot dead I just read on Twitter'
+p309
+aI0
+aa(lp310
+V524937381024378880
+p311
+aS' More shots fired just off Parliament Hill. Police telling everyone to take cover. Scary... Keep safe everyone'
+p312
+aI0
+aa(lp313
+V524937735518564352
+p314
+aS'  Stay safe up there.'
+p315
+aI0
+aa(lp316
+V524938245017436160
+p317
+aS"  Like most good citizens, I'm awfully fed up with gun violence in both Canada and the USA. Senseless and brutal."
+p318
+aI4
+aa(lp319
+V524949525644201985
+p320
+aS'  How can you shoot the guard at a war memorial.  HonorThoseThatServed'
+p321
+aI5
+aa(lp322
+V524950283244544002
+p323
+aS'  Added to what happened in Quebec on Monday, the people who protect our nations need our full support.'
+p324
+aI6
+aa(lp325
+V524950411950948352
+p326
+aS'  Yes they do.'
+p327
+aI7
+aa(lp328
+V524937867685289984
+p329
+aS' More shots fired just off Parliament Hill. Police telling everyone to take cover. \nWTF is wrong with the world?!'
+p330
+aI0
+aa(lp331
+V524937277081145345
+p332
+aS' More shots fired just off Parliament Hill. Police telling everyone to take cover. Ottawa Parliament'
+p333
+aI0
+aa(lp334
+V524937374841987072
+p335
+aS' More shots fired just off Parliament Hill. Police telling everyone to take cover. What the fuck'
+p336
+aI0
+aa(lp337
+V524937401597427712
+p338
+aS'RT  More shots fired just off Parliament Hill. Police telling everyone to take cover. '
+p339
+aI0
+aa(lp340
+V524937721383755776
+p341
+aS" Canadians will be vigilant and strong. We won't be 'bullied' and intimidated. ParliamentHill"
+p342
+aI0
+aa(lp343
+V524939593196793856
+p344
+aS'  we are with you! '
+p345
+aI13
+aa(lp346
+V524937375865401344
+p347
+aS' More shots fired just off Parliament Hill. Police telling everyone to take cover. Oh my goodness '
+p348
+aI0
+aa(lp349
+V524937966615920640
+p350
+aS'3,854,082 square mile gun-free zone... | MT  "More shots fired just off Parliament Hill..."\ngunowners'
+p351
+aI0
+aa(lp352
+V524940069942358016
+p353
+aS"  psst. Guns aren't banned in Canada. educateYourself"
+p354
+aI16
+aa(lp355
+V524941538111922178
+p356
+aS"   until there's a terrorist attack on a legal shooting range they may as well be."
+p357
+aI17
+aaa(lp358
+(lp359
+V524923462398513152
+p360
+aS"Shots fired on parliament hill after a man walked up with a gun. I'm locked in a security office on parliament hill"
+p361
+aI0
+aa(lp362
+V524926236540555264
+p363
+aS'  OMG! Be safe'
+p364
+aI0
+aa(lp365
+V524925639170998272
+p366
+aS' stay safe. Unbelievable'
+p367
+aI0
+aa(lp368
+V524926523317710848
+p369
+aS'  what is happening in Canada? sad'
+p370
+aI0
+aa(lp371
+V524927906481721345
+p372
+aS'  nerve-racking!'
+p373
+aI3
+aa(lp374
+V524938029920948224
+p375
+aS' be safe'
+p376
+aI0
+aa(lp377
+V524926370502430720
+p378
+aS" this will be spun to restrict law abiding gun owners. Just watch the knee jerk. Crazys and criminals don't follow the laws."
+p379
+aI0
+aa(lp380
+V524928263341481984
+p381
+aS' WTH is happening?'
+p382
+aI0
+aa(lp383
+V524923588701614080
+p384
+aS' Be safe!'
+p385
+aI0
+aa(lp386
+V524929751094665216
+p387
+aS'  Holy Christ! Please be safe!'
+p388
+aI0
+aa(lp389
+V524943172875845632
+p390
+aS' stay safe Cormac.'
+p391
+aI0
+aa(lp392
+V524930875482705920
+p393
+aS' Be safe.'
+p394
+aI0
+aa(lp395
+V524934870469197824
+p396
+aS' Hope you are OK.'
+p397
+aI0
+aaa(lp398
+(lp399
+V524926472432410625
+p400
+aS'One person shot outside Centre Block, a second wounded inside the building in Parliament Hill shooting '
+p401
+aI0
+aa(lp402
+V524926985454518272
+p403
+aS'" One person shot outside Centre Block, 2nd wounded inside the building in Parliament Hill shooting  &gt;:('
+p404
+aI0
+aa(lp405
+V524928355016396800
+p406
+aS' When will Canadians wake up and realize this war on the Islamist rapist slavers is no game, no joke.  Arrest them NOW !!!'
+p407
+aI0
+aa(lp408
+V524928143229190145
+p409
+aS'  if  reacts same as his home break in he will want full on Armed Forces assault on ISIS.'
+p410
+aI0
+aaa(lp411
+(lp412
+V524924619812511746
+p413
+aS"Witness tells CBCNews suspected shooter of uniformed soldier at Ottawa's War Memorial was carrying rifle."
+p414
+aI0
+aa(lp415
+V524925023552020480
+p416
+aS' We are not obligated to sit passively, just waiting for these rapists to tear up our society!  Arrest them NOW!!!'
+p417
+aI0
+aa(lp418
+V525256528337854465
+p419
+aS'  could nt agree more we need to speak up when we see something'
+p420
+aI1
+aa(lp421
+V524925154611441664
+p422
+aS' Change the laws, change the reckless immigration policies!  Sensitize people to be on the look-out!  Get real, folks!'
+p423
+aI0
+aa(lp424
+V524925487941160960
+p425
+aS"  Can you lay off the politics right now? We know *nothing* about who did this, what's going on."
+p426
+aI3
+aa(lp427
+V524926050351185920
+p428
+aS'  Right, there is no obvious context.  How insightful of you!'
+p429
+aI4
+aa(lp430
+V524926393394933760
+p431
+aS"  I know I can't be insightful yet - that's the bloody point, neither can you, and by trying to, you lose ground."
+p432
+aI5
+aa(lp433
+V524927041599447040
+p434
+aS'  Give it one hour and my points will be confirmed.'
+p435
+aI6
+aa(lp436
+V524924867825913856
+p437
+aS" Canada needs to get real and recognize that this war is REAL; it's no joke.  Arrest these monsters BEFORE they murder more of us!"
+p438
+aI0
+aaa(lp439
+(lp440
+V524947674164760577
+p441
+aS'BREAKING NEWS: New York Times is reporting the Canadian soldier who was shot has died from their injuries. Heartbreaking. cdnpoli ableg'
+p442
+aI0
+aa(lp443
+V524962626615664640
+p444
+aS'  Canadian news contradicts this'
+p445
+aI0
+aa(lp446
+V524964193813155841
+p447
+aS'   '
+p448
+aI1
+aa(lp449
+V524964503579262976
+p450
+aS'  perhaps wishful thinking on my part but still hopeful it is not true. TV still not reporting any CF deaths'
+p451
+aI2
+aa(lp452
+V524962753036185600
+p453
+aS'  Perhaps wait for Canadian source.'
+p454
+aI0
+aa(lp455
+V524964141296259072
+p456
+aS'   '
+p457
+aI4
+aa(lp458
+V524952396259409920
+p459
+aS"  Ugh, CTV is reporting he's ALIVE. "
+p460
+aI0
+aa(lp461
+V524952460897828865
+p462
+aS'   CTV just said he is being treated and is stable ?'
+p463
+aI0
+aa(lp464
+V524959514995724288
+p465
+aS'  no report he has died!'
+p466
+aI0
+aa(lp467
+V524960036179968001
+p468
+aS"  New report indicates he is alive but obviously gravely injured. I'm not sure where New York Times got that."
+p469
+aI8
+aa(lp470
+V524960914450415617
+p471
+aS'  me either. There are reports he is still alive. But not looking good! OttawaShooting'
+p472
+aI9
+aa(lp473
+V524961467431665664
+p474
+aS'   hi Donna I think we are talking 2 different incidents now the quebec one is what I referred 2'
+p475
+aI10
+aa(lp476
+V524961925239959552
+p477
+aS'   ??????'
+p478
+aI11
+aa(lp479
+V524962300466569216
+p480
+aS'   Donna - the rcmp incident in Quebec versus today in ottawa'
+p481
+aI12
+aa(lp482
+V524962623562186752
+p483
+aS'   But both would indicate there is need to increase surveillance &amp; ability to detain'
+p484
+aI13
+aa(lp485
+V524952276109373442
+p486
+aS" Not according to what I've just heard on CTV."
+p487
+aI0
+aa(lp488
+V524953683172524032
+p489
+aS'  NYT may be wrong, bcuz CTV news1 has said that the soldier at Memorial is alive at hospital!'
+p490
+aI0
+aa(lp491
+V524947899982290944
+p492
+aS' My heart goes out to the family.'
+p493
+aI0
+aa(lp494
+V524955418955902976
+p495
+aS'  maybe you should get your info a little more locally'
+p496
+aI0
+aa(lp497
+V524948114113703936
+p498
+aS' prayers and thoughts to his family and friends....'
+p499
+aI0
+aa(lp500
+V524956642454941696
+p501
+aS"  Careful when reporting on life and death. Let's wait until we really know... when the news is not so chaotic"
+p502
+aI0
+aaa(lp503
+(lp504
+V524948866773184512
+p505
+aS'Ottawa police issued a statement. Three separate shooting incidents. Once inside parliament. One at the war memorial. One at Rideau Centre'
+p506
+aI0
+aa(lp507
+V525062819411419136
+p508
+aS'  ugh my heart goes out. And southerners in the us want to be able to pack heat in church, at the library, etc. Idiots'
+p509
+aI0
+aa(lp510
+V524951869664133120
+p511
+aS"  Bloody hell! That was my hang out in Ottawa 25 years ago! This smacks of Harper's foreign policy payback "
+p512
+aI0
+aa(lp513
+V524952352470495233
+p514
+aS'   showed footage of shooting inside parliament : I found it quite disturbing '
+p515
+aI0
+aaa(lp516
+(lp517
+V524956129017995264
+p518
+aS'Police say shots fired at 3 Ottawa sites -  National War Memorial, Parliament Hill, and now Rideau shopping centre '
+p519
+aI0
+aa(lp520
+V524956679025487872
+p521
+aS'  Shit...'
+p522
+aI0
+aa(lp523
+V524957131930624000
+p524
+aS' oh god.'
+p525
+aI0
+aa(lp526
+V524960171345592321
+p527
+aS' sad world we live in most of the time.'
+p528
+aI0
+aa(lp529
+V524957535925993472
+p530
+aS'MT  shots fired at 3 Ottawa sites National War Memorial, Parliament Hill, and now Rideau shopping centre '
+p531
+aI0
+aa(lp532
+V524957146656821249
+p533
+aS' a bullet is just as evel as a bomb we bomb them they shot us but we make a big deal of both'
+p534
+aI0
+aa(lp535
+V524959078229880832
+p536
+aS'  there are times we shld put our stupidness aside nd be feel bad fr wats happening at the moment...!!!!'
+p537
+aI5
+aa(lp538
+V524960426132791296
+p539
+aS"  what's stupid is we are at war but moan when it's on our own soil now they are using chemicals so it's WHEN, BEWARE"
+p540
+aI6
+aa(lp541
+V524961283523612673
+p542
+aS'  true..!!! bt its nt nice to say "i told u so"..wen ur country is at siege...!! we can say it later..!!'
+p543
+aI7
+aa(lp544
+V524962037617938432
+p545
+aS"  it's not a siege it's WAR This is the problem you and other are denying the fact we are at war WHY"
+p546
+aI8
+aa(lp547
+V524963581599547392
+p548
+aS' if we are WAR..!!! who are we against...? whom do u blame..?'
+p549
+aI9
+aa(lp550
+V524964253418401792
+p551
+aS' slag the Islamic people then sit back and watch what happens. Bomb Islamic people and watch what happens,'
+p552
+aI10
+aa(lp553
+V524965013291679744
+p554
+aS' i knw u wld say tat...!! just becoz sum radicalised idiots are dng this doesnt mean tat we can blame d entire religion fr it..'
+p555
+aI11
+aa(lp556
+V524965991072423936
+p557
+aS' they may not be radicalised. This is only what you are fed by media which governments control you need to open your mind to truth'
+p558
+aI12
+aa(lp559
+V524966291413561344
+p560
+aS' then educate me..???'
+p561
+aI13
+aa(lp562
+V524967358528757761
+p563
+aS" easily. Don't go to war in other country's and think it won't come home to you. Police shot person in America with hands up."
+p564
+aI14
+aa(lp565
+V524976163391696896
+p566
+aS" i wnt blame u fr saying this..bt u forgot hw many ppl's lives are being saved by these men...!!!"
+p567
+aI15
+aa(lp568
+V524979653027856385
+p569
+aS' America BRITTIAN had supplied these men in Syria with the weapons to start with and now they are bombing them. Hmmmm hypocrisy'
+p570
+aI16
+aa(lp571
+V524965291000750080
+p572
+aS' lets nt tag one religion like tat..as if other religions are holy..!!!'
+p573
+aI11
+aa(lp574
+V524956507230593026
+p575
+aS' Scary stuff in Ottawa'
+p576
+aI0
+aa(lp577
+V524956724311388161
+p578
+aS" {Heaven and Hell is right here on earth... 'ing}"
+p579
+aI0
+aa(lp580
+V524958112629809152
+p581
+aS'  police is quite lazy.'
+p582
+aI0
+aa(lp583
+V524959489225940993
+p584
+aS" what's happening in this world and why this so much haterage everywhere. So sickening"
+p585
+aI0
+aa(lp586
+V524960172914266112
+p587
+aS' Ottawa'
+p588
+aI0
+aa(lp589
+V524956946605309952
+p590
+aS' Kindly verify your report of shooting at Rideau Centre Ottawa, Canada. Local reports state otherwise.'
+p591
+aI0
+aa(lp592
+V524957744319975425
+p593
+aS"  Yes, I can't believe this is happening..."
+p594
+aI0
+aa(lp595
+V524960113732632576
+p596
+aS' We always feel the same over here when similar happens.  Hope its all over.soon. '
+p597
+aI25
+aa(lp598
+V524960305466466304
+p599
+aS'  One shooter is dead. Shot by the Sargent at Arms.'
+p600
+aI26
+aa(lp601
+V524961799641526273
+p602
+aS' BBC saying indications of more than one gunman. :( '
+p603
+aI27
+aa(lp604
+V524962985995821057
+p605
+aS'  Yes, :( Still looking for the others.'
+p606
+aI28
+aa(lp607
+V524957420003803136
+p608
+aS' And at a hotel too.'
+p609
+aI0
+aa(lp610
+V524957310024945665
+p611
+aS' muslim terrorists'
+p612
+aI0
+aa(lp613
+V524957484336041984
+p614
+aS'RT  Shots at 3 Ottawa sites -National War Memorial, Parliament Hill, and Rideau shopping centre  FB'
+p615
+aI0
+aa(lp616
+V524956728027512832
+p617
+aS' Disgusting desert pigs. Why the peaceful, polite Canadians? WearewithCanada'
+p618
+aI0
+aaa(lp619
+(lp620
+V524947416869388288
+p621
+aS'Reports now that 2nd shooter has been shot in downtown Ottawa ottnews'
+p622
+aI0
+aa(lp623
+V524956595588194305
+p624
+aS' live news just reported cops yelling at people to run. Must be a third shooter!'
+p625
+aI0
+aa(lp626
+V524947672822988800
+p627
+aS' good!!! '
+p628
+aI0
+aa(lp629
+V524947580149825537
+p630
+aS' ottnews'
+p631
+aI0
+aaa(lp632
+(lp633
+V524962142563610625
+p634
+aS'BREAKING Rick Hughes at CBC Hamilton: \n\nThe soldier who was shot in Ottawa Wednesday morning is a reservist serving in Hamilton'
+p635
+aI0
+aa(lp636
+V524962753099075584
+p637
+aS'  is he alright?'
+p638
+aI0
+aa(lp639
+V524964642406535168
+p640
+aS"  Well, what can you say? Spare a though for ALL who serve as reservists-they defend everyone's right to debate FREELY!"
+p641
+aI0
+aa(lp642
+V524975109023735808
+p643
+aS"  He's an argyll  is the name of the unit"
+p644
+aI0
+aa(lp645
+V524963251181076481
+p646
+aS'   heartbreaking.'
+p647
+aI0
+aa(lp648
+V524968425685516288
+p649
+aS' BREAKING \n\nThe soldier who was shot in Ottawa Wednesday morning is a reservist serving in Hamilton '
+p650
+aI0
+aaa(lp651
+(lp652
+V524943490887991296
+p653
+aS'CONFIRMED | 1 shooter shot dead at Parliament Hill, but there is more than 1 suspect. cbcOTT OTTnews'
+p654
+aI0
+aa(lp655
+V524944687053152256
+p656
+aS'Dear Canada, what are you doing??? MT  CONFIRMED | 1 shooter shot dead at Parliament Hill. cbcOTT OTTnews'
+p657
+aI0
+aa(lp658
+V524943794702401536
+p659
+aS'  :-(('
+p660
+aI0
+aa(lp661
+V524944680971415552
+p662
+aS' CONFIRMED | 1 shooter shot dead at Parliament Hill, but there is more than 1 suspect. cbcOTT OTTnews '
+p663
+aI0
+aa(lp664
+V524943686032175104
+p665
+aS' CONFIRMED | 1 shooter shot dead at Parliament Hill, but there is more than 1 suspect. cbcOTT OTTnews staysafeottawa'
+p666
+aI0
+aa(lp667
+V524945168277852160
+p668
+aS'  CONFIRMED | 1 shooter shot dead at Parliament Hill, but there is more than 1 suspect. cbcOTT OTTnews'
+p669
+aI0
+aaa(lp670
+(lp671
+V524941132237910016
+p672
+aS"Here's that dramatic video via  of shots fired inside parliament building:  Ottawa shooting"
+p673
+aI0
+aa(lp674
+V524941892115783680
+p675
+aS" Here's that dramatic video via  of shots fired inside parliament building: "
+p676
+aI0
+aa(lp677
+V524944416721862656
+p678
+aS"  why does this idiot think it's ok to follow the police during a armed man hunt?"
+p679
+aI0
+aaa(lp680
+(lp681
+V524966904885428226
+p682
+aS'BREAKING UPDATE: Canadian soldier injured at Parliament Hill shooting dies   Ottawa'
+p683
+aI0
+aa(lp684
+V524967761110650880
+p685
+aS'      Sad day as soldier shot at War Memorial reportedly succumbs to injuries.'
+p686
+aI0
+aa(lp687
+V524969813865545729
+p688
+aS' yes parliament attached at 10 am eastern time'
+p689
+aI0
+aa(lp690
+V524966987169292288
+p691
+aS' SOURCE????'
+p692
+aI0
+aa(lp693
+V524967134339022848
+p694
+aS' Radio Canada tweeting same. must be true :-('
+p695
+aI3
+aa(lp696
+V524977090140315648
+p697
+aS' The "five eyes" and western Europe "invite" this misery, still, the perpetrators are despicable.'
+p698
+aI0
+aa(lp699
+V524973660311154688
+p700
+aS'  Just read that Soldier may still be alive. hoping'
+p701
+aI0
+aaa(lp702
+(lp703
+V524993533212897281
+p704
+aS'FBI assisting in the case of the Ottawa shooting, sources have confirmed to CTV News'
+p705
+aI0
+aa(lp706
+V524993786276220928
+p707
+aS' WHY??? its not their country'
+p708
+aI0
+aa(lp709
+V524995135822905345
+p710
+aS'  When it comes to security were all in it together you dope. In times of crisis we are as one.'
+p711
+aI1
+aa(lp712
+V524994366541398017
+p713
+aS' because it is a possible terrorist threat that could expand into the US, and they are our closest (literally) allies.'
+p714
+aI1
+aa(lp715
+V524994741180846080
+p716
+aS' thankfully  the FBI is really good with lots of resources'
+p717
+aI0
+aa(lp718
+V525023033585827840
+p719
+aS' shooting suspect '
+p720
+aI0
+aa(lp721
+V525031764155453441
+p722
+aS' I want answers Why did I get netter News fom CNN And CBS ???'
+p723
+aI0
+aaa(lp724
+(lp725
+V524940659778920448
+p726
+aS'Attack on Parliament: Soldier shot; gunman on the loose. Follow our developing story:  '
+p727
+aI0
+aa(lp728
+V524941666411872256
+p729
+aS'Soldier shot, shooter still at large MT  Attack on Parliament: Follow our developing story '
+p730
+aI0
+aa(lp731
+V524971253388816385
+p732
+aS' R.I.P'
+p733
+aI0
+aa(lp734
+V525100398718484481
+p735
+aS" Please remove this picture of Cpl Nathan Cirillo. Let's show this hero some dignity and the respect he deserves!!"
+p736
+aI0
+aa(lp737
+V524966301085995008
+p738
+aS' Attack on Parliament: Soldier shot; gunman on the loose. Thinking of everyone back home.'
+p739
+aI0
+aa(lp740
+V524943514686464000
+p741
+aS' Attack on Parliament: Soldier shot; gunman on the loose:  '
+p742
+aI0
+aa(lp743
+V524943452786929664
+p744
+aS' Attack on Parliament: Soldier shot; gunman on the loose.  " Not a good week to be a Can soldier :-('
+p745
+aI0
+aaa(lp746
+(lp747
+V524975705206304769
+p748
+aS"NHL cancels tonight's game between Ottawa and Toronto due to today's shootings. Senators were to host Maple Leafs."
+p749
+aI0
+aa(lp750
+V524976661058826240
+p751
+aS'You know it\'s serious when they cancel hockey " NHL cancels tonight\'s game between Ottawa and Toronto due to today\'s shootings."'
+p752
+aI0
+aa(lp753
+V524976291905552385
+p754
+aS' NHL Ottawa Toronto that makes no sense'
+p755
+aI0
+aa(lp756
+V524977527362953218
+p757
+aS" Now i's confirmed as a  National Emergency.  HockeyNightInCanada"
+p758
+aI0
+aa(lp759
+V524975860185825281
+p760
+aS' FACK!!!!'
+p761
+aI0
+aa(lp762
+V524976050481422336
+p763
+aS'  that disappoints you.... today? Wow...'
+p764
+aI4
+aa(lp765
+V524976999929237505
+p766
+aS"  Ya it does bother me.  Was looking forward to tonight's game."
+p767
+aI5
+aa(lp768
+V524977226820104192
+p769
+aS'  you need to re-evaluate....'
+p770
+aI6
+aa(lp771
+V524977413038817280
+p772
+aS' You need to flake off ass....'
+p773
+aI7
+aa(lp774
+V524977621281824770
+p775
+aS" stay classy.... I'm sorry that a tragedy ruined your ability to watch a sporting event."
+p776
+aI8
+aa(lp777
+V524977773958684673
+p778
+aS' Didn\'t I say "FLAKE OFF"'
+p779
+aI9
+aa(lp780
+V524977952640221184
+p781
+aS' at least your polite self absorbed person.'
+p782
+aI10
+aa(lp783
+V524978385660153856
+p784
+aS" So now you judge me for 1 fucking RT with comment, one.  Why don't you look at yourself in the mirror and judge that instead"
+p785
+aI11
+aa(lp786
+V524976279150657536
+p787
+aS' How unfortunate, but understandable.'
+p788
+aI0
+aa(lp789
+V524976772535037952
+p790
+aS' Elderly people are subjected to toxic poison 10.2 times legal limits but that does not seem important to CBC, CBS, or TC.'
+p791
+aI0
+aa(lp792
+V524978635498082305
+p793
+aS' You can add A Chanel News &amp; Chek News to that group also. \nLetting people be subject to toxic poison is such a Victoria thing.'
+p794
+aI14
+aa(lp795
+V524976564405276672
+p796
+aS' this was the right thing to do'
+p797
+aI0
+aa(lp798
+V524976688275673088
+p799
+aS' I had a feeling that was going to happen,  would of been a big risk for all fans.  Safety first!'
+p800
+aI0
+aa(lp801
+V524975908432928768
+p802
+aS' game postponed, not cancelled.'
+p803
+aI0
+aa(lp804
+V524976422377775104
+p805
+aS' as they should!!!!'
+p806
+aI0
+aa(lp807
+V524976240051367937
+p808
+aS' As it should be, having a hockey game on the same day as a shooting is just asking for trouble.'
+p809
+aI0
+aaa(lp810
+(lp811
+V525028734991343617
+p812
+aS'CTV News confirms that Canadian authorities have provided US authorities with the name Michael Zehaf-Bibeau in connection to Ottawa shooting'
+p813
+aI0
+aa(lp814
+V525030166687670272
+p815
+aS' I think that soldiers should be armed and wear protective vests when they are on guard any where.'
+p816
+aI0
+aa(lp817
+V525030173914431488
+p818
+aS' USA come before canadian media'
+p819
+aI0
+aa(lp820
+V525034956691869696
+p821
+aS"  as part of a co-op criminal investigation one would  doesn't need facts to write stories it appears."
+p822
+aI2
+aa(lp823
+V525036486337757185
+p824
+aS' That name should not be mentioned again.'
+p825
+aI0
+aa(lp826
+V525032614697385984
+p827
+aS" \nOK now let's swoop in on all who knew him!"
+p828
+aI0
+aaa(lp829
+(lp830
+V524937542131793920
+p831
+aS'We are in full lock down until further notice from Ottawa Police.'
+p832
+aI0
+aa(lp833
+V524954077072228352
+p834
+aS'. Conflicting reports regarding a possible shooting on/near the Centre, but your GM said no shooting. Can you clarify at all?'
+p835
+aI0
+aa(lp836
+V524953098201362432
+p837
+aS'Stay safe my friends. RT  We are in full lock down until further notice from Ottawa Police.'
+p838
+aI0
+aa(lp839
+V524959677827014656
+p840
+aS'  we were near here trying to drive to Wakefield. Stuck in tfc now'
+p841
+aI0
+aa(lp842
+V524962719980879872
+p843
+aS'  Glad you guys are ok.'
+p844
+aI3
+aa(lp845
+V524981938038534147
+p846
+aS" glad you're safe too!! Was weird to be only car on rideau &amp; not know about the ottawashooting til afterwards"
+p847
+aI4
+aa(lp848
+V524953732480794624
+p849
+aS' any reports of shots fired inside the Rideau Centre or just nearby?'
+p850
+aI0
+aaa(lp851
+(lp852
+V524991576163250176
+p853
+aS'MORE: Police believe three gunmen were involved in shootings in Ottawa this morning and are looking for two shooters. '
+p854
+aI0
+aa(lp855
+V524991797630865408
+p856
+aS" The police chief just totally dodged that question and wouldn't say there was more than 1..jUst FYI"
+p857
+aI0
+aa(lp858
+V524992137260453888
+p859
+aS'RT  Police believe 3 gunmen were involved in shootings in Ottawa and are looking for two shooters. '
+p860
+aI0
+aa(lp861
+V524991671218745344
+p862
+aS" Lies and propaganda are traditionally the tools of theocracy, fascism, and totalitarianism. Stop build terrorism &amp; Isis's fame!"
+p863
+aI0
+aa(lp864
+V524991949917663232
+p865
+aS" That's not what they just said at the Press Conference!"
+p866
+aI0
+aa(lp867
+V524993414056927232
+p868
+aS' Probably a drill.'
+p869
+aI0
+aa(lp870
+V524993836050042880
+p871
+aS'  It appears now it was only 1 shooter and the shots were heard at nearby hotel/shopping cntr causing reports of more shootings'
+p872
+aI0
+aa(lp873
+V524992668301262848
+p874
+aS" Your info is out of date. Rideau shooting didn't happen. Police press conference says nothing about number of shooters."
+p875
+aI0
+aa(lp876
+V524993079603130368
+p877
+aS' Check  for updates from police that are current.'
+p878
+aI7
+aa(lp879
+V524993314207305729
+p880
+aS' And when will you be announcing they are Muslims? '
+p881
+aI0
+aaa(lp882
+(lp883
+V525032872647065600
+p884
+aS'BREAKING: Michael Zehaf-Bebeau had been designated "high-risk traveller" by CDN govt, which confiscated his passport '
+p885
+aI0
+aa(lp886
+V525034442104901632
+p887
+aS"If Michael Zehaf-Bebeau had his passport confiscated doesn't it make sense to track his movements - was this done?  "
+p888
+aI0
+aa(lp889
+V525034548196024320
+p890
+aS"  yes, but CSIS can't watch that many 24/7"
+p891
+aI1
+aa(lp892
+V525035734403530752
+p893
+aS'micro chip them - Just an uncivil thought :)  '
+p894
+aI2
+aa(lp895
+V525033513062371328
+p896
+aS'  How come we have to pussy foot around terrorism for hours before calling what it is.'
+p897
+aI0
+aa(lp898
+V525040562765053952
+p899
+aS' the incident yesterday (car) in Canada was that a terrorist attack as well?'
+p900
+aI0
+aa(lp901
+V525040767270543360
+p902
+aS' sure looks like one'
+p903
+aI5
+aa(lp904
+V525038702607994880
+p905
+aS'  They must put high risk travelers in civilian detaine camps to prevent attacks.US does this with suspect japs in WWII'
+p906
+aI0
+aa(lp907
+V525062791712235520
+p908
+aS'   A high risk traveller!  But a risk to Canadians and government officials , he was okay ?'
+p909
+aI0
+aa(lp910
+V525048948386299904
+p911
+aS' Oh, so they already know where Z-B had gone to? Any travels to the Levant recently?'
+p912
+aI0
+aa(lp913
+V525049059321462784
+p914
+aS' no info yet'
+p915
+aI9
+aa(lp916
+V525033521837273088
+p917
+aS' Pathetic.'
+p918
+aI0
+aa(lp919
+V525040309097336832
+p920
+aS'  It makes more sense to let them leave, and invalidate their passports before they return.'
+p921
+aI0
+aa(lp922
+V525035264826413056
+p923
+aS'  and  still refuses to call it terrorism!'
+p924
+aI0
+aa(lp925
+V525033642939416576
+p926
+aS'  maybe we should start revoking passports AFTER they leave...'
+p927
+aI0
+aa(lp928
+V525035256361934848
+p929
+aS"Yes:) except in Australia there's a discussion to let 'sympathizers' reenter OZ to rehabilitate! WTF!   "
+p930
+aI14
+aaa(lp931
+(lp932
+V524947867975561216
+p933
+aS'Ottawa Police Service: There were "numerous gunmen" at the Canada War Memorial shooting. One person was shot. '
+p934
+aI0
+aa(lp935
+V524949399286579201
+p936
+aS'  Ottawa police have NOT confirmed multiple shooters based on Canadian reporters on scene but they are still looking in case'
+p937
+aI0
+aa(lp938
+V524951486338715648
+p939
+aS"   They have - however - confirmed 3 separate shootings. So there's that."
+p940
+aI1
+aa(lp941
+V524961635136704512
+p942
+aS"   they hadn't at the time I posted. Ever changing news for sure. Scary times"
+p943
+aI2
+aa(lp944
+V524962293499822080
+p945
+aS'   Scary times indeed.'
+p946
+aI3
+aa(lp947
+V524948946360483840
+p948
+aS' Ottawa was always such a safe city. This is madness.'
+p949
+aI0
+aa(lp950
+V524949161830260736
+p951
+aS' Numerous? More than three?'
+p952
+aI0
+aa(lp953
+V524954646394445824
+p954
+aS'  Good thing all those police with guns were there!'
+p955
+aI0
+aa(lp956
+V524948444302286849
+p957
+aS' 2nd suspect parrantly shot behind parliament. Lockdown almost everywhere... third suspect on the loose.  That s heavy.'
+p958
+aI0
+aa(lp959
+V524973362607845376
+p960
+aS" What's the reason behind the attack? "
+p961
+aI8
+aa(lp962
+V524974577081126912
+p963
+aS'  But clearly they aim for a military representative at a well known military statue downtown Ottawa.  Still lockdown'
+p964
+aI9
+aa(lp965
+V524974903683203072
+p966
+aS'  most likely terrorism pure and simple and certainly confirming american warnings that potential threats now inside.'
+p967
+aI9
+aa(lp968
+V524974129930592256
+p969
+aS'  hard to say yet but note that similar incident also happened this week where some islam convert attacked military'
+p970
+aI9
+aa(lp971
+V524975028124016640
+p972
+aS' I read about that. Maybe this is also an islamic attack. \n'
+p973
+aI12
+aa(lp974
+V524976013047263232
+p975
+aS'  The issue is whether an independent cell (isolated wakos) or else part of a larger plot First attack suggest latter'
+p976
+aI13
+aa(lp977
+V524978305272135681
+p978
+aS" Yes thats interesting. Scary attack though, I'm glad that we only have non-identified submarines here in Sweden. "
+p979
+aI14
+aa(lp980
+V524949153424879617
+p981
+aS' Ottawa Police..: "numerous gunmen" at the Canada War Memorial shooting..." GodIsUrTerrorist CanadaNeedsWBC LiftTheBan Repent'
+p982
+aI0
+aa(lp983
+V524949316134535169
+p984
+aS'  '
+p985
+aI0
+aaa(lp986
+(lp987
+V525068915068923904
+p988
+aS'***EXCLUSIVE*** Michael Zahaf-Bibeau caught on a DASHCAM model sold at  OttawaShooting '
+p989
+aI0
+aa(lp990
+V525834551239524353
+p991
+aS' followed you because of this'
+p992
+aI0
+aa(lp993
+V525882599294517248
+p994
+aS' Thx!'
+p995
+aI1
+aa(lp996
+V525070724403564544
+p997
+aS' lone Wolf'
+p998
+aI0
+aaa(lp999
+(lp1000
+V524942470472548352
+p1001
+aS'The University of Ottawa, just a five minute walk from the Hill, is now on lockdown.'
+p1002
+aI0
+aa(lp1003
+V524943159726309376
+p1004
+aS'  God Bless Heather !!'
+p1005
+aI0
+aa(lp1006
+V524943410520924161
+p1007
+aS'My Alma Mater. God. RT  The University of Ottawa, just a five minute walk from the Hill, is now on lockdown.'
+p1008
+aI0
+aa(lp1009
+V524944078870700032
+p1010
+aS'  is 2 km from nasty parliament not 2 minute only  chita to can run 120 km an hours'
+p1011
+aI0
+aaa(lp1012
+(lp1013
+V524925730053181440
+p1014
+aS"Shooter still on loose after uniformed soldier shot at Ottawa's War Memorial, across road from Parliament. MP's being taken out of offices."
+p1015
+aI0
+aa(lp1016
+V524926744714047488
+p1017
+aS"  , well blame Steven Harper , he's all for guns , wants this country to become like the US of A"
+p1018
+aI0
+aa(lp1019
+V524930977211355136
+p1020
+aS"   You're an idiot."
+p1021
+aI1
+aa(lp1022
+V525044903865511937
+p1023
+aS"  things aren't as black and white as you may think. Picking a fight on Twitter isn't cool, bro."
+p1024
+aI2
+aa(lp1025
+V525046502474137600
+p1026
+aS"  , everyone is entitled to a opinion , no fight here , you don't know me , I don't know you"
+p1027
+aI3
+aa(lp1028
+V525049327459504128
+p1029
+aS' I definitely hear that and agree '
+p1030
+aI4
+aa(lp1031
+V525047771221737472
+p1032
+aS"  , sorry about the soldier who died , terrible , no disrespect meant , don't believe gov't course is correct"
+p1033
+aI3
+aa(lp1034
+V524993716336197632
+p1035
+aS'  , I guess your a fan of the fascist Stevie and his band of crap , so that tells me what you are !'
+p1036
+aI2
+aa(lp1037
+V524930715021213696
+p1038
+aS"   Seriously? Likelihood that it's an ISIS attack and THIS is your response???"
+p1039
+aI1
+aa(lp1040
+V525004768415322112
+p1041
+aS' , you pick a fight with people you better expect something in return , we use to be peacekeepers ,so be careful what you get'
+p1042
+aI8
+aa(lp1043
+V525013445184602112
+p1044
+aS' Have u read this paper from Muslm Brthrhood? From 1991. We did NOT "pick a fight". They brought it HERE. '
+p1045
+aI9
+aa(lp1046
+V524926598576099328
+p1047
+aS' Shooter still on loose after uniformed soldier shot at War Memorial, across road from Parliament.  :( sad...'
+p1048
+aI0
+aa(lp1049
+V524926749638131712
+p1050
+aS' '
+p1051
+aI0
+aa(lp1052
+V524928009493827585
+p1053
+aS' reporting soldier shot in Ottawa. Very sad news.'
+p1054
+aI0
+aa(lp1055
+V524928439678427136
+p1056
+aS' Chris. Not about guns. about Canada and Isis.Muslim extremist ran over two soldiers in Quebec. Blame Harper for allowing cars'
+p1057
+aI0
+aa(lp1058
+V524926108257775617
+p1059
+aS'  this is just horrible :('
+p1060
+aI0
+aa(lp1061
+V524932703682969601
+p1062
+aS' OMG.'
+p1063
+aI0
+aa(lp1064
+V524926297567293440
+p1065
+aS"RT  Shooter still on loose after uniformed soldier shot at Ottawa's War Memorial, across road from Parliament."
+p1066
+aI0
+aa(lp1067
+V524926131032850432
+p1068
+aS' I hope they are being taken out of their offices and thrown out on to the street.'
+p1069
+aI0
+aaa(lp1070
+(lp1071
+V524990163446140928
+p1072
+aS'Police have clarified that there were two shootings in Ottawa today, not three: at the War Memorial and Parliament Hill.'
+p1073
+aI0
+aa(lp1074
+V525003827494531073
+p1075
+aS'  so what happened at Rideau? Nothing?'
+p1076
+aI0
+aa(lp1077
+V524990764049522688
+p1078
+aS' get it right. '
+p1079
+aI0
+aa(lp1080
+V524990563217838081
+p1081
+aS' you guys "confirmed" there were 3 shootings not long ago. How about you wait for official reports before saying things.'
+p1082
+aI0
+aa(lp1083
+V524992704673890304
+p1084
+aS'RT  Police have clarified that there were two shootings in Ottawa today, not three: at the War Memorial and Parliament Hill. Canada'
+p1085
+aI0
+aaa(lp1086
+(lp1087
+V525058976376193024
+p1088
+aS'Our thoughts and prayers go out to Nathan Cirillo who died today in Ottawa while protecting his country at age 24 '
+p1089
+aI0
+aa(lp1090
+V525083768500264961
+p1091
+aS'  Condolences to all who loved him. We know, all too well, what you are going through.'
+p1092
+aI0
+aa(lp1093
+V525113495319502848
+p1094
+aS' I am so sad and disgusted that some coward has done this to 2 of our soldiers now. I am livid.'
+p1095
+aI0
+aa(lp1096
+V525065014281908224
+p1097
+aS'  '
+p1098
+aI0
+aa(lp1099
+V525070492395261953
+p1100
+aS"  ok I'm really pissed off now"
+p1101
+aI0
+aaa(lp1102
+(lp1103
+V524952883343925249
+p1104
+aS"Watch video showing gunfire inside Canada's parliament in Ottawa  "
+p1105
+aI0
+aa(lp1106
+V524954362448449537
+p1107
+aS'      It was eminent for Canada being safe haven &amp; a sanctuary for these jihadis &amp; terrorists'
+p1108
+aI0
+aa(lp1109
+V524954684994629633
+p1110
+aS" cr now for even more security.. what moron decided was a good thing to do? No, don't give him the publicity by telling us!!"
+p1111
+aI0
+aa(lp1112
+V524961388532228098
+p1113
+aS'  this is crazy...'
+p1114
+aI0
+aa(lp1115
+V524953204224962560
+p1116
+aS"Super scary  Watch video showing gunfire inside Canada's parliament in Ottawa  "
+p1117
+aI0
+aa(lp1118
+V524959930928070656
+p1119
+aS"  gunfire inside Canada's parliament in Ottawa    Tim Martin??"
+p1120
+aI0
+aa(lp1121
+V524960241340141568
+p1122
+aS'  definitely tank top. Chuck key ......use it.'
+p1123
+aI5
+aa(lp1124
+V524954461349752832
+p1125
+aS' Why are the enforcement folks not wearing bullet proof helmets, while they wear bullet proof vests?'
+p1126
+aI0
+aa(lp1127
+V524956203294941184
+p1128
+aS" Watch video showing gunfire inside Canada's parliament in Ottawa   WTF "
+p1129
+aI0
+aa(lp1130
+V524954368324288512
+p1131
+aS"Now what!  Watch video showing gunfire inside Canada's parliament in Ottawa  "
+p1132
+aI0
+aa(lp1133
+V524961842603388928
+p1134
+aS"  Watch video showing gunfire inside Canada's parliament in Ottawa  "
+p1135
+aI0
+aa(lp1136
+V524954074262011904
+p1137
+aS' The Religion of Peace I am guessing.'
+p1138
+aI0
+aa(lp1139
+V525019382490361856
+p1140
+aS"  u dumb fuck before u open ur mouth u should get ur fact ta straight.. isn't it funny that it was white guy?"
+p1141
+aI11
+aa(lp1142
+V525034103985684480
+p1143
+aS'  HAHAHA hes a muslim.   Fucktard'
+p1144
+aI12
+aa(lp1145
+V525030741252767744
+p1146
+aS'  Hey ill give you one.   Ill take the other dozen.'
+p1147
+aI12
+aa(lp1148
+V525031846355435520
+p1149
+aS'  \nWHOOPS - Angry man looka silly on the internet.\n\n"Ottawa suspect was \'Canadian convert to Islam\'"'
+p1150
+aI12
+aa(lp1151
+V524954878138155008
+p1152
+aS"  shooting randomly at defenseless ppl ...I'm would bet on it .."
+p1153
+aI11
+aa(lp1154
+V524954979736379392
+p1155
+aS" Watch video showing gunfire inside Canada's parliament in Ottawa  "
+p1156
+aI0
+aa(lp1157
+V524959159377080320
+p1158
+aS'  2-3 means are controlling the whole police haha'
+p1159
+aI0
+aa(lp1160
+V524954311395405824
+p1161
+aS" Watch video showing gunfire inside Canada's parliament in Ottawa  \n\nOmg!"
+p1162
+aI0
+aaa(lp1163
+(lp1164
+V525019752507658240
+p1165
+aS'ISIS Media account posts picture claiming to be Michael Zehaf-Bibeau, dead OttawaShooting suspect. Canada '
+p1166
+aI0
+aa(lp1167
+V525022674599555072
+p1168
+aS' Hi, can you tell me where  you got the picture?'
+p1169
+aI0
+aa(lp1170
+V525022127255482368
+p1171
+aS' Many here in Ottawa media looking for the source of this photo.'
+p1172
+aI0
+aa(lp1173
+V525020658972258305
+p1174
+aS' Which accounts?'
+p1175
+aI0
+aa(lp1176
+V525020934265393152
+p1177
+aS' Follow me please. I will DM you.'
+p1178
+aI3
+aa(lp1179
+V525065680849481730
+p1180
+aS'  Can you DM me the accounts too? I have some choice words'
+p1181
+aI4
+aa(lp1182
+V525066315036237824
+p1183
+aS"  He's already suspended."
+p1184
+aI5
+aa(lp1185
+V525667513724862464
+p1186
+aS'  Oh, figures! Thanks:)'
+p1187
+aI6
+aa(lp1188
+V525021185613238272
+p1189
+aS' Done'
+p1190
+aI4
+aa(lp1191
+V525021127702106112
+p1192
+aS' Source?'
+p1193
+aI0
+aa(lp1194
+V525022226668855296
+p1195
+aS' Which accounts?'
+p1196
+aI0
+aa(lp1197
+V525020543603703809
+p1198
+aS'  SOURCE plz :)'
+p1199
+aI0
+aa(lp1200
+V525020856381362176
+p1201
+aS" I could tell you but then I'd have to kill you. ;-)"
+p1202
+aI11
+aa(lp1203
+V525023827513069568
+p1204
+aS'  gross answer'
+p1205
+aI12
+aa(lp1206
+V525024232095612928
+p1207
+aS"  It's an old joke. If you don't get it, watch more spy movies."
+p1208
+aI13
+aa(lp1209
+V525027654509293568
+p1210
+aS' anyways, thanks for the info.'
+p1211
+aI14
+aa(lp1212
+V525024672975716352
+p1213
+aS'  its just very juvenile of an answer at an inappropriate time. respect'
+p1214
+aI14
+aa(lp1215
+V525404621280641024
+p1216
+aS"  so there's no source?"
+p1217
+aI11
+aa(lp1218
+V525022123426086912
+p1219
+aS" hi, could you point us to the account? I'm a reporter"
+p1220
+aI0
+aa(lp1221
+V525022402217271296
+p1222
+aS' Could you tell us your source please?'
+p1223
+aI0
+aa(lp1224
+V525020978485940226
+p1225
+aS' hi, where did you source this pic?'
+p1226
+aI0
+aa(lp1227
+V525404874796961794
+p1228
+aS'  ?????? whatsthesource'
+p1229
+aI20
+aa(lp1230
+V525405160282288130
+p1231
+aS'  Try reading my timeline instead of asking me to repeat myself.'
+p1232
+aI21
+aa(lp1233
+V525406690116894720
+p1234
+aS"  for everyone else who doesn't want to read your whole timeline "
+p1235
+aI22
+aa(lp1236
+V525408911105347584
+p1237
+aS'   \n'
+p1238
+aI23
+aa(lp1239
+V525021049759752192
+p1240
+aS' Do you work for the media?'
+p1241
+aI20
+aa(lp1242
+V525022239356645377
+p1243
+aS' yes, for '
+p1244
+aI25
+aa(lp1245
+V525020363357683712
+p1246
+aS" Suppose that's real: that guy is carrying a lever action rifle it looks like?"
+p1247
+aI0
+aa(lp1248
+V525020749019770881
+p1249
+aS' The glare is right over the trigger guard but the barrel and hammer could be from a lever action.'
+p1250
+aI27
+aa(lp1251
+V525021824263151616
+p1252
+aS' are u full of shit or is this true?'
+p1253
+aI0
+aa(lp1254
+V525022456059547648
+p1255
+aS' What media account did you get this photo from? What is your confirmation that this is the guy? DM me please'
+p1256
+aI0
+aa(lp1257
+V525023449262333952
+p1258
+aS' \n\nBBC News - Mr Merizier said that the attacker was of "Arabic appearance" and had "long dark hair and a beard".'
+p1259
+aI0
+aa(lp1260
+V525026201103265792
+p1261
+aS'   just a coincidence. Obviously a white angry racist'
+p1262
+aI31
+aaa(lp1263
+(lp1264
+V524995771587108864
+p1265
+aS"This afternoon we've lowered our flags to half mast in honour of the Canadian Reservist who lost his life in Ottawa. "
+p1266
+aI0
+aa(lp1267
+V525000464593858561
+p1268
+aS' Iam very sad !!! My heart broken .'
+p1269
+aI0
+aa(lp1270
+V525047302663442433
+p1271
+aS' a bit of joy in a gloomy day here at coady55  celebrating remarkable legacy of Coady.'
+p1272
+aI0
+aa(lp1273
+V525008964409638912
+p1274
+aS'  How about giving them bullets before they are shot instead of honours after'
+p1275
+aI0
+aa(lp1276
+V525015793374101506
+p1277
+aS"   Please take a minute to hug your loved ones today. God's speed to the family and first responders."
+p1278
+aI0
+aa(lp1279
+V525036307173879808
+p1280
+aS'  The  flags are also at half-mast. RIP Cpl. Nathan Cirillo. Our thoughts and prayers are with his family &amp; CAF'
+p1281
+aI0
+aa(lp1282
+V525299114922496000
+p1283
+aS'   \nheroesinlifenotdeath'
+p1284
+aI5
+aaa(lp1285
+(lp1286
+V524935485370929152
+p1287
+aS'Shooting in Canadian parliament comes day after ISIS-inspired radical drove in2 Canadian soldier. Also reports of shooting at War memorial/1'
+p1288
+aI0
+aa(lp1289
+V524936215637000192
+p1290
+aS' Cue the "we won\'t be cowed by such dastardly acts" speechs. *yawn*'
+p1291
+aI0
+aa(lp1292
+V524935836899766272
+p1293
+aS'  CBC is running a live blog and tweet thing here on the shootings: '
+p1294
+aI0
+aa(lp1295
+V524935708814086144
+p1296
+aS"  what's a radical"
+p1297
+aI0
+aa(lp1298
+V524935938284486656
+p1299
+aS'  One definition? A person that thinks its ok to decapitate innocent journalists / aid workers'
+p1300
+aI3
+aa(lp1301
+V524936619879849985
+p1302
+aS'  journalists are not innocent, hence the media blackout against IS by US. Journalism is a crime'
+p1303
+aI4
+aa(lp1304
+V524937325932212224
+p1305
+aS'  There is no media blackout against IS in the US. Please open a newspaper for a change.'
+p1306
+aI5
+aa(lp1307
+V524937651229822976
+p1308
+aS'  news reported by IS journalists dipstick'
+p1309
+aI6
+aa(lp1310
+V524937953148403713
+p1311
+aS'  To be a journalist, you have to have worked in the profession &amp; abide by its rules. Not just spew propaganda'
+p1312
+aI7
+aa(lp1313
+V524938416086347776
+p1314
+aS"  Any intelligent individual can understand your bullshit and where you're loyalty lies. It ain't rocket science"
+p1315
+aI8
+aa(lp1316
+V524938104327905280
+p1317
+aS'  sure, yiu just need to work for a jew'
+p1318
+aI8
+aa(lp1319
+V524938564866682880
+p1320
+aS'  Some media owned by Jews. Some by Christians. Many by Muslims. You just have 2 have actually worked'
+p1321
+aI10
+aa(lp1322
+V524938851622854657
+p1323
+aS'  work for a liberal secular or state news company. Great'
+p1324
+aI11
+aa(lp1325
+V524936372889853952
+p1326
+aS'  how about dropping bombs on Muslims all over the world.  Not radical.'
+p1327
+aI4
+aa(lp1328
+V524937423420411904
+p1329
+aS'   true BUT what about the one who presses the missile button knowing innocents will be slaughters?'
+p1330
+aI4
+aa(lp1331
+V524936152902811648
+p1332
+aS'  is that radical?'
+p1333
+aI4
+aa(lp1334
+V524936266517733376
+p1335
+aS'  People R radicalising because their democracy is being radicalised by Elite.'
+p1336
+aI0
+aaa(lp1337
+(lp1338
+V524923676484177920
+p1339
+aS'BREAKING - Shooting on Parliament Hill. RCMP have weapons drawn cdnpoli '
+p1340
+aI0
+aa(lp1341
+V524925539996667904
+p1342
+aS' BREAKING - Shooting on Parliament Hill. RCMP have weapons drawn cdnpoli  Oh Canada!'
+p1343
+aI0
+aa(lp1344
+V524925391266664448
+p1345
+aS' BREAKING - Shooting on Parliament Hill. RCMP have weapons drawn cdnpoli  sirens galore down here'
+p1346
+aI0
+aa(lp1347
+V524925449068355584
+p1348
+aS' BREAKING - Shooting on Parliament Hill. RCMP have weapons drawn cdnpoli  holy shit'
+p1349
+aI0
+aa(lp1350
+V524924651080650752
+p1351
+aS'  Targeting the soldiers is a stupid act. They have not decided to go in Irak...'
+p1352
+aI0
+aa(lp1353
+V524924074087436289
+p1354
+aS'  AND war memorial, or is this same?'
+p1355
+aI0
+aa(lp1356
+V524926568171577345
+p1357
+aS' BREAKING - Shooting on Parliament Hill. RCMP have weapons drawn cdnpoli '
+p1358
+aI0
+aa(lp1359
+V524932346961985536
+p1360
+aS' BREAKING - Shooting on Parliament Hill. RCMP have weapons drawn cdnpoli  shocking'
+p1361
+aI0
+aa(lp1362
+V524924021608284160
+p1363
+aS' any updates?'
+p1364
+aI0
+aa(lp1365
+V524925154800181248
+p1366
+aS'  lock it down! find the criminals.. wait, the buildings full of criminals! cdnpoli'
+p1367
+aI0
+aaa(lp1368
+(lp1369
+V524965775036387329
+p1370
+aS'Hero.  Kevin Vickers, head of security in parliament, being credited for taking down shooter Ottawa '
+p1371
+aI0
+aa(lp1372
+V524972195978964993
+p1373
+aS'   good for Vickers'
+p1374
+aI0
+aa(lp1375
+V525015279387299840
+p1376
+aS'  \nThis was an attack on all Canadians whatever stripe \nObviously these despicable acts are from cowardly cretins.'
+p1377
+aI0
+aa(lp1378
+V524974387125317633
+p1379
+aS'   absolutely!'
+p1380
+aI0
+aa(lp1381
+V525005729938554882
+p1382
+aS'  The real hero is the soldier who lost his life doing his job and serving his country.'
+p1383
+aI0
+aaa(lp1384
+(lp1385
+V525056576038518785
+p1386
+aS'Soldier killed in Canada shooting was a young reservist with a six-year-old son  '
+p1387
+aI0
+aa(lp1388
+V525070441405095936
+p1389
+aS'  RIP Nathan. :('
+p1390
+aI0
+aa(lp1391
+V525057624916520960
+p1392
+aS'  So sad for my great nation.  I am speechless!'
+p1393
+aI0
+aa(lp1394
+V525072231022333953
+p1395
+aS'RIP  Soldier killed in Canada shooting was a young reservist w/a six-year-old son  '
+p1396
+aI0
+aa(lp1397
+V525071940428771330
+p1398
+aS'  Very sad day for his family friends and Canada. Rest in peace.'
+p1399
+aI0
+aa(lp1400
+V525072407321927681
+p1401
+aS'   Yes it is.'
+p1402
+aI4
+aa(lp1403
+V525057081515061248
+p1404
+aS' RIP Nathan,, we love you'
+p1405
+aI0
+aa(lp1406
+V525068703109758977
+p1407
+aS'  heartbreaking!'
+p1408
+aI0
+aa(lp1409
+V525061525409525760
+p1410
+aS' RIP'
+p1411
+aI0
+aa(lp1412
+V525057109910495232
+p1413
+aS' Fuck Islam.'
+p1414
+aI0
+aa(lp1415
+V525058373591367680
+p1416
+aS' Travel well brave soul.'
+p1417
+aI0
+aa(lp1418
+V525057571321688064
+p1419
+aS'  It is sad to see this news.  However, at least he leaves a son who will honor him.  Many soldiers die without children.'
+p1420
+aI0
+aa(lp1421
+V525080746080620544
+p1422
+aS'   \n\nIf IS employed US NATO tactics they would have killed his son too \nAnd blamed his father for his death'
+p1423
+aI11
+aa(lp1424
+V525057584416292867
+p1425
+aS'  the price we pay for allowing Muslim 5th Columns to roam freely in the West. Enough.'
+p1426
+aI0
+aa(lp1427
+V525066880219115520
+p1428
+aS' this is the real tragedy. Lovely young man doing the right thing brought down by cowardly terrorists. Shameful. CanadaStrong'
+p1429
+aI0
+aa(lp1430
+V525057102306222083
+p1431
+aS" This world is seriously going to hell in a hand cart. I'm entirely fed up with innocent bystanders being senselessly killed."
+p1432
+aI0
+aa(lp1433
+V525080429410664448
+p1434
+aS"  \nSoldiers aren't innocent \n\nThey are the complete opposite"
+p1435
+aI15
+aa(lp1436
+V525278489721966592
+p1437
+aS"  That doesn't sound incredibly cryptic........"
+p1438
+aI16
+aa(lp1439
+V525058435361292288
+p1440
+aS'Sad.  Soldier killed in Canada shooting was a young reservist with a 6yr old son  '
+p1441
+aI0
+aa(lp1442
+V525059328685133824
+p1443
+aS'Heartbreaking for HamOnt and Canada.  Soldier killed in Canada shooting was a young reservist with a son '
+p1444
+aI0
+aa(lp1445
+V525062334302412800
+p1446
+aS'  This is very sad. I just wish that the was a better place :('
+p1447
+aI0
+aa(lp1448
+V525060851661668352
+p1449
+aS' Prayers for his family '
+p1450
+aI0
+aaa(lp1451
+(lp1452
+V524931324763992064
+p1453
+aS'Very reliable source on Parliament Hill tells me the assailant has been killed. cdnpoli ottnews'
+p1454
+aI0
+aa(lp1455
+V524934352845938689
+p1456
+aS'  Your source is half right, there are 2 of em.'
+p1457
+aI0
+aa(lp1458
+V524933622441476096
+p1459
+aS'  God I hope this is true.'
+p1460
+aI0
+aa(lp1461
+V524932468437053440
+p1462
+aS' are you inside PH? can we talk to you on Global News?'
+p1463
+aI0
+aa(lp1464
+V524932714940862464
+p1465
+aS" I'm not. I just received an email from someone in Centre Block."
+p1466
+aI3
+aa(lp1467
+V524932994553769984
+p1468
+aS' thanks Mark, Are you in Ottawa? Stay safe'
+p1469
+aI4
+aaa(lp1470
+(lp1471
+V524932935137628160
+p1472
+aS"The gunman in Ottawa has been shot and killed. I'm at a loss for words this morning. That isn't my Canada."
+p1473
+aI0
+aa(lp1474
+V524933104742723584
+p1475
+aS' Oh Canada.'
+p1476
+aI0
+aa(lp1477
+V524939588406878208
+p1478
+aS'  great response bro.'
+p1479
+aI1
+aa(lp1480
+V524940370321629184
+p1481
+aS'  I try. Unfortunately I dont think itd protect me against bullets'
+p1482
+aI2
+aa(lp1483
+V524933148380237825
+p1484
+aS' agreed'
+p1485
+aI0
+aa(lp1486
+V524933385010290688
+p1487
+aS" Was it your Canada when that guy beheaded that other guy on the bus? Shit happens, but we're mostly still fine up here"
+p1488
+aI0
+aa(lp1489
+V524934003892432896
+p1490
+aS' might want to actually confirm shit like that before tweeting.'
+p1491
+aI0
+aa(lp1492
+V524934776940412929
+p1493
+aS" I know what I'm doing here, thanks."
+p1494
+aI6
+aa(lp1495
+V524936650087231488
+p1496
+aS'  there has been zero confirmation that gunman is down. Maybe let news outlets on scene handle the reporting.'
+p1497
+aI7
+aa(lp1498
+V524940223160287232
+p1499
+aS"   why shouldn't a private citizen make a comment on a news event?"
+p1500
+aI8
+aa(lp1501
+V524941900223381504
+p1502
+aS'   Not a comment. Stated  gunman had been neutralized.Simply not true. Over 500k followers.Irresponsible.'
+p1503
+aI9
+aa(lp1504
+V524944658992865280
+p1505
+aS'   CBC news is reporting the gunman has been shot. Are you bitching at them also?'
+p1506
+aI10
+aa(lp1507
+V524957372369108993
+p1508
+aS'  I had confirmed the first gunman was dead when I tweeted.'
+p1509
+aI11
+aa(lp1510
+V524958563312357376
+p1511
+aS'  you managed to confirm before any other news outlet in Canada. Bravo.'
+p1512
+aI12
+aa(lp1513
+V524959735091847168
+p1514
+aS'  I can get confirmation and video from witnesses and pass info along without a news producer. Simple stuff.'
+p1515
+aI13
+aa(lp1516
+V524960764503674880
+p1517
+aS'  maybe you should have a news crew on retainer just in case. Rapid deploy anywhere breaking news happens.'
+p1518
+aI14
+aa(lp1519
+V524959184928768002
+p1520
+aS'  where\'s the "(sigh) I give up" emoticon? Do you not understand twitter?'
+p1521
+aI13
+aa(lp1522
+V524970141189431296
+p1523
+aS'   Perhaps all of Twitter should follow HDM so we can learn the proper ways of Tweeting responsibly.'
+p1524
+aI13
+aa(lp1525
+V524958146343624704
+p1526
+aS'  I had heard the same before I saw you &amp; many others tweet.'
+p1527
+aI12
+aa(lp1528
+V524946023165460480
+p1529
+aS"    they confirm facts before 'reporting'."
+p1530
+aI11
+aa(lp1531
+V524962247563431936
+p1532
+aS'  exactly, because they are "journalists" and "dems the rules" Kelly is a "comedic writer" no rules. Go police journalists'
+p1533
+aI19
+aa(lp1534
+V524962953695858689
+p1535
+aS'  THANK YOU.'
+p1536
+aI20
+aa(lp1537
+V525522784748060672
+p1538
+aS'  yes from her newly decorated LA living room. Just like Egypt.'
+p1539
+aI21
+aa(lp1540
+V524990987308134400
+p1541
+aS"   No, you're right. We should follow comedic writers and trust their sources. That's my first instinct."
+p1542
+aI20
+aa(lp1543
+V524993526564929536
+p1544
+aS'   seeing as though I was 100% correct, yes.'
+p1545
+aI23
+aa(lp1546
+V524994047451332608
+p1547
+aS'   Kudos to your relaying of second-hand information! Do you have an app?'
+p1548
+aI24
+aa(lp1549
+V524996012847665152
+p1550
+aS"   hey kid, go enjoy this weird sense of power I've afforded you this morning. Spend it wisely!!"
+p1551
+aI25
+aa(lp1552
+V524996728811175936
+p1553
+aS'   Thanks, that was considerate of you! All the best.'
+p1554
+aI26
+aa(lp1555
+V524943005313409025
+p1556
+aS"   the news report I'm watching currently reported the same thing before Kelly tweeted it."
+p1557
+aI10
+aa(lp1558
+V524945080613093376
+p1559
+aS'   Stated as fact before news outlets even suggested.Still uncertain.Leave news to news pros.Done here.'
+p1560
+aI28
+aa(lp1561
+V524946657755299840
+p1562
+aS" maybe people shouldn't look to the tweets of comedy writers for their news facts?"
+p1563
+aI29
+aa(lp1564
+V524933431793553408
+p1565
+aS' the gunman is still on the loose.'
+p1566
+aI0
+aa(lp1567
+V524939106367721472
+p1568
+aS' my thoughts also'
+p1569
+aI0
+aa(lp1570
+V524933274444238848
+p1571
+aS" what's your source? That's not confirmed!"
+p1572
+aI0
+aa(lp1573
+V524933486407602176
+p1574
+aS' please wait on this. Also sounds like multiple suspects. People need to stay vigilant.'
+p1575
+aI0
+aa(lp1576
+V524935670260047872
+p1577
+aS" It's Harper's Canada though"
+p1578
+aI0
+aaa(lp1579
+(lp1580
+V524925987239120897
+p1581
+aS'Soldier shot at National War Memorial in Ottawa  cdnpoli hw'
+p1582
+aI0
+aa(lp1583
+V524930943971504129
+p1584
+aS'RT  Soldier shot at National War Memorial in Ottawa  cdnpoli hw'
+p1585
+aI0
+aa(lp1586
+V524930594464362496
+p1587
+aS'Gunfire inside Canadian parliament; soldier shot at National War Memorial in Ottawa  cdnpoli '
+p1588
+aI0
+aa(lp1589
+V524933733246574592
+p1590
+aS' Time to get snipers out on the roofs. Take him out, no talking!!!'
+p1591
+aI0
+aa(lp1592
+V524938679958405120
+p1593
+aS'Our thoughts to all those in Ottawa  Soldier shot at National War Memorial in Ottawa  cdnpoli hw'
+p1594
+aI0
+aaa(lp1595
+(lp1596
+V525049639016615937
+p1597
+aS'This is the soldier who died today at the Ottawa War Memorial. His name is Cpl. Nathan Cirillo. RIP OttawaStrong '
+p1598
+aI0
+aa(lp1599
+V525063388934967298
+p1600
+aS'  R.I.P my condolences to his family'
+p1601
+aI0
+aa(lp1602
+V525081032824209408
+p1603
+aS' \nSo sorry for him &amp; his FAMILY.'
+p1604
+aI0
+aa(lp1605
+V525052198586040321
+p1606
+aS' If we know the name of the maniac, but not the name of its victim, we are failing... failing... utterly. '
+p1607
+aI0
+aa(lp1608
+V525061861398806528
+p1609
+aS' \nRIP Brother!!'
+p1610
+aI0
+aa(lp1611
+V525053884029763585
+p1612
+aS' So very sad. Thoughts and prayers for his wife, young son and family that are grieving at this sad, sad time.'
+p1613
+aI0
+aaa(lp1614
+(lp1615
+V524980744658382848
+p1616
+aS'RCMP to hold news conference on Ottawa shootings at 2 pm ET, 11 am PT. Watch live coverage @ '
+p1617
+aI0
+aa(lp1618
+V524982162270220288
+p1619
+aS'          2P.M.Presser'
+p1620
+aI0
+aa(lp1621
+V524991474480730112
+p1622
+aS'  our prayers are with our leaders &amp; authorities, may they return safely to their homes'
+p1623
+aI0
+aa(lp1624
+V524983036098924545
+p1625
+aS' '
+p1626
+aI0
+aa(lp1627
+V524983426072731648
+p1628
+aS"  What's the matter with ppl crazy fuck"
+p1629
+aI0
+aa(lp1630
+V525001263922937857
+p1631
+aS'  is it over or are they still looking for the gunmen?'
+p1632
+aI0
+aa(lp1633
+V524981867876212736
+p1634
+aS' '
+p1635
+aI0
+aa(lp1636
+V524983145394110464
+p1637
+aS' \nHas car-jacking by suspects been confirmed?  Questionable.'
+p1638
+aI0
+aa(lp1639
+V525043841490251776
+p1640
+aS"  let's cut off his head and send back to his family in the middle east."
+p1641
+aI0
+aa(lp1642
+V524990946497531905
+p1643
+aS"  let's hope the medias don't gratified these people by publicizing their names all over.. which is exactly what they want.!"
+p1644
+aI0
+aaa(lp1645
+(lp1646
+V524925050739490816
+p1647
+aS'BREAKING NEWS: Soldier shot at National War Memorial in Ottawa '
+p1648
+aI0
+aa(lp1649
+V524925775678816256
+p1650
+aS'Lord, have mercy. Protect those who protect us " Soldier shot at National War Memorial in Ottawa '
+p1651
+aI0
+aa(lp1652
+V524929224260714499
+p1653
+aS'  omg hope !!!!!!'
+p1654
+aI0
+aa(lp1655
+V524925341316689920
+p1656
+aS'  why!!!'
+p1657
+aI0
+aa(lp1658
+V524930352000036864
+p1659
+aS' yessss!!'
+p1660
+aI0
+aa(lp1661
+V524930718645092353
+p1662
+aS'Christ. Ottawa friends, stay safe  " BREAKING NEWS: Soldier shot at National War Memorial in Ottawa '
+p1663
+aI0
+aa(lp1664
+V524932019248463872
+p1665
+aS'  2nd ISIS attack in Canada in two days'
+p1666
+aI0
+aa(lp1667
+V524925553070329856
+p1668
+ag90
+aI0
+aa(lp1669
+V524929840173309952
+p1670
+aS'  \n\nAnd this: '
+p1671
+aI0
+aa(lp1672
+V524926310565814272
+p1673
+aS' BREAKING NEWS: Soldier shot at National War Memorial in Ottawa  Be safe out there folks in Uniform'
+p1674
+aI0
+aa(lp1675
+V524926071599534080
+p1676
+aS'Ondertussen in Canada...  BREAKING NEWS: Soldier shot at National War Memorial in Ottawa '
+p1677
+aI0
+aa(lp1678
+V524926357927903232
+p1679
+aS'Bizar..Gister Montral vandaag Ottawa.  BREAKING NEWS: Soldier shot at National War Memorial in Ottawa '
+p1680
+aI0
+aaa(lp1681
+(lp1682
+V524932056560963584
+p1683
+aS'BREAKING: At least 20 shots have been fired in the Canadian parliament in Ottawa, according to witnesses.'
+p1684
+aI0
+aa(lp1685
+V524941386231971841
+p1686
+aS'  may secularism thrive! Order more investigations against those oppose terrorism'
+p1687
+aI0
+aa(lp1688
+V524933566405562368
+p1689
+aS' wats happening?'
+p1690
+aI0
+aaa(lp1691
+(lp1692
+V524972443308683264
+p1693
+aS'Statement from Ottawa Hospital: received 3 patients. 2 in stable condition. '
+p1694
+aI0
+aa(lp1695
+V524989861087158272
+p1696
+aS"  Okay, so what's been happening in Canada?"
+p1697
+aI0
+aa(lp1698
+V524990464970489856
+p1699
+aS"  Okay did quick search.  Seems these are low level wannabe terrorists retaliating for Canada's stand against ISIS."
+p1700
+aI1
+aa(lp1701
+V524995006088896513
+p1702
+aS" The terrorists bit has not been confirmed as far as I'm aware. Last guy who shot up Parliament 29 yrs ago was a nutcase. waiting"
+p1703
+aI2
+aa(lp1704
+V524995354539085826
+p1705
+aS' True.  But I hear there was a similar incident this past Monday. Is that correct?  That makes me think its low level terrorism'
+p1706
+aI3
+aa(lp1707
+V524996070972358656
+p1708
+aS' A soldier was intentionally hit by a car driven by a radicalized person, also not really confirmed yet. '
+p1709
+aI4
+aa(lp1710
+V524996595021283328
+p1711
+aS' Everything needs to be confirmed of course.  It would make sense though if true though.'
+p1712
+aI5
+aa(lp1713
+V524975009488330756
+p1714
+aS'  Thank you for up date ---  great job --Thank you ------pnp---canada'
+p1715
+aI0
+aa(lp1716
+V524974351095832578
+p1717
+aS'  12:50am??'
+p1718
+aI0
+aa(lp1719
+V524974608286359552
+p1720
+aS'   Probably meant PM, in the afternoon &gt;.&lt;'
+p1721
+aI8
+aa(lp1722
+V524975119438200833
+p1723
+aS'.   yes, certainly a typo. '
+p1724
+aI9
+aa(lp1725
+V524995496944087040
+p1726
+aS'  this is s dry run for what that have planned for us in USA.'
+p1727
+aI0
+aaa(lp1728
+(lp1729
+V524944399890124801
+p1730
+aS'Recap: Gunman shot dead inside Parliament buildings; police believe there may be others on loose. Cdn soldier shot earlier at War Memorial.'
+p1731
+aI0
+aa(lp1732
+V524946532416884736
+p1733
+aS' Hunt them down like the animals that they are!!'
+p1734
+aI0
+aa(lp1735
+V524949253312217088
+p1736
+aS'  there is far more tragedy than raw, unclothed, animality here.'
+p1737
+aI1
+aa(lp1738
+V524951483872444416
+p1739
+aS"  The tragedy is that we are allowing these people in to our country. Don't know what the hell you're talking about!!"
+p1740
+aI2
+aa(lp1741
+V524967855105007616
+p1742
+aS'  all I am trying to point out is that sensationalism has never been very useful to anyone. Canada terror'
+p1743
+aI3
+aa(lp1744
+V524969433308340224
+p1745
+aS'  I think that what they are doing around the world is "sensational". It\'s about time we matched it.'
+p1746
+aI4
+aa(lp1747
+V524970408479850496
+p1748
+aS'  more than anything we need sobriety, not sensationalism. terror Canada cbc parliament harper war peace'
+p1749
+aI5
+aa(lp1750
+V524970090912313345
+p1751
+aS'  I think that what you are saying is very dangerous, and exactly what is wrong with the world we are living in.'
+p1752
+aI5
+aa(lp1753
+V524971624093982721
+p1754
+aS"  So what they are doing is right??? You're wacked!!! You should be on a list!!!"
+p1755
+aI7
+aa(lp1756
+V524971261005660160
+p1757
+aS'  You should see how many have retweeted and favourited my tweet. I think I am expressing what a lot want to. Wake up!!'
+p1758
+aI7
+aa(lp1759
+V524971862682767360
+p1760
+aS'  Fear has always been easier to manipulate than courage.'
+p1761
+aI9
+aa(lp1762
+V524972557116915712
+p1763
+aS'  Blah blah....bleeding heart!!!!'
+p1764
+aI10
+aa(lp1765
+V524948893633871872
+p1766
+aS'  a safe bet?'
+p1767
+aI0
+aa(lp1768
+V524946767209459712
+p1769
+aS'RT " Gunman shot dead inside Parliament; police believe there may be others on loose. Cdn soldier shot earlier at War Memorial.'
+p1770
+aI0
+aa(lp1771
+V524945130113863680
+p1772
+aS' Recap: Gunman shot dead inside Parliament buildings; police believe there may be others on loose... Ottawa'
+p1773
+aI0
+aa(lp1774
+V524945376911314945
+p1775
+aS' '
+p1776
+aI0
+aa(lp1777
+V524948340057047040
+p1778
+aS' \nOk so he is dead, understanding he was a huge threat....BUT now WE will NOT know~who or why? CANADIANSneedTOknow'
+p1779
+aI0
+aa(lp1780
+V524946868887756801
+p1781
+aS'Ottawa MT  Gunman shot dead inside Parliament; police believe there may be others on loose. Soldier shot earlier at War Memorial'
+p1782
+aI0
+aa(lp1783
+V524952198170836992
+p1784
+aS'  Oh no! :('
+p1785
+aI0
+aa(lp1786
+V524952535548063745
+p1787
+aS'  This is the second soldier killed this week by possible "terrorists" now under investigation.'
+p1788
+aI18
+aa(lp1789
+V524953373200891904
+p1790
+aS' Scary stuff...'
+p1791
+aI19
+aa(lp1792
+V524953954111995904
+p1793
+aS' Agreed.'
+p1794
+aI20
+aaa(lp1795
+(lp1796
+V525003468659228672
+p1797
+aS"These are not timid colours; soldiers back guarding Tomb of Unknown Soldier after today's shooting StandforCanada "
+p1798
+aI0
+aa(lp1799
+V525007273832497154
+p1800
+aS'  Not a hoax.  This is before the shooting'
+p1801
+aI0
+aa(lp1802
+V525007688405491712
+p1803
+aS"   It's not a hoax, but it also wasn't taken *after* the shooting."
+p1804
+aI1
+aa(lp1805
+V525008782842396672
+p1806
+aS'   Really? Why would somebody post this without saying that?  Twisted.'
+p1807
+aI2
+aa(lp1808
+V525009250213326848
+p1809
+aS"  Because people like  love stealing other people's pics to get RTs."
+p1810
+aI3
+aa(lp1811
+V525009872640032768
+p1812
+aS'   That may be harsh.  He seems to be honouring. Just unaware of source.'
+p1813
+aI4
+aa(lp1814
+V525010026143162368
+p1815
+aS"   Don't steal other people's pictures without attribution. Pretty simple."
+p1816
+aI5
+aa(lp1817
+V525009240772317184
+p1818
+aS'   The soldier on the right is the one who  taken by visitor moments before shooting'
+p1819
+aI3
+aa(lp1820
+V525006759807967232
+p1821
+aS'  Apparently a hoax. Best to take Tweet down.'
+p1822
+aI0
+aa(lp1823
+V525009403658129408
+p1824
+aS'  '
+p1825
+aI0
+aa(lp1826
+V525007939569221632
+p1827
+aS' This photo was taken this morning, before the shooting.'
+p1828
+aI0
+aa(lp1829
+V525008177683636224
+p1830
+aS'  this matches the photo tweeted earlier today from a tourist who says it was taken moments before the shooting. 1/2'
+p1831
+aI0
+aa(lp1832
+V525008290863136768
+p1833
+aS"  I don't believe there are soldiers guarding this area right now. 2/2"
+p1834
+aI0
+aa(lp1835
+V525009574256848897
+p1836
+aS"  wondered as well. I've reached out to someone who would know just to confirm that. Hopefully get response soon."
+p1837
+aI12
+aa(lp1838
+V525009978047078400
+p1839
+aS'   That photo was taken before the attack.'
+p1840
+aI12
+aa(lp1841
+V525009203187171329
+p1842
+aS'  Thats the photo tweeted this morning claiming to be of the soldier who was killed.'
+p1843
+aI0
+aa(lp1844
+V525007275308908544
+p1845
+aS'  So honoured to serve as Honorary Colonel in reserves. Job is to honour citizen soldiers like these brave men.'
+p1846
+aI0
+aaa(lp1847
+(lp1848
+V524964948683005952
+p1849
+aS'Ottawa police confirm to CBCNews they are still seeking 1 or more suspects after shootings on Parliament Hill, War Memorial, nearby mall.'
+p1850
+aI0
+aa(lp1851
+V524968014484365313
+p1852
+aS'  harperAdminstration foreign policy is making Canadians a victim voteLiberal '
+p1853
+aI0
+aa(lp1854
+V524970031856488448
+p1855
+aS'    your defense and justification of Islamic terrorism is disgusting'
+p1856
+aI1
+aa(lp1857
+V524970424246226945
+p1858
+aS'    you are too ignorant to understand that extremism has always been there. Blame Harper'
+p1859
+aI2
+aa(lp1860
+V524971348469510145
+p1861
+aS"    they don't give a shit about Islam they care about regional tensions"
+p1862
+aI2
+aa(lp1863
+V524969798170869761
+p1864
+aS'    no, radical Muslim extremists are making us victims.'
+p1865
+aI1
+aa(lp1866
+V524971522126270464
+p1867
+aS'    canada has never been this dangerous before until harperadminstration changed their FP'
+p1868
+aI5
+aa(lp1869
+V524971210275565568
+p1870
+aS'    your radical Muslims are being funded by American Senate, Israel and Saudia Arabia'
+p1871
+aI5
+aa(lp1872
+V524969503499616256
+p1873
+aS'    are you for real?'
+p1874
+aI1
+aa(lp1875
+V524973817219653633
+p1876
+aS'    are you middle eastern, by chance?'
+p1877
+aI8
+aa(lp1878
+V524974795503726593
+p1879
+aS"    I am a proud Canadian afghan &amp; I support Canada's presence in Afghanistan"
+p1880
+aI9
+aa(lp1881
+V524971397488336897
+p1882
+aS'    convo over. Trudeau is a windbag, name one good idea that he has tabled?'
+p1883
+aI8
+aa(lp1884
+V524971955381092353
+p1885
+aS"    you guys don't realize that harder is a snake and your lives are at stake because of him"
+p1886
+aI11
+aa(lp1887
+V524972276345622528
+p1888
+aS'    Justins\' new book spoiler alert. "My dad was famous...the end"'
+p1889
+aI12
+aa(lp1890
+V524972665564835841
+p1891
+aS"    I can't believe people focus on stupidity instead of real problems."
+p1892
+aI13
+aa(lp1893
+V524972964052103169
+p1894
+aS'    these extremist infidels are the problem not our Govt'
+p1895
+aI14
+aa(lp1896
+V524973940343840768
+p1897
+aS'    when our sole purpose was to help civilians with humanitarian aid in the past under liberals'
+p1898
+aI15
+aa(lp1899
+V524973904969093120
+p1900
+aS'    your Harper govt has changed Canada to a military nation...'
+p1901
+aI15
+aa(lp1902
+V524972433984323584
+p1903
+aS'    lives are at stake because of Isis and extremist snakes and cowards, not Harper'
+p1904
+aI12
+aa(lp1905
+V524972933652185089
+p1906
+aS"    that's cause Canada only focused on humanitarian aid and not military"
+p1907
+aI18
+aa(lp1908
+V524973072504606720
+p1909
+aS"    that's the Canada we want, not a Canada that wants to send its military all over ME"
+p1910
+aI18
+aa(lp1911
+V524972859714981889
+p1912
+aS"    wow you are dumber that I thought. Haven't you asked why Canada want in danger before?"
+p1913
+aI18
+aa(lp1914
+V524973750710591490
+p1915
+aS"    this has to be crushed to the point it won't rise again"
+p1916
+aI8
+aa(lp1917
+V524974290115244032
+p1918
+aS'    you are an imbecile and because of imbeciles like you, our lives are in danger'
+p1919
+aI22
+aa(lp1920
+V524974054957002752
+p1921
+aS'    you force that woman in your pic to dress that way?'
+p1922
+aI8
+aa(lp1923
+V524974420428075009
+p1924
+aS'    you are such an ignorant wow keep running your mouth cause you are an idiot'
+p1925
+aI24
+aa(lp1926
+V524973649527193601
+p1927
+aS'    we follow our Allies, we need them and they need us.'
+p1928
+aI8
+aa(lp1929
+V524970201503526912
+p1930
+aS'   yes why not?? stop criticizing  and you need to realize that harper put our lives at risk'
+p1931
+aI8
+aa(lp1932
+V524971249152577536
+p1933
+aS'    Liberals sent me and many more Canadian Soldiers to Afghanistan in the first place...'
+p1934
+aI1
+aa(lp1935
+V524971804096737280
+p1936
+aS'    Afghanistan is the only country needed help'
+p1937
+aI28
+aa(lp1938
+V524972948508409856
+p1939
+aS' yes, but the liberals put us into direct combat by sending is to Kandahar. So why blame the CPC for this attack.'
+p1940
+aI29
+aa(lp1941
+V524973312901132288
+p1942
+aS' Kanadar needs Canadian help, afghans welcome foreign help. Today Afghanistan is much better place thanks to Canada'
+p1943
+aI30
+aa(lp1944
+V524973597467901952
+p1945
+aS' Yes it is, my point is though the liberals started us into this chain of events within foreign policy, CPC just continued it.'
+p1946
+aI31
+aa(lp1947
+V524977054178353154
+p1948
+aS' I believe cpc pushed it too far'
+p1949
+aI32
+aa(lp1950
+V524973370677690368
+p1951
+aS'    No ones even confirmed this was an Islamic attack yet.'
+p1952
+aI29
+aa(lp1953
+V524974118614347776
+p1954
+aS'    exactly so why did you or your friend already pointed the fingers at Muslims ignorantmuch'
+p1955
+aI34
+aa(lp1956
+V524974938256457729
+p1957
+aS'    you did, you blamed our foreign policy to start with...'
+p1958
+aI35
+aa(lp1959
+V524976005564215296
+p1960
+aS"  I never blamed Muslims for this, I don't think you should be pushing vote liberal bullshit at a time like this."
+p1961
+aI35
+aa(lp1962
+V524976953707999232
+p1963
+aS'  I just think we need a change'
+p1964
+aI37
+aa(lp1965
+V524977699584897024
+p1966
+aS" perhaps, Trudeau is not that change. He's out of touch with most Canadians, he's not ready to run this country."
+p1967
+aI38
+aa(lp1968
+V525011846164938752
+p1969
+aS' if you remember americans Said the same about  but he turned out to be a good leader despite all his critics'
+p1970
+aI39
+aa(lp1971
+V525029545540612096
+p1972
+aS" I don't think he's a good leader at all, he's to involved in racial movements. Trudeau is better than Obama."
+p1973
+aI40
+aa(lp1974
+V524973155014946816
+p1975
+aS"    Rather then point fingers, why don't you stand united with the rest of Canadians."
+p1976
+aI29
+aa(lp1977
+V524965523470434305
+p1978
+aS" That's two terrorist attacks under Harper and counting!"
+p1979
+aI0
+aa(lp1980
+V524967686284255232
+p1981
+aS'  the way harperadminstration is leading this government, there will be many more attacks on our nation'
+p1982
+aI43
+aaa(lp1983
+(lp1984
+V524922729485848576
+p1985
+aS'Only photo I will tweet. CPR being performed on the soldier now. I heard four shots. ottawa '
+p1986
+aI0
+aa(lp1987
+V524923106289516546
+p1988
+aS'Reports of gunshots unconfirmed RT  Only photo I will tweet. CPR being performed on the soldier ottawa '
+p1989
+aI0
+aa(lp1990
+V524927409100193792
+p1991
+aS'  wow. Prayers for the soldier.'
+p1992
+aI0
+aa(lp1993
+V524935505755254786
+p1994
+aS' why are there no police ??'
+p1995
+aI0
+aa(lp1996
+V524935781643980800
+p1997
+aS' I was there before the police were'
+p1998
+aI3
+aa(lp1999
+V524935834941001728
+p2000
+aS' so.. Instead of helping you took a picture for profit?'
+p2001
+aI0
+aa(lp2002
+V525014151161081856
+p2003
+aS'  I agree Tyler, have some respect.That man shot is servicing your country and all you want to do is snap a pic.Pity you!'
+p2004
+aI5
+aa(lp2005
+V525020495759282176
+p2006
+aS"   You have a phone! Did you call for help? Nope. I took pics to sell and tweeted that I'm on CNN and ABC."
+p2007
+aI6
+aa(lp2008
+V525016388457738241
+p2009
+aS" do you think I shouldn't have used social media to warn people? What should I have done?"
+p2010
+aI6
+aa(lp2011
+V525017113618956290
+p2012
+aS' I have no issue with warning people whatsoever. But to take a photo, please!'
+p2013
+aI8
+aa(lp2014
+V525018964364382209
+p2015
+aS' the photo does not show the soldier. It shows the response. Brave bystanders trying to save him'
+p2016
+aI9
+aa(lp2017
+V525023805572648960
+p2018
+aS' my main issue was the picture. Heard your reporting on cnn thought you did a good job. Continue to be safe.'
+p2019
+aI10
+aa(lp2020
+V524938343180931073
+p2021
+aS' yeah posting information about an evolving shooter situation is less worthwhile than an untrained journalist performing CPR'
+p2022
+aI5
+aa(lp2023
+V524938364743876608
+p2024
+aS' Fuck you idiot'
+p2025
+aI5
+aa(lp2026
+V524938903762268160
+p2027
+aS" stay safe. Hope you're never in the same situation."
+p2028
+aI13
+aa(lp2029
+V524964692423630849
+p2030
+aS'  well said '
+p2031
+aI14
+aa(lp2032
+V524938764616204290
+p2033
+aS" don't have to give cpr. Other ways to help. But yeah keep looking for profit. Great professionalism."
+p2034
+aI13
+aa(lp2035
+V524996775049191424
+p2036
+aS'  "professional, adjective: engaged in a specified activity as one\'s main paid occupation rather than as a pastime"'
+p2037
+aI16
+aa(lp2038
+V524996902832852992
+p2039
+aS'  so yeah, expecting to get paid for doing his job seems pretty professional to me'
+p2040
+aI17
+aa(lp2041
+V524998240262180865
+p2042
+aS" photography is his job? My whole issue was a man needed help. There are ways to help if you don't know cpr"
+p2043
+aI18
+aa(lp2044
+V524998898117779456
+p2045
+aS"  I didn't realize you were on the scene and could verify that he could have saved the life of the guy shot four times."
+p2046
+aI19
+aa(lp2047
+V524999052367527937
+p2048
+aS"  Getting the word out about an active shooter situation seems pretty helpful, but please, tell us what you'd have done."
+p2049
+aI20
+aa(lp2050
+V525000734992248832
+p2051
+aS" we won't agree on this and that's okay. If you're in Ottawa stay safe."
+p2052
+aI21
+aa(lp2053
+V525000276894572546
+p2054
+aS" Call 911? Signal for help? Keep an eye out for the rescuers? Simply ask the people if there's anything he can do?"
+p2055
+aI21
+aa(lp2056
+V525003648104161281
+p2057
+aS" You don't have any evidence that he didn't do any of these things in addition to taking a picture, but you accuse away."
+p2058
+aI23
+aa(lp2059
+V525003675685888000
+p2060
+aS' Way to care for people.'
+p2061
+aI24
+aa(lp2062
+V524929863333842944
+p2063
+aS' Hi Peter, this is Marta, reporter from Demotix. Did you take the photo? Would be ok for us to use? Can you send it? thanks'
+p2064
+aI0
+aa(lp2065
+V524935320786456578
+p2066
+aS' I would like to be paid for it, on account of being a journalist.'
+p2067
+aI26
+aa(lp2068
+V524949065469923328
+p2069
+aS" could you email me please to subeditors and I'll explain better, thx"
+p2070
+aI27
+aa(lp2071
+V524940813089144833
+p2072
+aS"  ...seriously?! You're trying to profit from this? Think about it..."
+p2073
+aI27
+aa(lp2074
+V524923432933552128
+p2075
+aS' thank you for posting. It may just be hard to tell in the picture but bystanders look quite calm considering gunfire in area.'
+p2076
+aI0
+aa(lp2077
+V524924489058889728
+p2078
+aS'  Who the hell would shoot a protector of our freedoms, not a Canadian I hope !'
+p2079
+aI0
+aa(lp2080
+V524941702046707712
+p2081
+aS" I'm a Photo Editor @ ABC- Would you be willing to share this with all ABC News platforms and with partners if we credit?"
+p2082
+aI0
+aa(lp2083
+V524943557657133056
+p2084
+aS' Yeah, sure. Please credit me though.'
+p2085
+aI32
+aa(lp2086
+V524943685264629760
+p2087
+aS' Will do! Would you Prefer your name or your handle?'
+p2088
+aI33
+aa(lp2089
+V524943846711754752
+p2090
+aS' Will both fit on the lower thirds? I would appreciate name, then handle.'
+p2091
+aI34
+aa(lp2092
+V524943951472906240
+p2093
+aS' Yep, I can add both for sure. Thank you!'
+p2094
+aI35
+aaa(lp2095
+(lp2096
+V525060425184858112
+p2097
+aS"The Canadian soldier killed in today's Ottawa shooting is Cpl. Nathan Cirillo, a family source told CNN. Live blog: "
+p2098
+aI0
+aa(lp2099
+V525062377713455104
+p2100
+aS" you've been late on this story all day.."
+p2101
+aI0
+aa(lp2102
+V525061437224648704
+p2103
+aS' why tweets not in English'
+p2104
+aI0
+aa(lp2105
+V525072756191547393
+p2106
+aS"  because they can't read and write English"
+p2107
+aI2
+aa(lp2108
+V525062454372757504
+p2109
+aS'  One guess.'
+p2110
+aI2
+aa(lp2111
+V525061828997820417
+p2112
+aS'  tweets not in english cuz they are morons'
+p2113
+aI0
+aa(lp2114
+V525061994504671234
+p2115
+aS'  Out of respect for his family could CNN please stop showing pictures and video of people performing CPR on him?'
+p2116
+aI0
+aa(lp2117
+V525061628078067712
+p2118
+aS'  sad.....'
+p2119
+aI0
+aa(lp2120
+V525061045870551040
+p2121
+aS' He was shot at close range and did not stand a chance.\nThe gunman was shot and killed later trying to enter parliment'
+p2122
+aI0
+aa(lp2123
+V525060679272001537
+p2124
+aS' This is FAR from breaking news.... this has been known for hours'
+p2125
+aI0
+aa(lp2126
+V525083549284966400
+p2127
+aS'  ITS STILL IMPORTANT'
+p2128
+aI9
+aa(lp2129
+V525061909968478208
+p2130
+aS' RIP'
+p2131
+aI0
+aa(lp2132
+V525061831229210624
+p2133
+aS' source is correct!'
+p2134
+aI0
+aa(lp2135
+V525060901137702913
+p2136
+aS' RIP Bro'
+p2137
+aI0
+aa(lp2138
+V525061709518888960
+p2139
+aS' what is our world coming to, we are afraid to go anywhere as no place is safe.'
+p2140
+aI0
+aa(lp2141
+V525062273854078976
+p2142
+aS' RIP '
+p2143
+aI0
+aaa(lp2144
+(lp2145
+V525025279803424768
+p2146
+aS"The soldier shot dead in Wednesday's Ottawa attacks has been named as Cpl. Nathan Cirillo of HamOnt ottawashooting "
+p2147
+aI0
+aa(lp2148
+V525032985738084352
+p2149
+aS'   my condolences go out to your family'
+p2150
+aI0
+aa(lp2151
+V525029987855122432
+p2152
+aS'  Honour and respect to this Soldier,  this Warrior. ...'
+p2153
+aI0
+aa(lp2154
+V525026654759182338
+p2155
+aS'   that   so sad    pay    go out  his  family'
+p2156
+aI0
+aa(lp2157
+V525030036911689728
+p2158
+aS'  My heart is broken!  notinvain'
+p2159
+aI0
+aa(lp2160
+V525026519790284800
+p2161
+aS'  God Bless'
+p2162
+aI0
+aa(lp2163
+V525036532013727744
+p2164
+aS'  My heart is broken...I am so so sorry..Nathan..God Speed Hero.'
+p2165
+aI0
+aa(lp2166
+V525032961310482432
+p2167
+aS'  he even looks like a boss'
+p2168
+aI0
+aa(lp2169
+V525031054537936897
+p2170
+aS'  Rest in peace. An innocent life taken so tragically. In our hearts and prayers.'
+p2171
+aI0
+aaa(lp2172
+(lp2173
+V524969201102901248
+p2174
+aS'MPs credit sergeant-at-arms for saving lives in Parliament Hill shootings\n '
+p2175
+aI0
+aa(lp2176
+V524976794198638592
+p2177
+aS' need more men like this'
+p2178
+aI0
+aa(lp2179
+V524970440285249536
+p2180
+aS'Incredible day for S-A-A. Between a lot of bland days. " MPs credit sergeant-at-arms for saving lives in Parliament Hill shootings.'
+p2181
+aI0
+aa(lp2182
+V524989506509103105
+p2183
+aS' Canada is telling the World that we are up to the task of defending !'
+p2184
+aI0
+aa(lp2185
+V524971350881218560
+p2186
+aS' MPs credit sergeant-at-arms for saving lives in Parliament Hill shootings\n  Hero'
+p2187
+aI0
+aa(lp2188
+V524976232266731520
+p2189
+aS" he's a hero!"
+p2190
+aI0
+aa(lp2191
+V524971262071033857
+p2192
+aS' thank God for that hero'
+p2193
+aI0
+aa(lp2194
+V524970364771000320
+p2195
+aS'HERO -  MPs credit sergeant-at-arms for saving lives in Parliament Hill shootings\n '
+p2196
+aI0
+aa(lp2197
+V524971630678642688
+p2198
+aS' Thanks Sergeant!'
+p2199
+aI0
+aa(lp2200
+V524983303599054850
+p2201
+aS' that gaze alone will make most people wet their pants donoteffwithourguys'
+p2202
+aI0
+aa(lp2203
+V524986499411226624
+p2204
+aS' MPs credit sergeant-at-arms for saving lives in Parliament Hill shootings\n '
+p2205
+aI0
+aa(lp2206
+V524975741306298368
+p2207
+aS' good guy with a gun stops bad guy with a gun....'
+p2208
+aI0
+aa(lp2209
+V524979444881313792
+p2210
+aS' he is a good man. He has worked to keep the place open.'
+p2211
+aI0
+aa(lp2212
+V524990593895002112
+p2213
+aS' Its time for Canada to start making new Laws .In a world of so much evil ! Be careful of who coming in to Canada !!'
+p2214
+aI0
+aa(lp2215
+V524972839078985728
+p2216
+aS' I Guess that mace isnt for show'
+p2217
+aI0
+aa(lp2218
+V524975896432611328
+p2219
+aS'"MPs credit sergeant-at-arms for saving lives in Parliament Hill shootings GREAT JOB!!\n  '
+p2220
+aI0
+aa(lp2221
+V524971066943602688
+p2222
+aS'BAMF hero " MPs credit sergeant-at-arms for saving lives in Parliament Hill shootings\n '
+p2223
+aI0
+aa(lp2224
+V524986956409614336
+p2225
+aS'  He looks tough and square-edged. Could we get this guy to hold classes for our Secret Service?'
+p2226
+aI0
+aaa(lp2227
+(lp2228
+V524949443607412737
+p2229
+aS'Ottawa Police report a third shooting at Rideau Centre, no reports of injuries.'
+p2230
+aI0
+aa(lp2231
+V524956714303754240
+p2232
+aS' "Ottawa Police report a third shooting at Rideau Centre, no reports of injuries." Hoping everyone stays safe &lt;3'
+p2233
+aI0
+aa(lp2234
+V524950200281202688
+p2235
+aS' Ottawa Police report a third shooting at Rideau Centre, no reports of injuries. Wtf is happening '
+p2236
+aI0
+aa(lp2237
+V524956942926880768
+p2238
+aS' near, NEAR the Rideau Centre'
+p2239
+aI0
+aa(lp2240
+V524950874767249408
+p2241
+aS' your news coverage is all over the place and making it sound like there are hundreds of shootings happening. Please be carful.'
+p2242
+aI0
+aaa(lp2243
+(lp2244
+V524927281048080385
+p2245
+aS'Snipers set up on National Art Gallery as we remain barricaded in Centre Block on Parliament Hill cdnpoli. '
+p2246
+aI0
+aa(lp2247
+V524938376735379457
+p2248
+aS'  also, maybe just window cleaners- '
+p2249
+aI0
+aa(lp2250
+V524939504982167552
+p2251
+aS'  Twice in one week!?!?!?! Toclosetohomeforcomfort'
+p2252
+aI0
+aa(lp2253
+V524931933168746496
+p2254
+aS' Stay safe, Matt!'
+p2255
+aI0
+aa(lp2256
+V524934434404192256
+p2257
+aS"  odd how they happened to be already ready for this, eh? doesn't look staged at all. nope. totally believable."
+p2258
+aI0
+aa(lp2259
+V524941897266397184
+p2260
+aS"   you're an idiot its parliament hill. Of course they're prepared for situations like this you idiot!"
+p2261
+aI4
+aa(lp2262
+V524942146475163649
+p2263
+aS'   \nhow the guy got that far leads me to suspect this is not what it seems.'
+p2264
+aI5
+aa(lp2265
+V524942493050494976
+p2266
+aS"   \nfunny, a guy with a joint can't make it past the memorial flame, but a gunman, whoosh, right inside"
+p2267
+aI5
+aa(lp2268
+V524942844499619841
+p2269
+aS"   I've had concerns about that for a while"
+p2270
+aI7
+aa(lp2271
+V524950880681201664
+p2272
+aS' email me at dcdesk when you get a chance - good to know you are safe -Nathan'
+p2273
+aI8
+aa(lp2274
+V524965141268692993
+p2275
+aS'    Sure but in how many years has this happened? This is extremely unusual.'
+p2276
+aI8
+aa(lp2277
+V524965532211351552
+p2278
+aS'    \nvery rare. but it has been increasingly likely as we chop away at ment hlth services'
+p2279
+aI10
+aa(lp2280
+V524966130700791808
+p2281
+aS"    1/2 Violence doesn't automatically indicate a relationship to MH."
+p2282
+aI11
+aa(lp2283
+V524966555072094208
+p2284
+aS'    2/2 If it did, every guy in the NHL would be institutionalized.'
+p2285
+aI12
+aa(lp2286
+V524966663251566594
+p2287
+aS'    true enough'
+p2288
+aI12
+aa(lp2289
+V524965546379739136
+p2290
+aS'    In historical terms this is a blip. Screw those losers.'
+p2291
+aI10
+aa(lp2292
+V524965821337329666
+p2293
+aS'    a) actual "terror", b) nutbars, c) false flag. all 3 r plausible '
+p2294
+aI15
+aa(lp2295
+V524966881573470208
+p2296
+aS"    That's rather specious. We don't know t MH situation. Can't b determined from a distance."
+p2297
+aI16
+aa(lp2298
+V524967132090888192
+p2299
+aS"    That's why there are professionals. Average citizen can only currently make a guess."
+p2300
+aI17
+aa(lp2301
+V524967669083414528
+p2302
+aS'    \n364 days a year, the cops are 100% unbelievable. today, everyone lines up to suck them'
+p2303
+aI18
+aa(lp2304
+V524967144367591425
+p2305
+aS'    \ni am only saying that all three scenarios are plausible.'
+p2306
+aI17
+aa(lp2307
+V524968082083958784
+p2308
+aS"    Ah true. Problem now is we'll probably only get coroner's details  they won't make it."
+p2309
+aI20
+aa(lp2310
+V524968348468412416
+p2311
+aS'    \nthe truth will never come out. martial law is coming'
+p2312
+aI21
+aa(lp2313
+V524969635410870273
+p2314
+aS'    Not EVERYTHING will come out. But we will get details, especially these days.'
+p2315
+aI22
+aa(lp2316
+V524970281379823616
+p2317
+aS'    Call me bad Canuck, I hope those fucktards get their asses kicked. '
+p2318
+aI23
+aa(lp2319
+V524970687803715584
+p2320
+aS'    And I know they will too :) stupidattack'
+p2321
+aI24
+aa(lp2322
+V524969935383326721
+p2323
+aS'    \nfrom the same cops and government who tell us that cancer-curing marijuana is evil.'
+p2324
+aI23
+aa(lp2325
+V524971471501021184
+p2326
+aS'    This one was pretty good. Stay strong! Odd day, but have a good one anyways.'
+p2327
+aI26
+aa(lp2328
+V524971151693729792
+p2329
+aS"    The science is ongoing, it can't cure, I got a link hang on..."
+p2330
+aI26
+aa(lp2331
+V524936331605323776
+p2332
+aS'AttackInOttawa\nPolice action\n Snipers NationalArtGallery\nwe r barricadedCentreBlock ParliamentHill\n'
+p2333
+aI0
+aa(lp2334
+V524927826718638081
+p2335
+aS'. What a silly response. They are targets 2 an embedded sniper. Canada needs a Security make-over. Fail CdnPoli Design'
+p2336
+aI0
+aa(lp2337
+V524929656190148609
+p2338
+aS' Stay safe, Matt.'
+p2339
+aI0
+aa(lp2340
+V524939756455477249
+p2341
+aS' delete this you idiot'
+p2342
+aI0
+aa(lp2343
+V524934820124975106
+p2344
+aS'  Might be a good idea to not tweet about police movement/location?'
+p2345
+aI0
+aa(lp2346
+V524928326566412289
+p2347
+aS'  Stay safe.'
+p2348
+aI0
+aa(lp2349
+V524936956225282048
+p2350
+aS' showing the shooter where those police are???  '
+p2351
+aI0
+aa(lp2352
+V524928498771972096
+p2353
+aS'  why would you tweet the location of snipers? Who does that help? cdnpoli'
+p2354
+aI0
+aa(lp2355
+V524931034329395200
+p2356
+aS' very helpful why would you tweet that!!??'
+p2357
+aI0
+aa(lp2358
+V524941965012795393
+p2359
+aS'  because canada doesnt fuck around with security'
+p2360
+aI37
+aa(lp2361
+V524947016238268416
+p2362
+aS"  right &amp; terrorist don't have access to social media to find out where we have placed that valuable security!"
+p2363
+aI38
+aa(lp2364
+V524948547750621184
+p2365
+aS'  lmao you expect social media to shut down during a shooting? thats when most tweets happen fuckboi'
+p2366
+aI39
+aaa(lp2367
+(lp2368
+V524970851675176960
+p2369
+aS"Canada's parliament building locked down after shooting; at least one guard injured:  Photo: AP "
+p2370
+aI0
+aa(lp2371
+V524973778439528450
+p2372
+aS'  ...you mean @ least 1 guard died'
+p2373
+aI0
+aa(lp2374
+V524977026890211328
+p2375
+aS'  THIS IS A SMALL LESSON TO CANADA ON HUMAN RIGHTS ! WHAT IT WAS TRYING TO PREACH TO INDIA IN LAST 10 YRS!'
+p2376
+aI0
+aa(lp2377
+V524973084596375553
+p2378
+aS"RT   Canada's Parliament locked down after shooting; one guard injured:   Photo: AP "
+p2379
+aI0
+aa(lp2380
+V524973750694182912
+p2381
+aS'  wishing them our best.'
+p2382
+aI0
+aa(lp2383
+V524972452464824320
+p2384
+aS'  Lies and propaganda are traditionally the tools of theocracy, fascism, and totalitarianism.'
+p2385
+aI0
+aaa.

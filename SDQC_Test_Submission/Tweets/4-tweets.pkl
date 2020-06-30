@@ -1,0 +1,632 @@
+(lp0
+(lp1
+(lp2
+V529654186791944192
+p3
+aS'Prince rumoured to be performing in surprise show in Toronto  '
+p4
+aI0
+aa(lp5
+V529655164828139522
+p6
+aS' IF this were to be happening on Thursday, would consider flying Vancouver to To. in hopes of seeing him live. OnBucketList'
+p7
+aI0
+aa(lp8
+V529658952519540736
+p9
+aS' Prince rumoured to be performing in surprise show in Toronto  \n\nHow cool!'
+p10
+aI0
+aa(lp11
+V529654334456598529
+p12
+aS' hey  ^^^^'
+p13
+aI0
+aa(lp14
+V529655597114085376
+p15
+aS' Next, maybe Vancouver, B.C?'
+p16
+aI0
+aa(lp17
+V529680436121702400
+p18
+aS' who cares!!!!'
+p19
+aI0
+aa(lp20
+V529680820324560897
+p21
+aS" hahahaha well it's not much of a surprise now is it!? :P"
+p22
+aI0
+aa(lp23
+V529664081100562432
+p24
+aS"  he's still alive???"
+p25
+aI0
+aa(lp26
+V529654399455727617
+p27
+aS" I guess it's no longer a surprise."
+p28
+aI0
+aa(lp29
+V529655944066912257
+p30
+aS'Exciting! Anyone going? RT  Prince rumoured to performsurprise show in Toronto  '
+p31
+aI0
+aa(lp32
+V529671977662185473
+p33
+aS" I'll definitely be trying to get tix today!"
+p34
+aI9
+aaa(lp35
+(lp36
+V529540733020405760
+p37
+aS"PRINCE IN TORONTO TONIGHT:\n tweeted this morning to say OTNOROT CALLING, which is Toronto backwards, obviously.... Seems it's on!"
+p38
+aI0
+aa(lp39
+V529541029910044672
+p40
+aS"  it's a four hour flight from Vancouver to Toronto and I'm so tempted lol"
+p41
+aI0
+aa(lp42
+V529574549340553216
+p43
+aS'   go!!!!! I would if I could!!'
+p44
+aI1
+aa(lp45
+V529657666843721729
+p46
+aS'   no moneyyyyy :('
+p47
+aI2
+aa(lp48
+V529660640575897600
+p49
+aS'   oh no:('
+p50
+aI3
+aa(lp51
+V529661580649459712
+p52
+aS'   :('
+p53
+aI4
+aa(lp54
+V529542083405955072
+p55
+aS'  get on board the seduction 747....'
+p56
+aI1
+aa(lp57
+V529542544573865985
+p58
+aS"  I only wish. The Commodore Ballroom is calling Prince's name with Vancouver, he'll be back around hopefully!"
+p59
+aI6
+aa(lp60
+V529546994520694784
+p61
+aS' if you can make it tonight - do it :)'
+p62
+aI7
+aa(lp63
+V529548830287876096
+p64
+aS' and oh my god the show already sold out in Toronto?!?! damn.'
+p65
+aI8
+aa(lp66
+V529550101925343233
+p67
+aS" I don't think it's even been on sale yet"
+p68
+aI9
+aa(lp69
+V529550553773506560
+p70
+aS' ohhhh! alright! I was confused because it said "no longer on sale"!'
+p71
+aI10
+aa(lp72
+V529547352907218944
+p73
+aS" I doubt it! I don't got the money to go all the way out there! If I did, I definitely would! It would be fun! :)"
+p74
+aI8
+aa(lp75
+V529590746018754560
+p76
+aS'   I wld def go if I was only 2 hrs away. I once flew 11 hrs 2 C him in Vegas. Best night of my life!'
+p77
+aI1
+aa(lp78
+V529658081840746496
+p79
+aS"   it's across the country and 4 hours away lol and it's like $300 I think"
+p80
+aI13
+aaa(lp81
+(lp82
+V529687410611728384
+p83
+aS'Is it true? Prince rumoured to be performing surprise show in Toronto '
+p84
+aI0
+aa(lp85
+V529690572630798338
+p86
+aS'  a suprise concert on Vancouver would be cool cmonprince'
+p87
+aI0
+aa(lp88
+V529690952563433472
+p89
+aS' I am in a line up. It is going down Victoria Street to Queen.'
+p90
+aI0
+aa(lp91
+V529687957377413120
+p92
+aS' hope not'
+p93
+aI0
+aa(lp94
+V529689031571808256
+p95
+aS" yep, don't as me how I know, but yep"
+p96
+aI0
+aa(lp97
+V529689606649020418
+p98
+aS' Do you mean the artist formerly known as "Strange Symbol"?'
+p99
+aI0
+aaa(lp100
+(lp101
+V529716453792956416
+p102
+aS'Is Prince in Toronto? Rumours fly of surprise show...  '
+p103
+aI0
+aa(lp104
+V529797259362177024
+p105
+aS' any help with this event even raffle prizes are much appreciated'
+p106
+aI0
+aa(lp107
+V529797166739378177
+p108
+aS'   holding suicide prevention event and fundraiser for funeral costs for my cousin who passed on sun'
+p109
+aI0
+aaa(lp110
+(lp111
+V529695367680761856
+p112
+aS'OMG. Prince rumoured to be performing in Toronto today. Exciting!'
+p113
+aI0
+aa(lp114
+V529696892851347458
+p115
+aS' Where??? Prince'
+p116
+aI0
+aa(lp117
+V529697981751373824
+p118
+aS'  Massey Hall tix 10$? Prince'
+p119
+aI1
+aa(lp120
+V529698240405729281
+p121
+aS"  That's insane! I love Prince but there's no way I can get babysitting so last minute :("
+p122
+aI2
+aa(lp123
+V529701086815592449
+p124
+aS' I want tickets so bad!'
+p125
+aI0
+aa(lp126
+V529696091638620160
+p127
+aS' Love Prince, he was my first concert!! PRINCEWATCH'
+p128
+aI0
+aa(lp129
+V529695704982491137
+p130
+aS' I saw Prince in concert 2 years ago in halifax and honestly, was the most boring concert ever! Was so disappointed'
+p131
+aI0
+aa(lp132
+V529696619244306432
+p133
+aS" birthdaygirl prince  it's my Birthday ohhhh I would love to see my all time fav please get me in!"
+p134
+aI0
+aa(lp135
+V529695587390980097
+p136
+aS' Yes indeed !'
+p137
+aI0
+aaa(lp138
+(lp139
+V529720273285566464
+p140
+aS'In response to inquiries, we can confirm that Prince will not be performing at  tonight.'
+p141
+aI0
+aa(lp142
+V529721182468444160
+p143
+aS'Poor suckers in line!   In response to inquiries, we can confirm that Prince will not be performing at  tonight.'
+p144
+aI0
+aa(lp145
+V529722617318899712
+p146
+aS"  it's probably "
+p147
+aI0
+aa(lp148
+V529720542925176832
+p149
+aS' In response to inquiries, we can confirm that Prince will not be performing at  tonight. '
+p150
+aI0
+aa(lp151
+V529721379302952961
+p152
+aS'   thank you for that tweet!! MUCHO APPRECIATEO'
+p153
+aI3
+aa(lp154
+V529721009172410369
+p155
+aS'Err, twist? RT  In response to inquiries, we can confirm that Prince will not be performing at  tonight.'
+p156
+aI0
+aa(lp157
+V529721493962641408
+p158
+aS' But 3rd Eye Girl will be? Did you ask LN if The Artist Formerly Known As Prince is playing?'
+p159
+aI5
+aa(lp160
+V529722570460123136
+p161
+aS' maybe tomorrow?'
+p162
+aI6
+aa(lp163
+V529723695989002241
+p164
+aS' In response to inquiries, we can confirm that Prince will not be performing at  tonight. '
+p165
+aI0
+aa(lp166
+V529720506602516480
+p167
+aS'?!?!?   In response to inquiries, we can confirm that Prince will not be performing at  tonight.'
+p168
+aI0
+aa(lp169
+V529722739196985345
+p170
+aS' "Change of plans." Hmmm. '
+p171
+aI9
+aa(lp172
+V529723588413489152
+p173
+aS'  What about tomorrow night? Prince in Toronto still a possibility?'
+p174
+aI0
+aa(lp175
+V529723713701543938
+p176
+aS'There ya go.  RT  In response to inquiries, we can confirm that Prince will not be performing at  tonight.'
+p177
+aI0
+aa(lp178
+V529722000076718082
+p179
+aS'This is what it feels like/when doves cry  RT  we can confirm that Prince will not be performing at  tonight.'
+p180
+aI0
+aa(lp181
+V529723719552618496
+p182
+aS'   aw man! That got my funny bone!'
+p183
+aI13
+aa(lp184
+V529722212706971648
+p185
+aS'   WHAT THE HELL EVEN JUST HAPPENED TODAY'
+p186
+aI13
+aa(lp187
+V529722084600320001
+p188
+aS' Soo... Its tomorrow night!? Prince '
+p189
+aI0
+aa(lp190
+V529723119913951232
+p191
+aS'  Tomorrow Night?'
+p192
+aI0
+aaa(lp193
+(lp194
+V529739968470867968
+p195
+aS'Prince not playing Massey Hall tonight, promoter says  '
+p196
+aI0
+aa(lp197
+V529741574742507520
+p198
+aS'  lol.'
+p199
+aI0
+aa(lp200
+V529740822238232577
+p201
+aS'athenaph what tease!!! RT  Prince not playing Massey Hall tonight, promoter says '
+p202
+aI0
+aa(lp203
+V529741502323621890
+p204
+aS" Of course not. I can't make it tonight. But Saturday....."
+p205
+aI0
+aa(lp206
+V529743000247992320
+p207
+aS' good :-)'
+p208
+aI0
+aa(lp209
+V529745508148203523
+p210
+aS'WTW?!  Prince not playing Massey Hall tonight, promoter says  '
+p211
+aI0
+aa(lp212
+V529740809672077313
+p213
+aS'. I can also confirm he will not be playing in Rankin Inlet, NU either'
+p214
+aI0
+aa(lp215
+V529748991849013248
+p216
+aS' And, ... ?\nWhen  asked Live Nation why no one made this clarification 4 or 5 hours earlier?'
+p217
+aI0
+aa(lp218
+V529827763855704064
+p219
+aS'  O(+&gt;'
+p220
+aI0
+aa(lp221
+V529746860714758145
+p222
+aS' Prince not playing Massey Hall tonight, promoter says   good. I was feeling bitter.'
+p223
+aI0
+aaa(lp224
+(lp225
+V529695483661664257
+p226
+aS'Clearly prince is having a show in toronto  tdot gta prince concert '
+p227
+aI0
+aa(lp228
+V529701933301653505
+p229
+aS"   If there's one thing  fans love more than the music, it's queueing!"
+p230
+aI0
+aa(lp231
+V529702311111983104
+p232
+aS'     and boy did we know how to queue mate.'
+p233
+aI1
+aa(lp234
+V529703489107423233
+p235
+aS'    I hope you enjoy! Only slightly jealous '
+p236
+aI1
+aa(lp237
+V529705003758665729
+p238
+aS"    I can't go lol I have to work or I would should be amazing."
+p239
+aI1
+aa(lp240
+V529702566104678401
+p241
+aS"    very very true hope it's a heck of a concert."
+p242
+aI1
+aa(lp243
+V529708506111549440
+p244
+aS" Enjoyyyyyy I'm jealous "
+p245
+aI0
+aaa(lp246
+(lp247
+V529713467184676864
+p248
+aS'Secret Prince show rumored for Toronto tonight '
+p249
+aI0
+aa(lp250
+V529715169942065152
+p251
+aS' Secret Prince show rumored for Toronto tonight  Wishing this was NYC '
+p252
+aI0
+aa(lp253
+V529714853955399680
+p254
+aS' Secret Prince show rumored for Toronto tonight  '
+p255
+aI0
+aa(lp256
+V529736871707152385
+p257
+aS' I think it sold out in minus 4 minutes.'
+p258
+aI2
+aa(lp259
+V529739950993203201
+p260
+aS' noooooo!'
+p261
+aI3
+aa(lp262
+V529714660690644992
+p263
+aS' Secret Prince show rumored for Toronto tonight  why does no one ever do secret shows in Ohio? '
+p264
+aI0
+aaa(lp265
+(lp266
+V529660296080916480
+p267
+aS'Prince is playing a secret show in Toronto tonight.  I will also be playing a secret show tonight involving pizza &amp; netflix bingeing.'
+p268
+aI0
+aa(lp269
+V529661317087768576
+p270
+aS' you should send Prince a set of tennis balls for the legs of his walker.  Easier to slide across stage.'
+p271
+aI0
+aa(lp272
+V529666750330449920
+p273
+aS" Girl, don't be mean.   Age ain't nothing but a number."
+p274
+aI1
+aa(lp275
+V529661510369284096
+p276
+aS" EXCUSE ME, WHERE'S MY INVITE (to the latter, duh)"
+p277
+aI0
+aa(lp278
+V529661727940431872
+p279
+aS'  gonna try to make it to both.'
+p280
+aI3
+aaa(lp281
+(lp282
+V529653029747064832
+p283
+aS'Prince fans lining up at Massey Hall. Wristbands for surprise show reportedly on sale at 6pm. Toronto '
+p284
+aI0
+aa(lp285
+V529656160736251904
+p286
+aS' '
+p287
+aI0
+aa(lp288
+V529670625229422593
+p289
+aS'   wtf?!?!?!?!'
+p290
+aI1
+aa(lp291
+V529677185171607553
+p292
+aS"  I'm crying as well... Don't you worry!"
+p293
+aI2
+aa(lp294
+V529751327174586370
+p295
+aS"  \nhaha!!!! keep your ears open and let me know if you hear anything...\ni'll do the same!!!\n"
+p296
+aI3
+aa(lp297
+V529880720458911745
+p298
+aS" I'm crying purple tears..."
+p299
+aI4
+aa(lp300
+V529697018575585280
+p301
+aS' prince is god'
+p302
+aI0
+aaa(lp303
+(lp304
+V529689679411810304
+p305
+aS'People talking about stupid shit like government corruption and harassment when Prince is in Toronto smh'
+p306
+aI0
+aa(lp307
+V529690091221180416
+p308
+aS' *holds boom box to air and gets emosh with benji* PURPLE RAIN PURPLE RAINBNNN *insert hard electric guitar here*'
+p309
+aI0
+aa(lp310
+V529693591132983297
+p311
+aS' we should be at this concert'
+p312
+aI1
+aa(lp313
+V529694204361203713
+p314
+aS" tell me we wouldn't show up in the tightest clothes and cry while still being the hardest niggas at a prince concert"
+p315
+aI2
+aa(lp316
+V529695331387461632
+p317
+aS" that's the only concert we could wear heels and still be hard af"
+p318
+aI3
+aa(lp319
+V529689790254698496
+p320
+aS' LOOOOOOOOOOOOOOOOOOOL'
+p321
+aI0
+aaa.

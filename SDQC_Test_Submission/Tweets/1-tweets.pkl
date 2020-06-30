@@ -1,0 +1,208 @@
+(lp0
+(lp1
+(lp2
+V521346721226711040
+p3
+aS'Unconfirmed reports claim that Michael Essien has contracted Ebola. '
+p4
+aI0
+aa(lp5
+V521352678283444224
+p6
+aS' Unconfirmed reports claim that Michael Essien has contracted Ebola. '
+p7
+aI0
+aa(lp8
+V521364652522225665
+p9
+aS' This is not funny, people are dying from this. You should be ashamed of yourself.'
+p10
+aI0
+aa(lp11
+V521366121484918785
+p12
+aS"  Who mentioned it being funny? 'UNCONFIRMED reports'.... to translate: 'it might not be true, but...'"
+p13
+aI2
+aa(lp14
+V521352186949672960
+p15
+aS' rah'
+p16
+aI0
+aa(lp17
+V521351041154289665
+p18
+aS' Unconfirmed reports claim that Michael Essien has contracted Ebola.  '
+p19
+aI0
+aa(lp20
+V521352500604309506
+p21
+aS' Unconfirmed reports claim that Michael Essien has contracted Ebola. '
+p22
+aI0
+aa(lp23
+V521355922724388865
+p24
+aS' how would someone start such a bizarre rumour about Essien?Human beings are heartless'
+p25
+aI0
+aa(lp26
+V521349366037356544
+p27
+aS' if it is unconfirmed, why do you tweet it?'
+p28
+aI0
+aa(lp29
+V521350130851921921
+p30
+aS' MEU DEUS OLHA ISSO '
+p31
+aI0
+aa(lp32
+V521367512551002112
+p33
+aS'  O QUE TEM O MEU HOMEM??'
+p34
+aI9
+aa(lp35
+V521371539082858496
+p36
+aS'  ele t com ebola'
+p37
+aI10
+aa(lp38
+V521371742942797825
+p39
+aS'  DEUS E MAIS E SEROO ISSO?'
+p40
+aI11
+aa(lp41
+V521356894343294976
+p42
+aS'Ok  Unconfirmed reports claim that Michael Essien has contracted Ebola. '
+p43
+aI0
+aa(lp44
+V521349434719076352
+p45
+aS'Stop it! Hope you get Ebola, you utter twat  Unconfirmed reports claim Essien has contracted Ebola. '
+p46
+aI0
+aa(lp47
+V521367394108071936
+p48
+aS'   he has its so sad'
+p49
+aI14
+aa(lp50
+V521367905062379521
+p51
+aS"Yeah it's sad when your family gets it. Idiot.     he has its so sad"
+p52
+aI15
+aa(lp53
+V521368022880378882
+p54
+aS'  my family are not african. Denied.'
+p55
+aI16
+aa(lp56
+V521368940669583360
+p57
+aS"  Fuck off. You're an attention seeking cunt."
+p58
+aI17
+aa(lp59
+V521351752734769152
+p60
+aS' Unconfirmed reports claim that Michael Essien has contracted Ebola.  unconfirmed.....'
+p61
+aI0
+aa(lp62
+V521356252740608001
+p63
+aS'Umdlali webhola vele RT  Unconfirmed reports claim that Michael Essien has contracted Ebola. '
+p64
+aI0
+aa(lp65
+V521352738891132929
+p66
+aS'What? " Unconfirmed reports claim that Michael Essien has contracted Ebola. '
+p67
+aI0
+aa(lp68
+V521353020484096001
+p69
+aS' Unconfirmed reports claim that Michael Essien has contracted Ebola.  '
+p70
+aI0
+aa(lp71
+V521353434881327104
+p72
+aS'  fs Joe '
+p73
+aI22
+aa(lp74
+V521350466647891968
+p75
+aS' Unconfirmed reports claim that Michael Essien has contracted Ebola.  '
+p76
+aI0
+aaa(lp77
+(lp78
+V521360486387175424
+p79
+aS'AC Milan midfielder Michael Essien has been diagnosed with Ebola. Get well soon Michael. [Daily Times] '
+p80
+aI0
+aa(lp81
+V521371350934761472
+p82
+aS" no he hasn't. The man himself confirmed not true "
+p83
+aI0
+aa(lp84
+V521368262010224640
+p85
+aS' AC Milan midfielder Michael Essien has been diagnosed with Ebola. Get well soon Michael. [Daily Times] '
+p86
+aI0
+aa(lp87
+V521373767130710016
+p88
+aS' AC Milan midfielder Michael Essien has been diagnosed with Ebola. Get well soon Michael. [Daily Times] '
+p89
+aI0
+aa(lp90
+V521360786409943041
+p91
+aS"  no he hasn't"
+p92
+aI0
+aa(lp93
+V521378427681898498
+p94
+aS'Glad to hear this is just a rumour. Disgusting whoever made this up. Apologies to  and for any offence caused.'
+p95
+aI0
+aa(lp96
+V521468392620834817
+p97
+aS'  '
+p98
+aI0
+aa(lp99
+V521468848466591744
+p100
+aS'   woah wtf '
+p101
+aI6
+aa(lp102
+V521376439099465728
+p103
+aS' AC Milan midfielder Michael Essien has been diagnosed with Ebola. Get well soon Michael. \n\nFuck off'
+p104
+aI0
+aaa.
