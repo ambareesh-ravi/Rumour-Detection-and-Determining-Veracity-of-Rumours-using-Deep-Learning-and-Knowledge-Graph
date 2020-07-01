@@ -6,9 +6,11 @@
 [crfFormula]: ./Images/CRF_Formula.png "CRF Formula"
 [sarcasmModule]: ./Images/Sarcasm_NewArch.png "Sarcasm Module"
 [sarcasmOutput]: ./Images/SarcasmDetectionOutput.JPG "Sarcasm Output"
-[veracityModule]: ./Images/Veracity_Arch_v2.png "Determining Veracity"
+[veracityModule]: ./Images/Veracity_Arch_v2.png "Veracity Prediction"
+[substantiationModule]: ./Images/SubstantiationArchDetailed.PNG "Substantiation Module"
 
 # Rumour-Detection-and-Determining-Veracity-of-Rumours-using-Deep-Learning-and-Knowledge-Graph #
+(*For a quick overview of the project, please go through all the images* 😉)     
 
 1. [Overview](#overview)
 2. [Architecture of the project](#architecture)
@@ -16,6 +18,7 @@
     - [SDQC Classification Module](#sdqc)
     - [Sarcasm Detection Module](#sarcasm)
     - [Veracity Prediction Module](#veracity)
+    - [Substantiation Module](#substantiation)
 
 
 ## Overview <a name="overview"></a>
@@ -45,7 +48,7 @@ The Flow Diagram of the project is given below
 
    ### SDQC Classification <a name="sdqc"></a>
 
-&nbsp; &nbsp; &nbsp; SDQC Classification can be seen as a sequential classification problem which analyses the relationship between different tweets in a tree structure and outputs whether the tweet is in Support, Denial, Query or Commenting with respective to the root tweet. This project proposes a Graph Conditional Random Field which considers the full conversation tree structure. Conditional Random Field (CRF) is a sequence modeling algorithm which not only assumes that the features are dependent on each other, but also considers the future observations while learning a pattern. This combines the best of both HMM (Hidden Markov Model) and MEMM (MaxEnt Markov Model). In terms of performance, it is considered to be the best method for sequential classification.     
+&nbsp; &nbsp; &nbsp; SDQC Classification can be seen as a sequential classification problem which analyses the relationship between different tweets in a tree structure and outputs whether the tweet is in Support, Denial, Query or Commenting with respective to the root tweet. This project proposes a *Graph Conditional Random Field* model which considers the full conversation tree structure. Conditional Random Field (CRF) is a sequence modeling algorithm which not only assumes that the features are dependent on each other, but also considers the future observations while learning a pattern. This combines the best of both HMM (Hidden Markov Model) and MEMM (MaxEnt Markov Model). In terms of performance, it is considered to be the best method for sequential classification.     
      
      
 ![SDQC Module][sdqcModule]
@@ -71,9 +74,16 @@ The idea in theory is to find a pivot(s) in a sentence and split those sentences
 ![Sarcasm Output][sarcasmOutput]
 
 
-
    ### Veracity Prediction <a name="veracity"></a>
 
-&nbsp; &nbsp; &nbsp; Veracity Prediction module is built using a Deep Stacked LSTM Neural Network model to predict whether a tweet is a Rumour or not by capturing the patterns in the tweet related features, user related features and SDQC label predicted in the SDQC module through modelling the conversational structure of tweets. The Dataset used here is RumouEval Dataset provided by SemEval forum.     
+&nbsp; &nbsp; &nbsp; Veracity Prediction module is built using a *Deep Stacked LSTM Neural Network* model to predict whether a tweet is a Rumour or not by capturing the patterns in the tweet related features, user related features and SDQC label predicted in the SDQC module through modelling the conversational structure of tweets. The Dataset used here is RumouEval Dataset provided by SemEval forum.     
      
 ![Veracity Prediction Module][veracityModule]     
+
+
+   ### Substantiation Module <a name="substantiation"></a>
+
+&nbsp; &nbsp; &nbsp; Substantiation Module is created to verify the truthness of a tweet by searching for trusted evidence from the internet. It is implemented by constructing a *Deep Self learning BiLSTM Neural Network* also known as Siamese Network. It is used to capture the sentence similarity using word embeddings implemented using Keras which contains two identical subnetworks, i.e, they have the same configuration with the same parameters and weights and the Parameter updating is mirrored across both subnetworks.           
+&nbsp; &nbsp; &nbsp; In real world, Siamese is a word used to describe twins who were born with some part of their bodies joined together. Initially a predicate is created from the tweet. And a Knowledge Graph is created from the content of trusted sources curated by the Siamese Network by capturing the similarity with the tweet. Then the system checks whether the predicate is present in the Knowledge graph or not and also provides the most similar sentences to substantiate the claim.    
+     
+![Substantiation Module][substantiationModule]     
