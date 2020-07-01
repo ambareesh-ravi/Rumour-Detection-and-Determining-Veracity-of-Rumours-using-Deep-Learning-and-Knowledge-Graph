@@ -6,7 +6,7 @@
 [crfFormula]: ./Images/CRF_Formula.png "CRF Formula"
 [sarcasmModule]: ./Images/Sarcasm_NewArch.png "Sarcasm Module"
 [sarcasmOutput]: ./Images/SarcasmDetectionOutput.JPG "Sarcasm Output"
-[veracityModule]: ./Images/Veracity_Arch_v2.png "Veracity Prediction"
+[veracityModule]: ./Images/Veracity_Arch_v1.png "Veracity Prediction"
 [substantiationModule]: ./Images/SubstantiationArchDetailed.PNG "Substantiation Module"
 
 # Rumour-Detection-and-Determining-Veracity-of-Rumours-using-Deep-Learning-and-Knowledge-Graph #
@@ -19,6 +19,7 @@
     - [Sarcasm Detection Module](#sarcasm)
     - [Veracity Prediction Module](#veracity)
     - [Substantiation Module](#substantiation)
+4. [Conclusion](#conclusion)
 
 
 ## Overview <a name="overview"></a>
@@ -87,3 +88,8 @@ The idea in theory is to find a pivot(s) in a sentence and split those sentences
 &nbsp; &nbsp; &nbsp; In real world, Siamese is a word used to describe twins who were born with some part of their bodies joined together. Initially a predicate is created from the tweet. And a Knowledge Graph is created from the content of trusted sources curated by the Siamese Network by capturing the similarity with the tweet. Then the system checks whether the predicate is present in the Knowledge graph or not and also provides the most similar sentences to substantiate the claim.    
      
 ![Substantiation Module][substantiationModule]     
+      
+
+## Conclusion <a name="conclusion"></a>
+
+&nbsp; &nbsp; &nbsp; *In the near future, this work can be extended to identify suspicious profiles on twitter based on the kind of tweets the profile contains. This can be useful in finding terror groups among users. Also, this work can be the basis of an extension or an application that helps identify fake news.*    
