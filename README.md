@@ -4,6 +4,8 @@
 [architectureDiagram]: ./Images/Arch_v3.png "Architecture Diagram"
 [sdqcModule]: ./Images/SDQC_Arch_v3.png "SDQC Module"
 [crfFormula]: ./Images/CRF_Formula.png "CRF Formula"
+[sarcasmModule]: ./Images/Sarcasm_NewArch.png "Sarcasm Module"
+[sarcasmOutput]: ./Images/SarcasmDetectionOutput.png "Sarcasm Output"
 
 # Rumour-Detection-and-Determining-Veracity-of-Rumours-using-Deep-Learning-and-Knowledge-Graph #
 
@@ -42,10 +44,10 @@ The Flow Diagram of the project is given below
    ### SDQC Classification <a name="sdqc"></a>
 
 &nbsp; &nbsp; &nbsp; SDQC Classification can be seen as a sequential classification problem which analyses the relationship between different tweets in a tree structure and outputs whether the tweet is in Support, Denial, Query or Commenting with respective to the root tweet. This project proposes a Graph Conditional Random Field which considers the full conversation tree structure. Conditional Random Field (CRF) is a sequence modeling algorithm which not only assumes that the features are dependent on each other, but also considers the future observations while learning a pattern. This combines the best of both HMM (Hidden Markov Model) and MEMM (MaxEnt Markov Model). In terms of performance, it is considered to be the best method for sequential classification.     
-
-
+     
+     
 ![SDQC Module][sdqcModule]
-
+     
 Graph CRF is a probabilistic graphical model in which a graph denotes the conditional independence structure between random variables:      
 *Nodes* : random variables     
 *Edges* : dependency relation between random variables.     
@@ -53,3 +55,18 @@ Graph CRF is a probabilistic graphical model in which a graph denotes the condit
 The generalised formula for CRF is     
 
 ![CRF Formula][crfFormula]
+
+
+   ### Sarcasm Detection <a name="sarcasm"></a>
+
+&nbsp; &nbsp; &nbsp; Sarcasm Detection module will determine the sarcastic score of a sentence. The Model will output will a value between -100 to 100 which will then be scaled to the range 0 to 1. The sentence is more likely to be sarcastic when the score is larger.     
+     
+![Sarcasm Module][sarcasmModule]     
+
+
+The idea in theory is to find a pivot(s) in a sentence and split those sentences and analyse them seperately. Most of the times sarcastic sentences have alternating sentiment polarity such as *"Absolutely adore it | when my bus is late"*.  Some of the sample outputs are :      
+     
+![Sarcasm Output][sarcasmOutput]
+
+
+
