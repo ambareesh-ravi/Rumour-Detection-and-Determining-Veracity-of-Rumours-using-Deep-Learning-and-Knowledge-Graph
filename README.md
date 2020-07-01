@@ -2,6 +2,8 @@
 
 [flowDiagram]: ./Images/FlowDiagram.png "Flow Diagram"
 [architectureDiagram]: ./Images/Arch_v3.png "Architecture Diagram"
+[sdqcModule]: ./Images/SDQC_Arch_v3.png "SDQC Module"
+[crfFormula]: ./Images/CRF_Formula.png "CRF Formula"
 
 # Rumour-Detection-and-Determining-Veracity-of-Rumours-using-Deep-Learning-and-Knowledge-Graph #
 
@@ -22,9 +24,7 @@
 
 The Flow Diagram of the project is given below     
      
-
 ![Flow Diagram][flowDiagram]     
-
 
 ## Architecture of the project <a name="architecture"></a>
 
@@ -32,11 +32,24 @@ The Flow Diagram of the project is given below
 
 *Bored of reading the text?.* Take a look into the architecture diagram given below
      
-
 ![Architecture Diagram][architectureDiagram]
 
+## Modules <a name="modules"></a>
+
+&nbsp; &nbsp; &nbsp; This section contains detailed explanation of all the 4 modules.    
 
 
+   ### SDQC Classification <a name="sdqc"></a>
+
+&nbsp; &nbsp; &nbsp; SDQC Classification can be seen as a sequential classification problem which analyses the relationship between different tweets in a tree structure and outputs whether the tweet is in Support, Denial, Query or Commenting with respective to the root tweet. This project proposes a Graph Conditional Random Field which considers the full conversation tree structure. Conditional Random Field (CRF) is a sequence modeling algorithm which not only assumes that the features are dependent on each other, but also considers the future observations while learning a pattern. This combines the best of both HMM (Hidden Markov Model) and MEMM (MaxEnt Markov Model). In terms of performance, it is considered to be the best method for sequential classification.     
 
 
+![SDQC Module][sdqcModule]
 
+Graph CRF is a probabilistic graphical model in which a graph denotes the conditional independence structure between random variables:      
+*Nodes* : random variables     
+*Edges* : dependency relation between random variables.     
+
+The generalised formula for CRF is     
+
+![CRF Formula][crfFormula]
