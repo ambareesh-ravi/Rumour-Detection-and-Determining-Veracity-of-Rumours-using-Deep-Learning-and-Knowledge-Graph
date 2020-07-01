@@ -5,7 +5,8 @@
 [sdqcModule]: ./Images/SDQC_Arch_v3.png "SDQC Module"
 [crfFormula]: ./Images/CRF_Formula.png "CRF Formula"
 [sarcasmModule]: ./Images/Sarcasm_NewArch.png "Sarcasm Module"
-[sarcasmOutput]: ./Images/SarcasmDetectionOutput.png "Sarcasm Output"
+[sarcasmOutput]: ./Images/SarcasmDetectionOutput.JPG "Sarcasm Output"
+[veracityModule]: ./Images/Veracity_Arch_v2.png "Determining Veracity"
 
 # Rumour-Detection-and-Determining-Veracity-of-Rumours-using-Deep-Learning-and-Knowledge-Graph #
 
@@ -14,6 +15,7 @@
 3. [Modules](#modules)
     - [SDQC Classification Module](#sdqc)
     - [Sarcasm Detection Module](#sarcasm)
+    - [Veracity Prediction Module](#veracity)
 
 
 ## Overview <a name="overview"></a>
@@ -59,7 +61,7 @@ The generalised formula for CRF is
 
    ### Sarcasm Detection <a name="sarcasm"></a>
 
-&nbsp; &nbsp; &nbsp; Sarcasm Detection module will determine the sarcastic score of a sentence. The Model will output will a value between -100 to 100 which will then be scaled to the range 0 to 1. The sentence is more likely to be sarcastic when the score is larger.     
+&nbsp; &nbsp; &nbsp; Sarcasm Detection module will determine the sarcastic score of a sentence. The Model will output will a value between -100 to 100 which will then be scaled to the range 0 to 1. The sentence is more likely to be sarcastic when the score is larger. This label will be used in the SDQC Module as a feature. For example, if a sentence is labelled as Support to the root tweet but it is actually sarcastic sentence, then the actual label should be Denial since it is sarcastically positive.     
      
 ![Sarcasm Module][sarcasmModule]     
 
@@ -70,3 +72,8 @@ The idea in theory is to find a pivot(s) in a sentence and split those sentences
 
 
 
+   ### Veracity Prediction <a name="veracity"></a>
+
+&nbsp; &nbsp; &nbsp; Veracity Prediction module is built using a Deep Stacked LSTM Neural Network model to predict whether a tweet is a Rumour or not by capturing the patterns in the tweet related features, user related features and SDQC label predicted in the SDQC module through modelling the conversational structure of tweets. The Dataset used here is RumouEval Dataset provided by SemEval forum.     
+     
+![Veracity Prediction Module][veracityModule]     
